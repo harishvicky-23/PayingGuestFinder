@@ -1,0 +1,39 @@
+# ==============================================================================
+# StayNearby — Production & Hosting Requirements (Python 3.12+)
+# ==============================================================================
+
+# Core Web Framework & ASGI Server
+fastapi>=0.109.2,<1.0.0
+uvicorn[standard]>=0.27.1,<1.0.0
+python-multipart>=0.0.9
+
+# Relational Database, ORM & Migrations
+SQLAlchemy>=2.0.25,<3.0.0
+alembic>=1.13.0,<2.0.0
+# PostgreSQL driver for production deployments (e.g. Render, Railway, Supabase, RDS)
+psycopg2-binary>=2.9.9
+
+# Validation & Settings
+pydantic>=2.6.0,<3.0.0
+pydantic-settings>=2.1.0,<3.0.0
+
+# Authentication & Security
+python-jose[cryptography]>=3.3.0
+passlib[bcrypt]>=1.7.4
+bcrypt>=4.0.1,<5.0.0
+
+# Machine Learning & Scientific Computing
+scikit-learn>=1.4.0,<2.0.0
+pandas>=2.2.0,<3.0.0
+numpy>=1.26.0,<3.0.0
+scipy>=1.12.0,<2.0.0
+joblib>=1.3.0,<2.0.0
+
+# MLOps & Experiment Tracking (Lightweight version without heavy cloud CLIs)
+mlflow-skinny>=2.10.0,<3.0.0
+
+# HTTP Client & Starlette Test Integration (Pinned for ASGI TestClient compatibility)
+httpx>=0.27.0,<=0.27.2
+
+# Testing Framework
+pytest>=8.0.0
