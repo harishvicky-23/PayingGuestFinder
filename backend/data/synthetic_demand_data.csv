@@ -1,0 +1,2881 @@
+neighbourhood,date,day_of_week,is_weekend,month,time_slot,available_listings,avg_price,historical_requests,occupancy_rate,actual_requests,is_synthetic
+Guindy,2026-08-01,5,1,8,morning,22,474.84,10,0.41,9,True
+Guindy,2026-08-01,5,1,8,afternoon,22,474.84,13,0.55,12,True
+Guindy,2026-08-01,5,1,8,evening,22,474.84,17,0.95,21,True
+Guindy,2026-08-01,5,1,8,night,22,474.84,6,0.18,4,True
+Velachery,2026-08-01,5,1,8,morning,32,429.39,8,0.25,8,True
+Velachery,2026-08-01,5,1,8,afternoon,32,429.39,13,0.38,12,True
+Velachery,2026-08-01,5,1,8,evening,32,429.39,15,0.31,10,True
+Velachery,2026-08-01,5,1,8,night,32,429.39,6,0.22,7,True
+Adyar,2026-08-01,5,1,8,morning,27,428.6,10,0.33,9,True
+Adyar,2026-08-01,5,1,8,afternoon,27,428.6,15,0.59,16,True
+Adyar,2026-08-01,5,1,8,evening,27,428.6,20,0.63,17,True
+Adyar,2026-08-01,5,1,8,night,27,428.6,7,0.33,9,True
+T. Nagar,2026-08-01,5,1,8,morning,20,444.76,14,0.6,12,True
+T. Nagar,2026-08-01,5,1,8,afternoon,20,444.76,20,1.0,20,True
+T. Nagar,2026-08-01,5,1,8,evening,20,444.76,21,1.0,24,True
+T. Nagar,2026-08-01,5,1,8,night,20,444.76,9,0.3,6,True
+Anna Nagar,2026-08-01,5,1,8,morning,13,491.13,12,0.77,10,True
+Anna Nagar,2026-08-01,5,1,8,afternoon,13,491.13,16,1.0,19,True
+Anna Nagar,2026-08-01,5,1,8,evening,13,491.13,22,1.0,18,True
+Anna Nagar,2026-08-01,5,1,8,night,13,491.13,8,0.23,3,True
+Mylapore,2026-08-01,5,1,8,morning,27,397.81,7,0.33,9,True
+Mylapore,2026-08-01,5,1,8,afternoon,27,397.81,12,0.26,7,True
+Mylapore,2026-08-01,5,1,8,evening,27,397.81,13,0.52,14,True
+Mylapore,2026-08-01,5,1,8,night,27,397.81,5,0.22,6,True
+OMR (Thoraipakkam),2026-08-01,5,1,8,morning,24,454.82,9,0.46,11,True
+OMR (Thoraipakkam),2026-08-01,5,1,8,afternoon,24,454.82,16,0.67,16,True
+OMR (Thoraipakkam),2026-08-01,5,1,8,evening,24,454.82,18,0.79,19,True
+OMR (Thoraipakkam),2026-08-01,5,1,8,night,24,454.82,6,0.25,6,True
+Nungambakkam,2026-08-01,5,1,8,morning,18,418.83,8,0.44,8,True
+Nungambakkam,2026-08-01,5,1,8,afternoon,18,418.83,12,0.83,15,True
+Nungambakkam,2026-08-01,5,1,8,evening,18,418.83,15,0.94,17,True
+Nungambakkam,2026-08-01,5,1,8,night,18,418.83,5,0.44,8,True
+Guindy,2026-08-02,6,1,8,morning,26,347.78,10,0.46,12,True
+Guindy,2026-08-02,6,1,8,afternoon,26,347.78,15,0.58,15,True
+Guindy,2026-08-02,6,1,8,evening,26,347.78,17,0.77,20,True
+Guindy,2026-08-02,6,1,8,night,26,347.78,5,0.04,1,True
+Velachery,2026-08-02,6,1,8,morning,24,491.1,9,0.38,9,True
+Velachery,2026-08-02,6,1,8,afternoon,24,491.1,13,0.54,13,True
+Velachery,2026-08-02,6,1,8,evening,24,491.1,16,0.58,14,True
+Velachery,2026-08-02,6,1,8,night,24,491.1,6,0.25,6,True
+Adyar,2026-08-02,6,1,8,morning,13,531.15,11,0.92,12,True
+Adyar,2026-08-02,6,1,8,afternoon,13,531.15,15,1.0,14,True
+Adyar,2026-08-02,6,1,8,evening,13,531.15,17,1.0,18,True
+Adyar,2026-08-02,6,1,8,night,13,531.15,6,0.62,8,True
+T. Nagar,2026-08-02,6,1,8,morning,34,439.52,12,0.38,13,True
+T. Nagar,2026-08-02,6,1,8,afternoon,34,439.52,19,0.65,22,True
+T. Nagar,2026-08-02,6,1,8,evening,34,439.52,25,0.76,26,True
+T. Nagar,2026-08-02,6,1,8,night,34,439.52,8,0.24,8,True
+Anna Nagar,2026-08-02,6,1,8,morning,16,317.24,12,0.81,13,True
+Anna Nagar,2026-08-02,6,1,8,afternoon,16,317.24,17,1.0,16,True
+Anna Nagar,2026-08-02,6,1,8,evening,16,317.24,20,1.0,19,True
+Anna Nagar,2026-08-02,6,1,8,night,16,317.24,7,0.19,3,True
+Mylapore,2026-08-02,6,1,8,morning,31,513.19,8,0.29,9,True
+Mylapore,2026-08-02,6,1,8,afternoon,31,513.19,10,0.29,9,True
+Mylapore,2026-08-02,6,1,8,evening,31,513.19,11,0.39,12,True
+Mylapore,2026-08-02,6,1,8,night,31,513.19,4,0.16,5,True
+OMR (Thoraipakkam),2026-08-02,6,1,8,morning,32,521.68,10,0.38,12,True
+OMR (Thoraipakkam),2026-08-02,6,1,8,afternoon,32,521.68,14,0.53,17,True
+OMR (Thoraipakkam),2026-08-02,6,1,8,evening,32,521.68,18,0.59,19,True
+OMR (Thoraipakkam),2026-08-02,6,1,8,night,32,521.68,6,0.28,9,True
+Nungambakkam,2026-08-02,6,1,8,morning,22,379.91,8,0.41,9,True
+Nungambakkam,2026-08-02,6,1,8,afternoon,22,379.91,13,0.64,14,True
+Nungambakkam,2026-08-02,6,1,8,evening,22,379.91,14,0.73,16,True
+Nungambakkam,2026-08-02,6,1,8,night,22,379.91,5,0.27,6,True
+Guindy,2026-08-03,0,0,8,morning,31,494.38,12,0.42,13,True
+Guindy,2026-08-03,0,0,8,afternoon,31,494.38,18,0.61,19,True
+Guindy,2026-08-03,0,0,8,evening,31,494.38,23,0.61,19,True
+Guindy,2026-08-03,0,0,8,night,31,494.38,7,0.23,7,True
+Velachery,2026-08-03,0,0,8,morning,34,405.72,8,0.38,13,True
+Velachery,2026-08-03,0,0,8,afternoon,34,405.72,12,0.41,14,True
+Velachery,2026-08-03,0,0,8,evening,34,405.72,15,0.44,15,True
+Velachery,2026-08-03,0,0,8,night,34,405.72,6,0.18,6,True
+Adyar,2026-08-03,0,0,8,morning,34,453.14,8,0.26,9,True
+Adyar,2026-08-03,0,0,8,afternoon,34,453.14,13,0.44,15,True
+Adyar,2026-08-03,0,0,8,evening,34,453.14,15,0.35,12,True
+Adyar,2026-08-03,0,0,8,night,34,453.14,5,0.18,6,True
+T. Nagar,2026-08-03,0,0,8,morning,19,510.85,11,0.63,12,True
+T. Nagar,2026-08-03,0,0,8,afternoon,19,510.85,15,0.95,18,True
+T. Nagar,2026-08-03,0,0,8,evening,19,510.85,18,0.84,16,True
+T. Nagar,2026-08-03,0,0,8,night,19,510.85,6,0.21,4,True
+Anna Nagar,2026-08-03,0,0,8,morning,27,449.76,10,0.3,8,True
+Anna Nagar,2026-08-03,0,0,8,afternoon,27,449.76,14,0.59,16,True
+Anna Nagar,2026-08-03,0,0,8,evening,27,449.76,16,0.63,17,True
+Anna Nagar,2026-08-03,0,0,8,night,27,449.76,5,0.19,5,True
+Mylapore,2026-08-03,0,0,8,morning,25,412.31,7,0.32,8,True
+Mylapore,2026-08-03,0,0,8,afternoon,25,412.31,12,0.44,11,True
+Mylapore,2026-08-03,0,0,8,evening,25,412.31,13,0.36,9,True
+Mylapore,2026-08-03,0,0,8,night,25,412.31,5,0.12,3,True
+OMR (Thoraipakkam),2026-08-03,0,0,8,morning,27,431.34,12,0.52,14,True
+OMR (Thoraipakkam),2026-08-03,0,0,8,afternoon,27,431.34,18,0.7,19,True
+OMR (Thoraipakkam),2026-08-03,0,0,8,evening,27,431.34,24,0.81,22,True
+OMR (Thoraipakkam),2026-08-03,0,0,8,night,27,431.34,9,0.3,8,True
+Nungambakkam,2026-08-03,0,0,8,morning,14,487.02,8,0.5,7,True
+Nungambakkam,2026-08-03,0,0,8,afternoon,14,487.02,13,0.79,11,True
+Nungambakkam,2026-08-03,0,0,8,evening,14,487.02,16,0.86,12,True
+Nungambakkam,2026-08-03,0,0,8,night,14,487.02,6,0.14,2,True
+Guindy,2026-08-04,1,0,8,morning,21,392.61,13,0.71,15,True
+Guindy,2026-08-04,1,0,8,afternoon,21,392.61,19,0.95,20,True
+Guindy,2026-08-04,1,0,8,evening,21,392.61,20,1.0,23,True
+Guindy,2026-08-04,1,0,8,night,21,392.61,8,0.43,9,True
+Velachery,2026-08-04,1,0,8,morning,24,419.8,8,0.25,6,True
+Velachery,2026-08-04,1,0,8,afternoon,24,419.8,13,0.58,14,True
+Velachery,2026-08-04,1,0,8,evening,24,419.8,15,0.67,16,True
+Velachery,2026-08-04,1,0,8,night,24,419.8,6,0.21,5,True
+Adyar,2026-08-04,1,0,8,morning,33,404.33,8,0.21,7,True
+Adyar,2026-08-04,1,0,8,afternoon,33,404.33,11,0.33,11,True
+Adyar,2026-08-04,1,0,8,evening,33,404.33,14,0.48,16,True
+Adyar,2026-08-04,1,0,8,night,33,404.33,5,0.12,4,True
+T. Nagar,2026-08-04,1,0,8,morning,15,483.98,10,0.67,10,True
+T. Nagar,2026-08-04,1,0,8,afternoon,15,483.98,16,1.0,16,True
+T. Nagar,2026-08-04,1,0,8,evening,15,483.98,18,1.0,18,True
+T. Nagar,2026-08-04,1,0,8,night,15,483.98,7,0.4,6,True
+Anna Nagar,2026-08-04,1,0,8,morning,34,413.37,9,0.24,8,True
+Anna Nagar,2026-08-04,1,0,8,afternoon,34,413.37,15,0.38,13,True
+Anna Nagar,2026-08-04,1,0,8,evening,34,413.37,16,0.47,16,True
+Anna Nagar,2026-08-04,1,0,8,night,34,413.37,5,0.15,5,True
+Mylapore,2026-08-04,1,0,8,morning,24,439.77,7,0.33,8,True
+Mylapore,2026-08-04,1,0,8,afternoon,24,439.77,11,0.58,14,True
+Mylapore,2026-08-04,1,0,8,evening,24,439.77,13,0.46,11,True
+Mylapore,2026-08-04,1,0,8,night,24,439.77,4,0.08,2,True
+OMR (Thoraipakkam),2026-08-04,1,0,8,morning,27,438.13,13,0.59,16,True
+OMR (Thoraipakkam),2026-08-04,1,0,8,afternoon,27,438.13,19,0.67,18,True
+OMR (Thoraipakkam),2026-08-04,1,0,8,evening,27,438.13,20,0.67,18,True
+OMR (Thoraipakkam),2026-08-04,1,0,8,night,27,438.13,8,0.3,8,True
+Nungambakkam,2026-08-04,1,0,8,morning,24,487.8,9,0.33,8,True
+Nungambakkam,2026-08-04,1,0,8,afternoon,24,487.8,14,0.54,13,True
+Nungambakkam,2026-08-04,1,0,8,evening,24,487.8,15,0.46,11,True
+Nungambakkam,2026-08-04,1,0,8,night,24,487.8,5,0.33,8,True
+Guindy,2026-08-05,2,0,8,morning,14,484.34,13,0.86,12,True
+Guindy,2026-08-05,2,0,8,afternoon,14,484.34,17,1.0,16,True
+Guindy,2026-08-05,2,0,8,evening,14,484.34,20,1.0,22,True
+Guindy,2026-08-05,2,0,8,night,14,484.34,8,0.5,7,True
+Velachery,2026-08-05,2,0,8,morning,34,444.43,9,0.24,8,True
+Velachery,2026-08-05,2,0,8,afternoon,34,444.43,12,0.35,12,True
+Velachery,2026-08-05,2,0,8,evening,34,444.43,14,0.41,14,True
+Velachery,2026-08-05,2,0,8,night,34,444.43,6,0.21,7,True
+Adyar,2026-08-05,2,0,8,morning,15,494.98,8,0.6,9,True
+Adyar,2026-08-05,2,0,8,afternoon,15,494.98,12,0.8,12,True
+Adyar,2026-08-05,2,0,8,evening,15,494.98,14,1.0,15,True
+Adyar,2026-08-05,2,0,8,night,15,494.98,5,0.53,8,True
+T. Nagar,2026-08-05,2,0,8,morning,28,476.4,11,0.32,9,True
+T. Nagar,2026-08-05,2,0,8,afternoon,28,476.4,17,0.64,18,True
+T. Nagar,2026-08-05,2,0,8,evening,28,476.4,19,0.75,21,True
+T. Nagar,2026-08-05,2,0,8,night,28,476.4,6,0.21,6,True
+Anna Nagar,2026-08-05,2,0,8,morning,27,450.61,9,0.41,11,True
+Anna Nagar,2026-08-05,2,0,8,afternoon,27,450.61,13,0.48,13,True
+Anna Nagar,2026-08-05,2,0,8,evening,27,450.61,18,0.59,16,True
+Anna Nagar,2026-08-05,2,0,8,night,27,450.61,6,0.19,5,True
+Mylapore,2026-08-05,2,0,8,morning,31,499.2,7,0.35,11,True
+Mylapore,2026-08-05,2,0,8,afternoon,31,499.2,10,0.42,13,True
+Mylapore,2026-08-05,2,0,8,evening,31,499.2,13,0.48,15,True
+Mylapore,2026-08-05,2,0,8,night,31,499.2,5,0.06,2,True
+OMR (Thoraipakkam),2026-08-05,2,0,8,morning,16,415.04,13,0.75,12,True
+OMR (Thoraipakkam),2026-08-05,2,0,8,afternoon,16,415.04,21,1.0,22,True
+OMR (Thoraipakkam),2026-08-05,2,0,8,evening,16,415.04,23,1.0,23,True
+OMR (Thoraipakkam),2026-08-05,2,0,8,night,16,415.04,8,0.5,8,True
+Nungambakkam,2026-08-05,2,0,8,morning,25,454.14,9,0.32,8,True
+Nungambakkam,2026-08-05,2,0,8,afternoon,25,454.14,13,0.52,13,True
+Nungambakkam,2026-08-05,2,0,8,evening,25,454.14,16,0.68,17,True
+Nungambakkam,2026-08-05,2,0,8,night,25,454.14,6,0.16,4,True
+Guindy,2026-08-06,3,0,8,morning,30,416.79,13,0.5,15,True
+Guindy,2026-08-06,3,0,8,afternoon,30,416.79,19,0.47,14,True
+Guindy,2026-08-06,3,0,8,evening,30,416.79,19,0.8,24,True
+Guindy,2026-08-06,3,0,8,night,30,416.79,7,0.23,7,True
+Velachery,2026-08-06,3,0,8,morning,31,449.77,9,0.35,11,True
+Velachery,2026-08-06,3,0,8,afternoon,31,449.77,14,0.48,15,True
+Velachery,2026-08-06,3,0,8,evening,31,449.77,17,0.42,13,True
+Velachery,2026-08-06,3,0,8,night,31,449.77,5,0.13,4,True
+Adyar,2026-08-06,3,0,8,morning,22,453.48,9,0.45,10,True
+Adyar,2026-08-06,3,0,8,afternoon,22,453.48,11,0.64,14,True
+Adyar,2026-08-06,3,0,8,evening,22,453.48,13,0.55,12,True
+Adyar,2026-08-06,3,0,8,night,22,453.48,5,0.18,4,True
+T. Nagar,2026-08-06,3,0,8,morning,33,401.64,9,0.36,12,True
+T. Nagar,2026-08-06,3,0,8,afternoon,33,401.64,15,0.48,16,True
+T. Nagar,2026-08-06,3,0,8,evening,33,401.64,17,0.7,23,True
+T. Nagar,2026-08-06,3,0,8,night,33,401.64,6,0.15,5,True
+Anna Nagar,2026-08-06,3,0,8,morning,29,343.81,9,0.28,8,True
+Anna Nagar,2026-08-06,3,0,8,afternoon,29,343.81,14,0.38,11,True
+Anna Nagar,2026-08-06,3,0,8,evening,29,343.81,15,0.52,15,True
+Anna Nagar,2026-08-06,3,0,8,night,29,343.81,6,0.14,4,True
+Mylapore,2026-08-06,3,0,8,morning,27,369.97,7,0.33,9,True
+Mylapore,2026-08-06,3,0,8,afternoon,27,369.97,12,0.52,14,True
+Mylapore,2026-08-06,3,0,8,evening,27,369.97,13,0.44,12,True
+Mylapore,2026-08-06,3,0,8,night,27,369.97,5,0.15,4,True
+OMR (Thoraipakkam),2026-08-06,3,0,8,morning,33,464.77,13,0.3,10,True
+OMR (Thoraipakkam),2026-08-06,3,0,8,afternoon,33,464.77,17,0.52,17,True
+OMR (Thoraipakkam),2026-08-06,3,0,8,evening,33,464.77,20,0.67,22,True
+OMR (Thoraipakkam),2026-08-06,3,0,8,night,33,464.77,8,0.24,8,True
+Nungambakkam,2026-08-06,3,0,8,morning,14,545.58,9,0.79,11,True
+Nungambakkam,2026-08-06,3,0,8,afternoon,14,545.58,13,0.93,13,True
+Nungambakkam,2026-08-06,3,0,8,evening,14,545.58,14,1.0,14,True
+Nungambakkam,2026-08-06,3,0,8,night,14,545.58,6,0.14,2,True
+Guindy,2026-08-07,4,0,8,morning,28,381.57,13,0.46,13,True
+Guindy,2026-08-07,4,0,8,afternoon,28,381.57,18,0.64,18,True
+Guindy,2026-08-07,4,0,8,evening,28,381.57,22,0.71,20,True
+Guindy,2026-08-07,4,0,8,night,28,381.57,8,0.32,9,True
+Velachery,2026-08-07,4,0,8,morning,28,421.53,9,0.36,10,True
+Velachery,2026-08-07,4,0,8,afternoon,28,421.53,12,0.57,16,True
+Velachery,2026-08-07,4,0,8,evening,28,421.53,15,0.64,18,True
+Velachery,2026-08-07,4,0,8,night,28,421.53,5,0.07,2,True
+Adyar,2026-08-07,4,0,8,morning,17,436.53,8,0.53,9,True
+Adyar,2026-08-07,4,0,8,afternoon,17,436.53,12,0.65,11,True
+Adyar,2026-08-07,4,0,8,evening,17,436.53,15,0.88,15,True
+Adyar,2026-08-07,4,0,8,night,17,436.53,5,0.29,5,True
+T. Nagar,2026-08-07,4,0,8,morning,28,520.98,11,0.36,10,True
+T. Nagar,2026-08-07,4,0,8,afternoon,28,520.98,16,0.43,12,True
+T. Nagar,2026-08-07,4,0,8,evening,28,520.98,17,0.71,20,True
+T. Nagar,2026-08-07,4,0,8,night,28,520.98,6,0.14,4,True
+Anna Nagar,2026-08-07,4,0,8,morning,14,394.94,10,0.71,10,True
+Anna Nagar,2026-08-07,4,0,8,afternoon,14,394.94,14,1.0,15,True
+Anna Nagar,2026-08-07,4,0,8,evening,14,394.94,15,1.0,16,True
+Anna Nagar,2026-08-07,4,0,8,night,14,394.94,6,0.36,5,True
+Mylapore,2026-08-07,4,0,8,morning,33,502.27,7,0.12,4,True
+Mylapore,2026-08-07,4,0,8,afternoon,33,502.27,11,0.3,10,True
+Mylapore,2026-08-07,4,0,8,evening,33,502.27,13,0.36,12,True
+Mylapore,2026-08-07,4,0,8,night,33,502.27,5,0.15,5,True
+OMR (Thoraipakkam),2026-08-07,4,0,8,morning,28,492.57,13,0.39,11,True
+OMR (Thoraipakkam),2026-08-07,4,0,8,afternoon,28,492.57,20,0.68,19,True
+OMR (Thoraipakkam),2026-08-07,4,0,8,evening,28,492.57,21,0.82,23,True
+OMR (Thoraipakkam),2026-08-07,4,0,8,night,28,492.57,8,0.29,8,True
+Nungambakkam,2026-08-07,4,0,8,morning,25,529.86,9,0.4,10,True
+Nungambakkam,2026-08-07,4,0,8,afternoon,25,529.86,11,0.56,14,True
+Nungambakkam,2026-08-07,4,0,8,evening,25,529.86,14,0.56,14,True
+Nungambakkam,2026-08-07,4,0,8,night,25,529.86,5,0.28,7,True
+Guindy,2026-08-08,5,1,8,morning,18,411.45,9,0.61,11,True
+Guindy,2026-08-08,5,1,8,afternoon,18,411.45,13,0.72,13,True
+Guindy,2026-08-08,5,1,8,evening,18,411.45,18,0.83,15,True
+Guindy,2026-08-08,5,1,8,night,18,411.45,6,0.5,9,True
+Velachery,2026-08-08,5,1,8,morning,24,494.08,9,0.58,14,True
+Velachery,2026-08-08,5,1,8,afternoon,24,494.08,13,0.5,12,True
+Velachery,2026-08-08,5,1,8,evening,24,494.08,15,0.75,18,True
+Velachery,2026-08-08,5,1,8,night,24,494.08,5,0.38,9,True
+Adyar,2026-08-08,5,1,8,morning,24,461.3,10,0.5,12,True
+Adyar,2026-08-08,5,1,8,afternoon,24,461.3,16,0.58,14,True
+Adyar,2026-08-08,5,1,8,evening,24,461.3,19,0.67,16,True
+Adyar,2026-08-08,5,1,8,night,24,461.3,7,0.29,7,True
+T. Nagar,2026-08-08,5,1,8,morning,26,495.39,13,0.46,12,True
+T. Nagar,2026-08-08,5,1,8,afternoon,26,495.39,21,0.85,22,True
+T. Nagar,2026-08-08,5,1,8,evening,26,495.39,24,0.92,24,True
+T. Nagar,2026-08-08,5,1,8,night,26,495.39,8,0.38,10,True
+Anna Nagar,2026-08-08,5,1,8,morning,33,416.87,12,0.39,13,True
+Anna Nagar,2026-08-08,5,1,8,afternoon,33,416.87,18,0.58,19,True
+Anna Nagar,2026-08-08,5,1,8,evening,33,416.87,22,0.58,19,True
+Anna Nagar,2026-08-08,5,1,8,night,33,416.87,7,0.21,7,True
+Mylapore,2026-08-08,5,1,8,morning,15,456.93,7,0.6,9,True
+Mylapore,2026-08-08,5,1,8,afternoon,15,456.93,11,0.47,7,True
+Mylapore,2026-08-08,5,1,8,evening,15,456.93,12,1.0,17,True
+Mylapore,2026-08-08,5,1,8,night,15,456.93,5,0.53,8,True
+OMR (Thoraipakkam),2026-08-08,5,1,8,morning,14,569.49,10,0.64,9,True
+OMR (Thoraipakkam),2026-08-08,5,1,8,afternoon,14,569.49,14,1.0,15,True
+OMR (Thoraipakkam),2026-08-08,5,1,8,evening,14,569.49,16,1.0,18,True
+OMR (Thoraipakkam),2026-08-08,5,1,8,night,14,569.49,7,0.5,7,True
+Nungambakkam,2026-08-08,5,1,8,morning,19,529.01,9,0.47,9,True
+Nungambakkam,2026-08-08,5,1,8,afternoon,19,529.01,13,0.74,14,True
+Nungambakkam,2026-08-08,5,1,8,evening,19,529.01,15,0.74,14,True
+Nungambakkam,2026-08-08,5,1,8,night,19,529.01,6,0.21,4,True
+Guindy,2026-08-09,6,1,8,morning,29,491.01,10,0.21,6,True
+Guindy,2026-08-09,6,1,8,afternoon,29,491.01,14,0.34,10,True
+Guindy,2026-08-09,6,1,8,evening,29,491.01,16,0.52,15,True
+Guindy,2026-08-09,6,1,8,night,29,491.01,6,0.21,6,True
+Velachery,2026-08-09,6,1,8,morning,12,533.82,8,0.83,10,True
+Velachery,2026-08-09,6,1,8,afternoon,12,533.82,12,0.75,9,True
+Velachery,2026-08-09,6,1,8,evening,12,533.82,15,0.92,11,True
+Velachery,2026-08-09,6,1,8,night,12,533.82,6,0.67,8,True
+Adyar,2026-08-09,6,1,8,morning,26,405.91,11,0.42,11,True
+Adyar,2026-08-09,6,1,8,afternoon,26,405.91,17,0.69,18,True
+Adyar,2026-08-09,6,1,8,evening,26,405.91,17,0.69,18,True
+Adyar,2026-08-09,6,1,8,night,26,405.91,7,0.15,4,True
+T. Nagar,2026-08-09,6,1,8,morning,15,409.15,15,1.0,17,True
+T. Nagar,2026-08-09,6,1,8,afternoon,15,409.15,20,1.0,21,True
+T. Nagar,2026-08-09,6,1,8,evening,15,409.15,22,1.0,26,True
+T. Nagar,2026-08-09,6,1,8,night,15,409.15,8,0.53,8,True
+Anna Nagar,2026-08-09,6,1,8,morning,30,498.19,12,0.47,14,True
+Anna Nagar,2026-08-09,6,1,8,afternoon,30,498.19,17,0.5,15,True
+Anna Nagar,2026-08-09,6,1,8,evening,30,498.19,20,0.7,21,True
+Anna Nagar,2026-08-09,6,1,8,night,30,498.19,7,0.27,8,True
+Mylapore,2026-08-09,6,1,8,morning,26,491.78,8,0.35,9,True
+Mylapore,2026-08-09,6,1,8,afternoon,26,491.78,10,0.31,8,True
+Mylapore,2026-08-09,6,1,8,evening,26,491.78,13,0.46,12,True
+Mylapore,2026-08-09,6,1,8,night,26,491.78,5,0.15,4,True
+OMR (Thoraipakkam),2026-08-09,6,1,8,morning,20,510.25,10,0.55,11,True
+OMR (Thoraipakkam),2026-08-09,6,1,8,afternoon,20,510.25,16,0.75,15,True
+OMR (Thoraipakkam),2026-08-09,6,1,8,evening,20,510.25,17,0.9,18,True
+OMR (Thoraipakkam),2026-08-09,6,1,8,night,20,510.25,6,0.55,11,True
+Nungambakkam,2026-08-09,6,1,8,morning,20,476.2,9,0.35,7,True
+Nungambakkam,2026-08-09,6,1,8,afternoon,20,476.2,13,0.7,14,True
+Nungambakkam,2026-08-09,6,1,8,evening,20,476.2,16,0.7,14,True
+Nungambakkam,2026-08-09,6,1,8,night,20,476.2,6,0.15,3,True
+Guindy,2026-08-10,0,0,8,morning,28,372.21,12,0.21,6,True
+Guindy,2026-08-10,0,0,8,afternoon,28,372.21,17,0.68,19,True
+Guindy,2026-08-10,0,0,8,evening,28,372.21,19,0.64,18,True
+Guindy,2026-08-10,0,0,8,night,28,372.21,7,0.36,10,True
+Velachery,2026-08-10,0,0,8,morning,29,415.09,10,0.24,7,True
+Velachery,2026-08-10,0,0,8,afternoon,29,415.09,12,0.48,14,True
+Velachery,2026-08-10,0,0,8,evening,29,415.09,17,0.48,14,True
+Velachery,2026-08-10,0,0,8,night,29,415.09,6,0.17,5,True
+Adyar,2026-08-10,0,0,8,morning,34,416.12,8,0.24,8,True
+Adyar,2026-08-10,0,0,8,afternoon,34,416.12,12,0.32,11,True
+Adyar,2026-08-10,0,0,8,evening,34,416.12,14,0.47,16,True
+Adyar,2026-08-10,0,0,8,night,34,416.12,5,0.21,7,True
+T. Nagar,2026-08-10,0,0,8,morning,12,430.27,10,0.83,10,True
+T. Nagar,2026-08-10,0,0,8,afternoon,12,430.27,15,1.0,19,True
+T. Nagar,2026-08-10,0,0,8,evening,12,430.27,17,1.0,21,True
+T. Nagar,2026-08-10,0,0,8,night,12,430.27,6,0.17,2,True
+Anna Nagar,2026-08-10,0,0,8,morning,25,379.62,9,0.32,8,True
+Anna Nagar,2026-08-10,0,0,8,afternoon,25,379.62,13,0.64,16,True
+Anna Nagar,2026-08-10,0,0,8,evening,25,379.62,15,0.48,12,True
+Anna Nagar,2026-08-10,0,0,8,night,25,379.62,6,0.44,11,True
+Mylapore,2026-08-10,0,0,8,morning,16,457.45,7,0.5,8,True
+Mylapore,2026-08-10,0,0,8,afternoon,16,457.45,10,0.56,9,True
+Mylapore,2026-08-10,0,0,8,evening,16,457.45,13,0.88,14,True
+Mylapore,2026-08-10,0,0,8,night,16,457.45,5,0.19,3,True
+OMR (Thoraipakkam),2026-08-10,0,0,8,morning,32,532.32,12,0.31,10,True
+OMR (Thoraipakkam),2026-08-10,0,0,8,afternoon,32,532.32,19,0.56,18,True
+OMR (Thoraipakkam),2026-08-10,0,0,8,evening,32,532.32,23,0.66,21,True
+OMR (Thoraipakkam),2026-08-10,0,0,8,night,32,532.32,8,0.25,8,True
+Nungambakkam,2026-08-10,0,0,8,morning,12,493.5,8,0.58,7,True
+Nungambakkam,2026-08-10,0,0,8,afternoon,12,493.5,12,1.0,15,True
+Nungambakkam,2026-08-10,0,0,8,evening,12,493.5,15,1.0,12,True
+Nungambakkam,2026-08-10,0,0,8,night,12,493.5,5,0.5,6,True
+Guindy,2026-08-11,1,0,8,morning,23,345.9,11,0.65,15,True
+Guindy,2026-08-11,1,0,8,afternoon,23,345.9,20,0.78,18,True
+Guindy,2026-08-11,1,0,8,evening,23,345.9,21,0.83,19,True
+Guindy,2026-08-11,1,0,8,night,23,345.9,8,0.3,7,True
+Velachery,2026-08-11,1,0,8,morning,20,382.86,8,0.65,13,True
+Velachery,2026-08-11,1,0,8,afternoon,20,382.86,12,0.75,15,True
+Velachery,2026-08-11,1,0,8,evening,20,382.86,15,0.65,13,True
+Velachery,2026-08-11,1,0,8,night,20,382.86,5,0.3,6,True
+Adyar,2026-08-11,1,0,8,morning,28,368.52,8,0.32,9,True
+Adyar,2026-08-11,1,0,8,afternoon,28,368.52,11,0.57,16,True
+Adyar,2026-08-11,1,0,8,evening,28,368.52,13,0.5,14,True
+Adyar,2026-08-11,1,0,8,night,28,368.52,5,0.11,3,True
+T. Nagar,2026-08-11,1,0,8,morning,13,404.52,10,1.0,14,True
+T. Nagar,2026-08-11,1,0,8,afternoon,13,404.52,17,1.0,18,True
+T. Nagar,2026-08-11,1,0,8,evening,13,404.52,18,1.0,15,True
+T. Nagar,2026-08-11,1,0,8,night,13,404.52,6,0.31,4,True
+Anna Nagar,2026-08-11,1,0,8,morning,30,475.88,8,0.27,8,True
+Anna Nagar,2026-08-11,1,0,8,afternoon,30,475.88,15,0.43,13,True
+Anna Nagar,2026-08-11,1,0,8,evening,30,475.88,17,0.63,19,True
+Anna Nagar,2026-08-11,1,0,8,night,30,475.88,6,0.23,7,True
+Mylapore,2026-08-11,1,0,8,morning,33,456.65,7,0.21,7,True
+Mylapore,2026-08-11,1,0,8,afternoon,33,456.65,11,0.27,9,True
+Mylapore,2026-08-11,1,0,8,evening,33,456.65,13,0.39,13,True
+Mylapore,2026-08-11,1,0,8,night,33,456.65,5,0.12,4,True
+OMR (Thoraipakkam),2026-08-11,1,0,8,morning,13,468.73,12,0.77,10,True
+OMR (Thoraipakkam),2026-08-11,1,0,8,afternoon,13,468.73,19,1.0,19,True
+OMR (Thoraipakkam),2026-08-11,1,0,8,evening,13,468.73,23,1.0,21,True
+OMR (Thoraipakkam),2026-08-11,1,0,8,night,13,468.73,8,0.38,5,True
+Nungambakkam,2026-08-11,1,0,8,morning,16,429.98,9,0.62,10,True
+Nungambakkam,2026-08-11,1,0,8,afternoon,16,429.98,13,0.69,11,True
+Nungambakkam,2026-08-11,1,0,8,evening,16,429.98,13,0.94,15,True
+Nungambakkam,2026-08-11,1,0,8,night,16,429.98,6,0.56,9,True
+Guindy,2026-08-12,2,0,8,morning,28,484.58,12,0.54,15,True
+Guindy,2026-08-12,2,0,8,afternoon,28,484.58,17,0.71,20,True
+Guindy,2026-08-12,2,0,8,evening,28,484.58,21,0.79,22,True
+Guindy,2026-08-12,2,0,8,night,28,484.58,7,0.29,8,True
+Velachery,2026-08-12,2,0,8,morning,32,460.38,8,0.16,5,True
+Velachery,2026-08-12,2,0,8,afternoon,32,460.38,14,0.41,13,True
+Velachery,2026-08-12,2,0,8,evening,32,460.38,15,0.47,15,True
+Velachery,2026-08-12,2,0,8,night,32,460.38,6,0.16,5,True
+Adyar,2026-08-12,2,0,8,morning,18,517.83,7,0.17,3,True
+Adyar,2026-08-12,2,0,8,afternoon,18,517.83,11,0.5,9,True
+Adyar,2026-08-12,2,0,8,evening,18,517.83,13,0.83,15,True
+Adyar,2026-08-12,2,0,8,night,18,517.83,5,0.17,3,True
+T. Nagar,2026-08-12,2,0,8,morning,23,513.9,10,0.57,13,True
+T. Nagar,2026-08-12,2,0,8,afternoon,23,513.9,16,0.7,16,True
+T. Nagar,2026-08-12,2,0,8,evening,23,513.9,18,0.78,18,True
+T. Nagar,2026-08-12,2,0,8,night,23,513.9,7,0.43,10,True
+Anna Nagar,2026-08-12,2,0,8,morning,13,395.29,8,0.31,4,True
+Anna Nagar,2026-08-12,2,0,8,afternoon,13,395.29,15,1.0,14,True
+Anna Nagar,2026-08-12,2,0,8,evening,13,395.29,17,1.0,18,True
+Anna Nagar,2026-08-12,2,0,8,night,13,395.29,6,0.38,5,True
+Mylapore,2026-08-12,2,0,8,morning,27,520.47,7,0.22,6,True
+Mylapore,2026-08-12,2,0,8,afternoon,27,520.47,11,0.52,14,True
+Mylapore,2026-08-12,2,0,8,evening,27,520.47,12,0.44,12,True
+Mylapore,2026-08-12,2,0,8,night,27,520.47,4,0.15,4,True
+OMR (Thoraipakkam),2026-08-12,2,0,8,morning,27,399.79,11,0.41,11,True
+OMR (Thoraipakkam),2026-08-12,2,0,8,afternoon,27,399.79,18,0.7,19,True
+OMR (Thoraipakkam),2026-08-12,2,0,8,evening,27,399.79,23,0.81,22,True
+OMR (Thoraipakkam),2026-08-12,2,0,8,night,27,399.79,9,0.37,10,True
+Nungambakkam,2026-08-12,2,0,8,morning,22,439.3,8,0.36,8,True
+Nungambakkam,2026-08-12,2,0,8,afternoon,22,439.3,13,0.59,13,True
+Nungambakkam,2026-08-12,2,0,8,evening,22,439.3,14,0.73,16,True
+Nungambakkam,2026-08-12,2,0,8,night,22,439.3,5,0.18,4,True
+Guindy,2026-08-13,3,0,8,morning,14,429.21,13,0.86,12,True
+Guindy,2026-08-13,3,0,8,afternoon,14,429.21,17,1.0,19,True
+Guindy,2026-08-13,3,0,8,evening,14,429.21,21,1.0,23,True
+Guindy,2026-08-13,3,0,8,night,14,429.21,7,0.64,9,True
+Velachery,2026-08-13,3,0,8,morning,14,572.69,8,0.71,10,True
+Velachery,2026-08-13,3,0,8,afternoon,14,572.69,14,1.0,15,True
+Velachery,2026-08-13,3,0,8,evening,14,572.69,16,1.0,14,True
+Velachery,2026-08-13,3,0,8,night,14,572.69,6,0.29,4,True
+Adyar,2026-08-13,3,0,8,morning,20,407.99,8,0.4,8,True
+Adyar,2026-08-13,3,0,8,afternoon,20,407.99,11,0.6,12,True
+Adyar,2026-08-13,3,0,8,evening,20,407.99,15,0.5,10,True
+Adyar,2026-08-13,3,0,8,night,20,407.99,5,0.25,5,True
+T. Nagar,2026-08-13,3,0,8,morning,22,440.62,10,0.45,10,True
+T. Nagar,2026-08-13,3,0,8,afternoon,22,440.62,15,0.64,14,True
+T. Nagar,2026-08-13,3,0,8,evening,22,440.62,17,0.82,18,True
+T. Nagar,2026-08-13,3,0,8,night,22,440.62,6,0.45,10,True
+Anna Nagar,2026-08-13,3,0,8,morning,28,424.12,8,0.36,10,True
+Anna Nagar,2026-08-13,3,0,8,afternoon,28,424.12,15,0.5,14,True
+Anna Nagar,2026-08-13,3,0,8,evening,28,424.12,16,0.64,18,True
+Anna Nagar,2026-08-13,3,0,8,night,28,424.12,6,0.25,7,True
+Mylapore,2026-08-13,3,0,8,morning,12,550.84,7,0.67,8,True
+Mylapore,2026-08-13,3,0,8,afternoon,12,550.84,12,0.92,11,True
+Mylapore,2026-08-13,3,0,8,evening,12,550.84,13,1.0,13,True
+Mylapore,2026-08-13,3,0,8,night,12,550.84,5,0.5,6,True
+OMR (Thoraipakkam),2026-08-13,3,0,8,morning,17,500.43,12,0.94,16,True
+OMR (Thoraipakkam),2026-08-13,3,0,8,afternoon,17,500.43,17,1.0,21,True
+OMR (Thoraipakkam),2026-08-13,3,0,8,evening,17,500.43,23,1.0,22,True
+OMR (Thoraipakkam),2026-08-13,3,0,8,night,17,500.43,7,0.47,8,True
+Nungambakkam,2026-08-13,3,0,8,morning,13,442.38,8,0.62,8,True
+Nungambakkam,2026-08-13,3,0,8,afternoon,13,442.38,12,1.0,15,True
+Nungambakkam,2026-08-13,3,0,8,evening,13,442.38,15,1.0,15,True
+Nungambakkam,2026-08-13,3,0,8,night,13,442.38,5,0.38,5,True
+Guindy,2026-08-14,4,0,8,morning,14,482.27,11,1.0,16,True
+Guindy,2026-08-14,4,0,8,afternoon,14,482.27,18,1.0,20,True
+Guindy,2026-08-14,4,0,8,evening,14,482.27,20,1.0,21,True
+Guindy,2026-08-14,4,0,8,night,14,482.27,7,0.64,9,True
+Velachery,2026-08-14,4,0,8,morning,15,483.84,9,0.53,8,True
+Velachery,2026-08-14,4,0,8,afternoon,15,483.84,12,0.8,12,True
+Velachery,2026-08-14,4,0,8,evening,15,483.84,16,0.8,12,True
+Velachery,2026-08-14,4,0,8,night,15,483.84,5,0.47,7,True
+Adyar,2026-08-14,4,0,8,morning,18,468.36,7,0.39,7,True
+Adyar,2026-08-14,4,0,8,afternoon,18,468.36,13,0.61,11,True
+Adyar,2026-08-14,4,0,8,evening,18,468.36,13,0.89,16,True
+Adyar,2026-08-14,4,0,8,night,18,468.36,5,0.33,6,True
+T. Nagar,2026-08-14,4,0,8,morning,20,447.6,11,0.55,11,True
+T. Nagar,2026-08-14,4,0,8,afternoon,20,447.6,15,0.75,15,True
+T. Nagar,2026-08-14,4,0,8,evening,20,447.6,19,0.95,19,True
+T. Nagar,2026-08-14,4,0,8,night,20,447.6,6,0.25,5,True
+Anna Nagar,2026-08-14,4,0,8,morning,27,482.51,10,0.33,9,True
+Anna Nagar,2026-08-14,4,0,8,afternoon,27,482.51,13,0.37,10,True
+Anna Nagar,2026-08-14,4,0,8,evening,27,482.51,17,0.56,15,True
+Anna Nagar,2026-08-14,4,0,8,night,27,482.51,6,0.15,4,True
+Mylapore,2026-08-14,4,0,8,morning,23,482.01,7,0.22,5,True
+Mylapore,2026-08-14,4,0,8,afternoon,23,482.01,10,0.7,16,True
+Mylapore,2026-08-14,4,0,8,evening,23,482.01,13,0.52,12,True
+Mylapore,2026-08-14,4,0,8,night,23,482.01,4,0.09,2,True
+OMR (Thoraipakkam),2026-08-14,4,0,8,morning,14,417.5,12,1.0,14,True
+OMR (Thoraipakkam),2026-08-14,4,0,8,afternoon,14,417.5,18,1.0,22,True
+OMR (Thoraipakkam),2026-08-14,4,0,8,evening,14,417.5,22,1.0,25,True
+OMR (Thoraipakkam),2026-08-14,4,0,8,night,14,417.5,8,0.5,7,True
+Nungambakkam,2026-08-14,4,0,8,morning,32,426.78,8,0.31,10,True
+Nungambakkam,2026-08-14,4,0,8,afternoon,32,426.78,12,0.34,11,True
+Nungambakkam,2026-08-14,4,0,8,evening,32,426.78,15,0.44,14,True
+Nungambakkam,2026-08-14,4,0,8,night,32,426.78,5,0.0,0,True
+Guindy,2026-08-15,5,1,8,morning,17,489.29,10,0.59,10,True
+Guindy,2026-08-15,5,1,8,afternoon,17,489.29,13,0.94,16,True
+Guindy,2026-08-15,5,1,8,evening,17,489.29,15,1.0,18,True
+Guindy,2026-08-15,5,1,8,night,17,489.29,6,0.29,5,True
+Velachery,2026-08-15,5,1,8,morning,31,452.38,10,0.35,11,True
+Velachery,2026-08-15,5,1,8,afternoon,31,452.38,12,0.39,12,True
+Velachery,2026-08-15,5,1,8,evening,31,452.38,14,0.55,17,True
+Velachery,2026-08-15,5,1,8,night,31,452.38,6,0.19,6,True
+Adyar,2026-08-15,5,1,8,morning,17,380.73,11,0.47,8,True
+Adyar,2026-08-15,5,1,8,afternoon,17,380.73,15,1.0,18,True
+Adyar,2026-08-15,5,1,8,evening,17,380.73,17,1.0,19,True
+Adyar,2026-08-15,5,1,8,night,17,380.73,7,0.41,7,True
+T. Nagar,2026-08-15,5,1,8,morning,17,410.07,14,1.0,17,True
+T. Nagar,2026-08-15,5,1,8,afternoon,17,410.07,19,1.0,23,True
+T. Nagar,2026-08-15,5,1,8,evening,17,410.07,24,1.0,26,True
+T. Nagar,2026-08-15,5,1,8,night,17,410.07,8,0.59,10,True
+Anna Nagar,2026-08-15,5,1,8,morning,17,482.57,13,0.94,16,True
+Anna Nagar,2026-08-15,5,1,8,afternoon,17,482.57,18,1.0,22,True
+Anna Nagar,2026-08-15,5,1,8,evening,17,482.57,22,1.0,20,True
+Anna Nagar,2026-08-15,5,1,8,night,17,482.57,8,0.35,6,True
+Mylapore,2026-08-15,5,1,8,morning,30,425.81,7,0.27,8,True
+Mylapore,2026-08-15,5,1,8,afternoon,30,425.81,11,0.33,10,True
+Mylapore,2026-08-15,5,1,8,evening,30,425.81,12,0.53,16,True
+Mylapore,2026-08-15,5,1,8,night,30,425.81,5,0.17,5,True
+OMR (Thoraipakkam),2026-08-15,5,1,8,morning,21,451.9,10,0.48,10,True
+OMR (Thoraipakkam),2026-08-15,5,1,8,afternoon,21,451.9,14,0.67,14,True
+OMR (Thoraipakkam),2026-08-15,5,1,8,evening,21,451.9,19,0.71,15,True
+OMR (Thoraipakkam),2026-08-15,5,1,8,night,21,451.9,6,0.43,9,True
+Nungambakkam,2026-08-15,5,1,8,morning,23,436.26,8,0.35,8,True
+Nungambakkam,2026-08-15,5,1,8,afternoon,23,436.26,13,0.7,16,True
+Nungambakkam,2026-08-15,5,1,8,evening,23,436.26,14,0.61,14,True
+Nungambakkam,2026-08-15,5,1,8,night,23,436.26,5,0.22,5,True
+Guindy,2026-08-16,6,1,8,morning,18,515.85,9,0.56,10,True
+Guindy,2026-08-16,6,1,8,afternoon,18,515.85,14,0.89,16,True
+Guindy,2026-08-16,6,1,8,evening,18,515.85,17,0.94,17,True
+Guindy,2026-08-16,6,1,8,night,18,515.85,6,0.5,9,True
+Velachery,2026-08-16,6,1,8,morning,19,488.85,9,0.63,12,True
+Velachery,2026-08-16,6,1,8,afternoon,19,488.85,13,0.53,10,True
+Velachery,2026-08-16,6,1,8,evening,19,488.85,14,0.53,10,True
+Velachery,2026-08-16,6,1,8,night,19,488.85,5,0.32,6,True
+Adyar,2026-08-16,6,1,8,morning,25,440.0,10,0.36,9,True
+Adyar,2026-08-16,6,1,8,afternoon,25,440.0,15,0.72,18,True
+Adyar,2026-08-16,6,1,8,evening,25,440.0,18,0.6,15,True
+Adyar,2026-08-16,6,1,8,night,25,440.0,7,0.16,4,True
+T. Nagar,2026-08-16,6,1,8,morning,15,508.04,13,0.87,13,True
+T. Nagar,2026-08-16,6,1,8,afternoon,15,508.04,19,1.0,21,True
+T. Nagar,2026-08-16,6,1,8,evening,15,508.04,23,1.0,24,True
+T. Nagar,2026-08-16,6,1,8,night,15,508.04,9,0.4,6,True
+Anna Nagar,2026-08-16,6,1,8,morning,22,372.17,13,0.5,11,True
+Anna Nagar,2026-08-16,6,1,8,afternoon,22,372.17,18,0.73,16,True
+Anna Nagar,2026-08-16,6,1,8,evening,22,372.17,21,0.82,18,True
+Anna Nagar,2026-08-16,6,1,8,night,22,372.17,8,0.36,8,True
+Mylapore,2026-08-16,6,1,8,morning,23,342.31,7,0.39,9,True
+Mylapore,2026-08-16,6,1,8,afternoon,23,342.31,11,0.43,10,True
+Mylapore,2026-08-16,6,1,8,evening,23,342.31,11,0.52,12,True
+Mylapore,2026-08-16,6,1,8,night,23,342.31,5,0.17,4,True
+OMR (Thoraipakkam),2026-08-16,6,1,8,morning,16,418.81,9,0.56,9,True
+OMR (Thoraipakkam),2026-08-16,6,1,8,afternoon,16,418.81,15,1.0,18,True
+OMR (Thoraipakkam),2026-08-16,6,1,8,evening,16,418.81,17,1.0,19,True
+OMR (Thoraipakkam),2026-08-16,6,1,8,night,16,418.81,6,0.19,3,True
+Nungambakkam,2026-08-16,6,1,8,morning,34,475.17,8,0.21,7,True
+Nungambakkam,2026-08-16,6,1,8,afternoon,34,475.17,12,0.38,13,True
+Nungambakkam,2026-08-16,6,1,8,evening,34,475.17,15,0.38,13,True
+Nungambakkam,2026-08-16,6,1,8,night,34,475.17,6,0.21,7,True
+Guindy,2026-08-17,0,0,8,morning,17,463.83,13,0.65,11,True
+Guindy,2026-08-17,0,0,8,afternoon,17,463.83,19,1.0,19,True
+Guindy,2026-08-17,0,0,8,evening,17,463.83,23,1.0,19,True
+Guindy,2026-08-17,0,0,8,night,17,463.83,8,0.41,7,True
+Velachery,2026-08-17,0,0,8,morning,19,550.17,8,0.53,10,True
+Velachery,2026-08-17,0,0,8,afternoon,19,550.17,14,0.74,14,True
+Velachery,2026-08-17,0,0,8,evening,19,550.17,17,0.84,16,True
+Velachery,2026-08-17,0,0,8,night,19,550.17,6,0.37,7,True
+Adyar,2026-08-17,0,0,8,morning,13,491.96,9,0.92,12,True
+Adyar,2026-08-17,0,0,8,afternoon,13,491.96,13,1.0,14,True
+Adyar,2026-08-17,0,0,8,evening,13,491.96,14,1.0,13,True
+Adyar,2026-08-17,0,0,8,night,13,491.96,5,0.46,6,True
+T. Nagar,2026-08-17,0,0,8,morning,25,467.78,11,0.4,10,True
+T. Nagar,2026-08-17,0,0,8,afternoon,25,467.78,17,0.68,17,True
+T. Nagar,2026-08-17,0,0,8,evening,25,467.78,18,0.8,20,True
+T. Nagar,2026-08-17,0,0,8,night,25,467.78,6,0.24,6,True
+Anna Nagar,2026-08-17,0,0,8,morning,12,382.97,9,1.0,12,True
+Anna Nagar,2026-08-17,0,0,8,afternoon,12,382.97,13,1.0,17,True
+Anna Nagar,2026-08-17,0,0,8,evening,12,382.97,16,1.0,14,True
+Anna Nagar,2026-08-17,0,0,8,night,12,382.97,5,0.33,4,True
+Mylapore,2026-08-17,0,0,8,morning,22,383.85,7,0.45,10,True
+Mylapore,2026-08-17,0,0,8,afternoon,22,383.85,11,0.59,13,True
+Mylapore,2026-08-17,0,0,8,evening,22,383.85,13,0.68,15,True
+Mylapore,2026-08-17,0,0,8,night,22,383.85,4,0.18,4,True
+OMR (Thoraipakkam),2026-08-17,0,0,8,morning,16,380.52,12,0.56,9,True
+OMR (Thoraipakkam),2026-08-17,0,0,8,afternoon,16,380.52,19,0.88,14,True
+OMR (Thoraipakkam),2026-08-17,0,0,8,evening,16,380.52,23,1.0,21,True
+OMR (Thoraipakkam),2026-08-17,0,0,8,night,16,380.52,8,0.5,8,True
+Nungambakkam,2026-08-17,0,0,8,morning,22,541.04,9,0.36,8,True
+Nungambakkam,2026-08-17,0,0,8,afternoon,22,541.04,11,0.59,13,True
+Nungambakkam,2026-08-17,0,0,8,evening,22,541.04,14,0.64,14,True
+Nungambakkam,2026-08-17,0,0,8,night,22,541.04,5,0.27,6,True
+Guindy,2026-08-18,1,0,8,morning,26,406.47,12,0.38,10,True
+Guindy,2026-08-18,1,0,8,afternoon,26,406.47,19,0.62,16,True
+Guindy,2026-08-18,1,0,8,evening,26,406.47,21,0.81,21,True
+Guindy,2026-08-18,1,0,8,night,26,406.47,8,0.19,5,True
+Velachery,2026-08-18,1,0,8,morning,18,453.16,8,0.67,12,True
+Velachery,2026-08-18,1,0,8,afternoon,18,453.16,13,0.78,14,True
+Velachery,2026-08-18,1,0,8,evening,18,453.16,16,1.0,18,True
+Velachery,2026-08-18,1,0,8,night,18,453.16,5,0.28,5,True
+Adyar,2026-08-18,1,0,8,morning,34,473.6,8,0.24,8,True
+Adyar,2026-08-18,1,0,8,afternoon,34,473.6,13,0.5,17,True
+Adyar,2026-08-18,1,0,8,evening,34,473.6,14,0.44,15,True
+Adyar,2026-08-18,1,0,8,night,34,473.6,5,0.12,4,True
+T. Nagar,2026-08-18,1,0,8,morning,27,395.93,10,0.26,7,True
+T. Nagar,2026-08-18,1,0,8,afternoon,27,395.93,16,0.59,16,True
+T. Nagar,2026-08-18,1,0,8,evening,27,395.93,19,0.7,19,True
+T. Nagar,2026-08-18,1,0,8,night,27,395.93,7,0.3,8,True
+Anna Nagar,2026-08-18,1,0,8,morning,16,437.76,9,0.44,7,True
+Anna Nagar,2026-08-18,1,0,8,afternoon,16,437.76,13,0.94,15,True
+Anna Nagar,2026-08-18,1,0,8,evening,16,437.76,15,1.0,17,True
+Anna Nagar,2026-08-18,1,0,8,night,16,437.76,6,0.38,6,True
+Mylapore,2026-08-18,1,0,8,morning,22,442.65,7,0.27,6,True
+Mylapore,2026-08-18,1,0,8,afternoon,22,442.65,11,0.36,8,True
+Mylapore,2026-08-18,1,0,8,evening,22,442.65,12,0.5,11,True
+Mylapore,2026-08-18,1,0,8,night,22,442.65,5,0.36,8,True
+OMR (Thoraipakkam),2026-08-18,1,0,8,morning,18,478.45,13,0.89,16,True
+OMR (Thoraipakkam),2026-08-18,1,0,8,afternoon,18,478.45,19,1.0,20,True
+OMR (Thoraipakkam),2026-08-18,1,0,8,evening,18,478.45,21,1.0,19,True
+OMR (Thoraipakkam),2026-08-18,1,0,8,night,18,478.45,8,0.28,5,True
+Nungambakkam,2026-08-18,1,0,8,morning,24,388.89,9,0.29,7,True
+Nungambakkam,2026-08-18,1,0,8,afternoon,24,388.89,12,0.54,13,True
+Nungambakkam,2026-08-18,1,0,8,evening,24,388.89,15,0.71,17,True
+Nungambakkam,2026-08-18,1,0,8,night,24,388.89,5,0.21,5,True
+Guindy,2026-08-19,2,0,8,morning,17,391.37,11,0.59,10,True
+Guindy,2026-08-19,2,0,8,afternoon,17,391.37,20,0.88,15,True
+Guindy,2026-08-19,2,0,8,evening,17,391.37,21,1.0,18,True
+Guindy,2026-08-19,2,0,8,night,17,391.37,7,0.53,9,True
+Velachery,2026-08-19,2,0,8,morning,16,360.2,8,0.62,10,True
+Velachery,2026-08-19,2,0,8,afternoon,16,360.2,13,0.69,11,True
+Velachery,2026-08-19,2,0,8,evening,16,360.2,16,0.94,15,True
+Velachery,2026-08-19,2,0,8,night,16,360.2,5,0.25,4,True
+Adyar,2026-08-19,2,0,8,morning,27,504.57,8,0.33,9,True
+Adyar,2026-08-19,2,0,8,afternoon,27,504.57,12,0.37,10,True
+Adyar,2026-08-19,2,0,8,evening,27,504.57,13,0.59,16,True
+Adyar,2026-08-19,2,0,8,night,27,504.57,5,0.26,7,True
+T. Nagar,2026-08-19,2,0,8,morning,32,415.68,11,0.34,11,True
+T. Nagar,2026-08-19,2,0,8,afternoon,32,415.68,14,0.53,17,True
+T. Nagar,2026-08-19,2,0,8,evening,32,415.68,18,0.5,16,True
+T. Nagar,2026-08-19,2,0,8,night,32,415.68,6,0.16,5,True
+Anna Nagar,2026-08-19,2,0,8,morning,22,454.36,10,0.5,11,True
+Anna Nagar,2026-08-19,2,0,8,afternoon,22,454.36,15,0.64,14,True
+Anna Nagar,2026-08-19,2,0,8,evening,22,454.36,15,0.73,16,True
+Anna Nagar,2026-08-19,2,0,8,night,22,454.36,6,0.27,6,True
+Mylapore,2026-08-19,2,0,8,morning,31,520.1,7,0.23,7,True
+Mylapore,2026-08-19,2,0,8,afternoon,31,520.1,12,0.35,11,True
+Mylapore,2026-08-19,2,0,8,evening,31,520.1,13,0.42,13,True
+Mylapore,2026-08-19,2,0,8,night,31,520.1,4,0.16,5,True
+OMR (Thoraipakkam),2026-08-19,2,0,8,morning,13,441.25,12,0.85,11,True
+OMR (Thoraipakkam),2026-08-19,2,0,8,afternoon,13,441.25,19,1.0,20,True
+OMR (Thoraipakkam),2026-08-19,2,0,8,evening,13,441.25,22,1.0,22,True
+OMR (Thoraipakkam),2026-08-19,2,0,8,night,13,441.25,7,0.77,10,True
+Nungambakkam,2026-08-19,2,0,8,morning,27,370.11,8,0.26,7,True
+Nungambakkam,2026-08-19,2,0,8,afternoon,27,370.11,12,0.52,14,True
+Nungambakkam,2026-08-19,2,0,8,evening,27,370.11,13,0.52,14,True
+Nungambakkam,2026-08-19,2,0,8,night,27,370.11,5,0.11,3,True
+Guindy,2026-08-20,3,0,8,morning,24,475.39,13,0.5,12,True
+Guindy,2026-08-20,3,0,8,afternoon,24,475.39,19,0.71,17,True
+Guindy,2026-08-20,3,0,8,evening,24,475.39,19,0.92,22,True
+Guindy,2026-08-20,3,0,8,night,24,475.39,7,0.33,8,True
+Velachery,2026-08-20,3,0,8,morning,30,438.46,8,0.2,6,True
+Velachery,2026-08-20,3,0,8,afternoon,30,438.46,13,0.47,14,True
+Velachery,2026-08-20,3,0,8,evening,30,438.46,15,0.57,17,True
+Velachery,2026-08-20,3,0,8,night,30,438.46,5,0.27,8,True
+Adyar,2026-08-20,3,0,8,morning,18,414.54,8,0.56,10,True
+Adyar,2026-08-20,3,0,8,afternoon,18,414.54,13,0.67,12,True
+Adyar,2026-08-20,3,0,8,evening,18,414.54,15,0.72,13,True
+Adyar,2026-08-20,3,0,8,night,18,414.54,5,0.11,2,True
+T. Nagar,2026-08-20,3,0,8,morning,17,495.62,11,0.47,8,True
+T. Nagar,2026-08-20,3,0,8,afternoon,17,495.62,15,0.88,15,True
+T. Nagar,2026-08-20,3,0,8,evening,17,495.62,18,1.0,17,True
+T. Nagar,2026-08-20,3,0,8,night,17,495.62,7,0.24,4,True
+Anna Nagar,2026-08-20,3,0,8,morning,34,493.93,9,0.32,11,True
+Anna Nagar,2026-08-20,3,0,8,afternoon,34,493.93,13,0.38,13,True
+Anna Nagar,2026-08-20,3,0,8,evening,34,493.93,17,0.47,16,True
+Anna Nagar,2026-08-20,3,0,8,night,34,493.93,5,0.18,6,True
+Mylapore,2026-08-20,3,0,8,morning,32,394.07,7,0.25,8,True
+Mylapore,2026-08-20,3,0,8,afternoon,32,394.07,10,0.41,13,True
+Mylapore,2026-08-20,3,0,8,evening,32,394.07,12,0.38,12,True
+Mylapore,2026-08-20,3,0,8,night,32,394.07,5,0.12,4,True
+OMR (Thoraipakkam),2026-08-20,3,0,8,morning,32,362.86,12,0.38,12,True
+OMR (Thoraipakkam),2026-08-20,3,0,8,afternoon,32,362.86,20,0.56,18,True
+OMR (Thoraipakkam),2026-08-20,3,0,8,evening,32,362.86,22,0.62,20,True
+OMR (Thoraipakkam),2026-08-20,3,0,8,night,32,362.86,8,0.16,5,True
+Nungambakkam,2026-08-20,3,0,8,morning,32,369.32,9,0.28,9,True
+Nungambakkam,2026-08-20,3,0,8,afternoon,32,369.32,13,0.34,11,True
+Nungambakkam,2026-08-20,3,0,8,evening,32,369.32,16,0.44,14,True
+Nungambakkam,2026-08-20,3,0,8,night,32,369.32,5,0.12,4,True
+Guindy,2026-08-21,4,0,8,morning,34,479.41,12,0.38,13,True
+Guindy,2026-08-21,4,0,8,afternoon,34,479.41,18,0.56,19,True
+Guindy,2026-08-21,4,0,8,evening,34,479.41,19,0.68,23,True
+Guindy,2026-08-21,4,0,8,night,34,479.41,8,0.15,5,True
+Velachery,2026-08-21,4,0,8,morning,12,453.13,8,0.67,8,True
+Velachery,2026-08-21,4,0,8,afternoon,12,453.13,14,1.0,13,True
+Velachery,2026-08-21,4,0,8,evening,12,453.13,14,1.0,18,True
+Velachery,2026-08-21,4,0,8,night,12,453.13,5,0.58,7,True
+Adyar,2026-08-21,4,0,8,morning,25,328.3,9,0.32,8,True
+Adyar,2026-08-21,4,0,8,afternoon,25,328.3,12,0.44,11,True
+Adyar,2026-08-21,4,0,8,evening,25,328.3,14,0.64,16,True
+Adyar,2026-08-21,4,0,8,night,25,328.3,5,0.12,3,True
+T. Nagar,2026-08-21,4,0,8,morning,28,442.76,11,0.43,12,True
+T. Nagar,2026-08-21,4,0,8,afternoon,28,442.76,15,0.5,14,True
+T. Nagar,2026-08-21,4,0,8,evening,28,442.76,19,0.64,18,True
+T. Nagar,2026-08-21,4,0,8,night,28,442.76,7,0.21,6,True
+Anna Nagar,2026-08-21,4,0,8,morning,29,472.79,9,0.48,14,True
+Anna Nagar,2026-08-21,4,0,8,afternoon,29,472.79,13,0.48,14,True
+Anna Nagar,2026-08-21,4,0,8,evening,29,472.79,16,0.48,14,True
+Anna Nagar,2026-08-21,4,0,8,night,29,472.79,6,0.21,6,True
+Mylapore,2026-08-21,4,0,8,morning,13,491.47,8,0.46,6,True
+Mylapore,2026-08-21,4,0,8,afternoon,13,491.47,10,0.69,9,True
+Mylapore,2026-08-21,4,0,8,evening,13,491.47,12,0.85,11,True
+Mylapore,2026-08-21,4,0,8,night,13,491.47,5,0.08,1,True
+OMR (Thoraipakkam),2026-08-21,4,0,8,morning,25,438.94,11,0.48,12,True
+OMR (Thoraipakkam),2026-08-21,4,0,8,afternoon,25,438.94,18,0.8,20,True
+OMR (Thoraipakkam),2026-08-21,4,0,8,evening,25,438.94,22,0.84,21,True
+OMR (Thoraipakkam),2026-08-21,4,0,8,night,25,438.94,9,0.2,5,True
+Nungambakkam,2026-08-21,4,0,8,morning,25,480.28,9,0.4,10,True
+Nungambakkam,2026-08-21,4,0,8,afternoon,25,480.28,12,0.56,14,True
+Nungambakkam,2026-08-21,4,0,8,evening,25,480.28,16,0.6,15,True
+Nungambakkam,2026-08-21,4,0,8,night,25,480.28,5,0.2,5,True
+Guindy,2026-08-22,5,1,8,morning,26,445.28,9,0.35,9,True
+Guindy,2026-08-22,5,1,8,afternoon,26,445.28,13,0.54,14,True
+Guindy,2026-08-22,5,1,8,evening,26,445.28,16,0.69,18,True
+Guindy,2026-08-22,5,1,8,night,26,445.28,6,0.35,9,True
+Velachery,2026-08-22,5,1,8,morning,14,425.22,9,0.71,10,True
+Velachery,2026-08-22,5,1,8,afternoon,14,425.22,14,0.71,10,True
+Velachery,2026-08-22,5,1,8,evening,14,425.22,14,1.0,18,True
+Velachery,2026-08-22,5,1,8,night,14,425.22,5,0.5,7,True
+Adyar,2026-08-22,5,1,8,morning,21,439.55,11,0.43,9,True
+Adyar,2026-08-22,5,1,8,afternoon,21,439.55,17,0.86,18,True
+Adyar,2026-08-22,5,1,8,evening,21,439.55,19,0.76,16,True
+Adyar,2026-08-22,5,1,8,night,21,439.55,7,0.24,5,True
+T. Nagar,2026-08-22,5,1,8,morning,15,524.34,13,0.73,11,True
+T. Nagar,2026-08-22,5,1,8,afternoon,15,524.34,19,1.0,18,True
+T. Nagar,2026-08-22,5,1,8,evening,15,524.34,25,1.0,22,True
+T. Nagar,2026-08-22,5,1,8,night,15,524.34,9,0.27,4,True
+Anna Nagar,2026-08-22,5,1,8,morning,32,365.06,11,0.47,15,True
+Anna Nagar,2026-08-22,5,1,8,afternoon,32,365.06,18,0.53,17,True
+Anna Nagar,2026-08-22,5,1,8,evening,32,365.06,21,0.62,20,True
+Anna Nagar,2026-08-22,5,1,8,night,32,365.06,8,0.25,8,True
+Mylapore,2026-08-22,5,1,8,morning,16,503.77,7,0.62,10,True
+Mylapore,2026-08-22,5,1,8,afternoon,16,503.77,11,0.94,15,True
+Mylapore,2026-08-22,5,1,8,evening,16,503.77,12,0.94,15,True
+Mylapore,2026-08-22,5,1,8,night,16,503.77,5,0.38,6,True
+OMR (Thoraipakkam),2026-08-22,5,1,8,morning,33,409.09,10,0.3,10,True
+OMR (Thoraipakkam),2026-08-22,5,1,8,afternoon,33,409.09,15,0.48,16,True
+OMR (Thoraipakkam),2026-08-22,5,1,8,evening,33,409.09,17,0.52,17,True
+OMR (Thoraipakkam),2026-08-22,5,1,8,night,33,409.09,6,0.21,7,True
+Nungambakkam,2026-08-22,5,1,8,morning,31,421.05,8,0.32,10,True
+Nungambakkam,2026-08-22,5,1,8,afternoon,31,421.05,12,0.45,14,True
+Nungambakkam,2026-08-22,5,1,8,evening,31,421.05,14,0.48,15,True
+Nungambakkam,2026-08-22,5,1,8,night,31,421.05,5,0.32,10,True
+Guindy,2026-08-23,6,1,8,morning,21,465.19,9,0.33,7,True
+Guindy,2026-08-23,6,1,8,afternoon,21,465.19,14,0.62,13,True
+Guindy,2026-08-23,6,1,8,evening,21,465.19,16,0.86,18,True
+Guindy,2026-08-23,6,1,8,night,21,465.19,6,0.38,8,True
+Velachery,2026-08-23,6,1,8,morning,16,440.25,10,0.19,3,True
+Velachery,2026-08-23,6,1,8,afternoon,16,440.25,14,0.75,12,True
+Velachery,2026-08-23,6,1,8,evening,16,440.25,17,0.88,14,True
+Velachery,2026-08-23,6,1,8,night,16,440.25,6,0.38,6,True
+Adyar,2026-08-23,6,1,8,morning,31,436.29,11,0.26,8,True
+Adyar,2026-08-23,6,1,8,afternoon,31,436.29,15,0.48,15,True
+Adyar,2026-08-23,6,1,8,evening,31,436.29,17,0.58,18,True
+Adyar,2026-08-23,6,1,8,night,31,436.29,6,0.19,6,True
+T. Nagar,2026-08-23,6,1,8,morning,33,468.37,13,0.48,16,True
+T. Nagar,2026-08-23,6,1,8,afternoon,33,468.37,19,0.61,20,True
+T. Nagar,2026-08-23,6,1,8,evening,33,468.37,23,0.79,26,True
+T. Nagar,2026-08-23,6,1,8,night,33,468.37,8,0.39,13,True
+Anna Nagar,2026-08-23,6,1,8,morning,26,441.56,11,0.46,12,True
+Anna Nagar,2026-08-23,6,1,8,afternoon,26,441.56,18,0.69,18,True
+Anna Nagar,2026-08-23,6,1,8,evening,26,441.56,23,0.81,21,True
+Anna Nagar,2026-08-23,6,1,8,night,26,441.56,7,0.27,7,True
+Mylapore,2026-08-23,6,1,8,morning,16,419.8,7,0.31,5,True
+Mylapore,2026-08-23,6,1,8,afternoon,16,419.8,11,0.75,12,True
+Mylapore,2026-08-23,6,1,8,evening,16,419.8,12,0.81,13,True
+Mylapore,2026-08-23,6,1,8,night,16,419.8,4,0.31,5,True
+OMR (Thoraipakkam),2026-08-23,6,1,8,morning,21,428.66,9,0.43,9,True
+OMR (Thoraipakkam),2026-08-23,6,1,8,afternoon,21,428.66,16,0.76,16,True
+OMR (Thoraipakkam),2026-08-23,6,1,8,evening,21,428.66,17,1.0,21,True
+OMR (Thoraipakkam),2026-08-23,6,1,8,night,21,428.66,7,0.38,8,True
+Nungambakkam,2026-08-23,6,1,8,morning,28,335.79,8,0.25,7,True
+Nungambakkam,2026-08-23,6,1,8,afternoon,28,335.79,13,0.46,13,True
+Nungambakkam,2026-08-23,6,1,8,evening,28,335.79,15,0.57,16,True
+Nungambakkam,2026-08-23,6,1,8,night,28,335.79,5,0.25,7,True
+Guindy,2026-08-24,0,0,8,morning,26,480.96,12,0.62,16,True
+Guindy,2026-08-24,0,0,8,afternoon,26,480.96,16,0.69,18,True
+Guindy,2026-08-24,0,0,8,evening,26,480.96,22,0.92,24,True
+Guindy,2026-08-24,0,0,8,night,26,480.96,7,0.23,6,True
+Velachery,2026-08-24,0,0,8,morning,15,410.04,8,0.6,9,True
+Velachery,2026-08-24,0,0,8,afternoon,15,410.04,14,1.0,16,True
+Velachery,2026-08-24,0,0,8,evening,15,410.04,17,1.0,15,True
+Velachery,2026-08-24,0,0,8,night,15,410.04,6,0.13,2,True
+Adyar,2026-08-24,0,0,8,morning,12,494.16,8,0.67,8,True
+Adyar,2026-08-24,0,0,8,afternoon,12,494.16,12,0.92,11,True
+Adyar,2026-08-24,0,0,8,evening,12,494.16,14,1.0,16,True
+Adyar,2026-08-24,0,0,8,night,12,494.16,5,0.42,5,True
+T. Nagar,2026-08-24,0,0,8,morning,23,406.14,11,0.3,7,True
+T. Nagar,2026-08-24,0,0,8,afternoon,23,406.14,16,0.7,16,True
+T. Nagar,2026-08-24,0,0,8,evening,23,406.14,18,0.91,21,True
+T. Nagar,2026-08-24,0,0,8,night,23,406.14,7,0.35,8,True
+Anna Nagar,2026-08-24,0,0,8,morning,31,389.04,9,0.29,9,True
+Anna Nagar,2026-08-24,0,0,8,afternoon,31,389.04,13,0.48,15,True
+Anna Nagar,2026-08-24,0,0,8,evening,31,389.04,17,0.45,14,True
+Anna Nagar,2026-08-24,0,0,8,night,31,389.04,6,0.19,6,True
+Mylapore,2026-08-24,0,0,8,morning,34,385.84,7,0.15,5,True
+Mylapore,2026-08-24,0,0,8,afternoon,34,385.84,11,0.35,12,True
+Mylapore,2026-08-24,0,0,8,evening,34,385.84,14,0.38,13,True
+Mylapore,2026-08-24,0,0,8,night,34,385.84,4,0.21,7,True
+OMR (Thoraipakkam),2026-08-24,0,0,8,morning,17,396.88,14,0.76,13,True
+OMR (Thoraipakkam),2026-08-24,0,0,8,afternoon,17,396.88,19,1.0,17,True
+OMR (Thoraipakkam),2026-08-24,0,0,8,evening,17,396.88,20,1.0,23,True
+OMR (Thoraipakkam),2026-08-24,0,0,8,night,17,396.88,9,0.41,7,True
+Nungambakkam,2026-08-24,0,0,8,morning,20,387.14,9,0.45,9,True
+Nungambakkam,2026-08-24,0,0,8,afternoon,20,387.14,12,0.75,15,True
+Nungambakkam,2026-08-24,0,0,8,evening,20,387.14,15,0.85,17,True
+Nungambakkam,2026-08-24,0,0,8,night,20,387.14,5,0.25,5,True
+Guindy,2026-08-25,1,0,8,morning,27,514.85,13,0.44,12,True
+Guindy,2026-08-25,1,0,8,afternoon,27,514.85,17,0.63,17,True
+Guindy,2026-08-25,1,0,8,evening,27,514.85,21,0.74,20,True
+Guindy,2026-08-25,1,0,8,night,27,514.85,8,0.33,9,True
+Velachery,2026-08-25,1,0,8,morning,33,512.85,9,0.3,10,True
+Velachery,2026-08-25,1,0,8,afternoon,33,512.85,13,0.42,14,True
+Velachery,2026-08-25,1,0,8,evening,33,512.85,14,0.45,15,True
+Velachery,2026-08-25,1,0,8,night,33,512.85,6,0.12,4,True
+Adyar,2026-08-25,1,0,8,morning,12,473.48,9,0.5,6,True
+Adyar,2026-08-25,1,0,8,afternoon,12,473.48,12,1.0,14,True
+Adyar,2026-08-25,1,0,8,evening,12,473.48,14,0.92,11,True
+Adyar,2026-08-25,1,0,8,night,12,473.48,5,0.25,3,True
+T. Nagar,2026-08-25,1,0,8,morning,32,416.11,11,0.41,13,True
+T. Nagar,2026-08-25,1,0,8,afternoon,32,416.11,15,0.47,15,True
+T. Nagar,2026-08-25,1,0,8,evening,32,416.11,20,0.59,19,True
+T. Nagar,2026-08-25,1,0,8,night,32,416.11,6,0.25,8,True
+Anna Nagar,2026-08-25,1,0,8,morning,25,431.03,9,0.28,7,True
+Anna Nagar,2026-08-25,1,0,8,afternoon,25,431.03,13,0.56,14,True
+Anna Nagar,2026-08-25,1,0,8,evening,25,431.03,18,0.72,18,True
+Anna Nagar,2026-08-25,1,0,8,night,25,431.03,5,0.2,5,True
+Mylapore,2026-08-25,1,0,8,morning,25,402.87,8,0.28,7,True
+Mylapore,2026-08-25,1,0,8,afternoon,25,402.87,10,0.48,12,True
+Mylapore,2026-08-25,1,0,8,evening,25,402.87,13,0.52,13,True
+Mylapore,2026-08-25,1,0,8,night,25,402.87,4,0.2,5,True
+OMR (Thoraipakkam),2026-08-25,1,0,8,morning,30,494.43,13,0.37,11,True
+OMR (Thoraipakkam),2026-08-25,1,0,8,afternoon,30,494.43,19,0.63,19,True
+OMR (Thoraipakkam),2026-08-25,1,0,8,evening,30,494.43,20,0.7,21,True
+OMR (Thoraipakkam),2026-08-25,1,0,8,night,30,494.43,8,0.13,4,True
+Nungambakkam,2026-08-25,1,0,8,morning,14,435.19,9,0.71,10,True
+Nungambakkam,2026-08-25,1,0,8,afternoon,14,435.19,12,0.79,11,True
+Nungambakkam,2026-08-25,1,0,8,evening,14,435.19,16,0.86,12,True
+Nungambakkam,2026-08-25,1,0,8,night,14,435.19,5,0.21,3,True
+Guindy,2026-08-26,2,0,8,morning,27,511.93,11,0.44,12,True
+Guindy,2026-08-26,2,0,8,afternoon,27,511.93,16,0.67,18,True
+Guindy,2026-08-26,2,0,8,evening,27,511.93,22,0.85,23,True
+Guindy,2026-08-26,2,0,8,night,27,511.93,7,0.22,6,True
+Velachery,2026-08-26,2,0,8,morning,20,461.92,9,0.55,11,True
+Velachery,2026-08-26,2,0,8,afternoon,20,461.92,13,0.7,14,True
+Velachery,2026-08-26,2,0,8,evening,20,461.92,15,0.5,10,True
+Velachery,2026-08-26,2,0,8,night,20,461.92,5,0.35,7,True
+Adyar,2026-08-26,2,0,8,morning,31,475.56,8,0.35,11,True
+Adyar,2026-08-26,2,0,8,afternoon,31,475.56,12,0.48,15,True
+Adyar,2026-08-26,2,0,8,evening,31,475.56,15,0.55,17,True
+Adyar,2026-08-26,2,0,8,night,31,475.56,5,0.16,5,True
+T. Nagar,2026-08-26,2,0,8,morning,33,369.9,10,0.27,9,True
+T. Nagar,2026-08-26,2,0,8,afternoon,33,369.9,17,0.42,14,True
+T. Nagar,2026-08-26,2,0,8,evening,33,369.9,20,0.52,17,True
+T. Nagar,2026-08-26,2,0,8,night,33,369.9,6,0.09,3,True
+Anna Nagar,2026-08-26,2,0,8,morning,19,455.31,9,0.42,8,True
+Anna Nagar,2026-08-26,2,0,8,afternoon,19,455.31,14,0.47,9,True
+Anna Nagar,2026-08-26,2,0,8,evening,19,455.31,16,0.68,13,True
+Anna Nagar,2026-08-26,2,0,8,night,19,455.31,6,0.05,1,True
+Mylapore,2026-08-26,2,0,8,morning,28,377.5,6,0.25,7,True
+Mylapore,2026-08-26,2,0,8,afternoon,28,377.5,10,0.39,11,True
+Mylapore,2026-08-26,2,0,8,evening,28,377.5,13,0.54,15,True
+Mylapore,2026-08-26,2,0,8,night,28,377.5,5,0.11,3,True
+OMR (Thoraipakkam),2026-08-26,2,0,8,morning,20,468.87,13,0.6,12,True
+OMR (Thoraipakkam),2026-08-26,2,0,8,afternoon,20,468.87,19,1.0,20,True
+OMR (Thoraipakkam),2026-08-26,2,0,8,evening,20,468.87,24,1.0,21,True
+OMR (Thoraipakkam),2026-08-26,2,0,8,night,20,468.87,8,0.35,7,True
+Nungambakkam,2026-08-26,2,0,8,morning,25,453.46,8,0.28,7,True
+Nungambakkam,2026-08-26,2,0,8,afternoon,25,453.46,12,0.4,10,True
+Nungambakkam,2026-08-26,2,0,8,evening,25,453.46,15,0.6,15,True
+Nungambakkam,2026-08-26,2,0,8,night,25,453.46,5,0.24,6,True
+Guindy,2026-08-27,3,0,8,morning,24,425.85,13,0.5,12,True
+Guindy,2026-08-27,3,0,8,afternoon,24,425.85,19,0.83,20,True
+Guindy,2026-08-27,3,0,8,evening,24,425.85,22,0.79,19,True
+Guindy,2026-08-27,3,0,8,night,24,425.85,8,0.33,8,True
+Velachery,2026-08-27,3,0,8,morning,28,409.07,9,0.36,10,True
+Velachery,2026-08-27,3,0,8,afternoon,28,409.07,14,0.46,13,True
+Velachery,2026-08-27,3,0,8,evening,28,409.07,14,0.64,18,True
+Velachery,2026-08-27,3,0,8,night,28,409.07,6,0.07,2,True
+Adyar,2026-08-27,3,0,8,morning,14,460.34,8,0.71,10,True
+Adyar,2026-08-27,3,0,8,afternoon,14,460.34,11,0.86,12,True
+Adyar,2026-08-27,3,0,8,evening,14,460.34,13,0.93,13,True
+Adyar,2026-08-27,3,0,8,night,14,460.34,5,0.14,2,True
+T. Nagar,2026-08-27,3,0,8,morning,24,417.72,11,0.5,12,True
+T. Nagar,2026-08-27,3,0,8,afternoon,24,417.72,15,0.62,15,True
+T. Nagar,2026-08-27,3,0,8,evening,24,417.72,17,0.88,21,True
+T. Nagar,2026-08-27,3,0,8,night,24,417.72,6,0.25,6,True
+Anna Nagar,2026-08-27,3,0,8,morning,24,435.2,9,0.46,11,True
+Anna Nagar,2026-08-27,3,0,8,afternoon,24,435.2,14,0.67,16,True
+Anna Nagar,2026-08-27,3,0,8,evening,24,435.2,17,0.62,15,True
+Anna Nagar,2026-08-27,3,0,8,night,24,435.2,6,0.25,6,True
+Mylapore,2026-08-27,3,0,8,morning,34,463.02,7,0.26,9,True
+Mylapore,2026-08-27,3,0,8,afternoon,34,463.02,11,0.21,7,True
+Mylapore,2026-08-27,3,0,8,evening,34,463.02,12,0.44,15,True
+Mylapore,2026-08-27,3,0,8,night,34,463.02,4,0.21,7,True
+OMR (Thoraipakkam),2026-08-27,3,0,8,morning,12,394.71,12,1.0,12,True
+OMR (Thoraipakkam),2026-08-27,3,0,8,afternoon,12,394.71,18,1.0,21,True
+OMR (Thoraipakkam),2026-08-27,3,0,8,evening,12,394.71,20,1.0,25,True
+OMR (Thoraipakkam),2026-08-27,3,0,8,night,12,394.71,8,0.33,4,True
+Nungambakkam,2026-08-27,3,0,8,morning,16,409.71,9,0.69,11,True
+Nungambakkam,2026-08-27,3,0,8,afternoon,16,409.71,13,0.81,13,True
+Nungambakkam,2026-08-27,3,0,8,evening,16,409.71,14,0.94,15,True
+Nungambakkam,2026-08-27,3,0,8,night,16,409.71,5,0.38,6,True
+Guindy,2026-08-28,4,0,8,morning,17,361.64,13,0.53,9,True
+Guindy,2026-08-28,4,0,8,afternoon,17,361.64,19,0.82,14,True
+Guindy,2026-08-28,4,0,8,evening,17,361.64,19,1.0,20,True
+Guindy,2026-08-28,4,0,8,night,17,361.64,8,0.41,7,True
+Velachery,2026-08-28,4,0,8,morning,15,461.45,8,0.6,9,True
+Velachery,2026-08-28,4,0,8,afternoon,15,461.45,13,0.93,14,True
+Velachery,2026-08-28,4,0,8,evening,15,461.45,15,1.0,15,True
+Velachery,2026-08-28,4,0,8,night,15,461.45,5,0.4,6,True
+Adyar,2026-08-28,4,0,8,morning,14,482.82,8,0.5,7,True
+Adyar,2026-08-28,4,0,8,afternoon,14,482.82,11,0.71,10,True
+Adyar,2026-08-28,4,0,8,evening,14,482.82,14,0.93,13,True
+Adyar,2026-08-28,4,0,8,night,14,482.82,5,0.07,1,True
+T. Nagar,2026-08-28,4,0,8,morning,14,487.4,10,0.79,11,True
+T. Nagar,2026-08-28,4,0,8,afternoon,14,487.4,16,1.0,15,True
+T. Nagar,2026-08-28,4,0,8,evening,14,487.4,18,1.0,16,True
+T. Nagar,2026-08-28,4,0,8,night,14,487.4,7,0.64,9,True
+Anna Nagar,2026-08-28,4,0,8,morning,19,535.94,8,0.47,9,True
+Anna Nagar,2026-08-28,4,0,8,afternoon,19,535.94,13,1.0,19,True
+Anna Nagar,2026-08-28,4,0,8,evening,19,535.94,18,0.68,13,True
+Anna Nagar,2026-08-28,4,0,8,night,19,535.94,6,0.32,6,True
+Mylapore,2026-08-28,4,0,8,morning,23,473.38,7,0.26,6,True
+Mylapore,2026-08-28,4,0,8,afternoon,23,473.38,11,0.48,11,True
+Mylapore,2026-08-28,4,0,8,evening,23,473.38,12,0.57,13,True
+Mylapore,2026-08-28,4,0,8,night,23,473.38,5,0.26,6,True
+OMR (Thoraipakkam),2026-08-28,4,0,8,morning,15,353.76,12,0.8,12,True
+OMR (Thoraipakkam),2026-08-28,4,0,8,afternoon,15,353.76,18,1.0,20,True
+OMR (Thoraipakkam),2026-08-28,4,0,8,evening,15,353.76,22,1.0,20,True
+OMR (Thoraipakkam),2026-08-28,4,0,8,night,15,353.76,8,0.87,13,True
+Nungambakkam,2026-08-28,4,0,8,morning,25,436.51,9,0.16,4,True
+Nungambakkam,2026-08-28,4,0,8,afternoon,25,436.51,13,0.36,9,True
+Nungambakkam,2026-08-28,4,0,8,evening,25,436.51,16,0.56,14,True
+Nungambakkam,2026-08-28,4,0,8,night,25,436.51,5,0.32,8,True
+Guindy,2026-08-29,5,1,8,morning,17,398.84,9,0.47,8,True
+Guindy,2026-08-29,5,1,8,afternoon,17,398.84,15,0.94,16,True
+Guindy,2026-08-29,5,1,8,evening,17,398.84,18,0.88,15,True
+Guindy,2026-08-29,5,1,8,night,17,398.84,6,0.59,10,True
+Velachery,2026-08-29,5,1,8,morning,23,473.0,8,0.35,8,True
+Velachery,2026-08-29,5,1,8,afternoon,23,473.0,14,0.65,15,True
+Velachery,2026-08-29,5,1,8,evening,23,473.0,15,0.74,17,True
+Velachery,2026-08-29,5,1,8,night,23,473.0,5,0.3,7,True
+Adyar,2026-08-29,5,1,8,morning,12,486.25,10,0.92,11,True
+Adyar,2026-08-29,5,1,8,afternoon,12,486.25,17,1.0,17,True
+Adyar,2026-08-29,5,1,8,evening,12,486.25,19,1.0,19,True
+Adyar,2026-08-29,5,1,8,night,12,486.25,7,0.5,6,True
+T. Nagar,2026-08-29,5,1,8,morning,25,406.37,12,0.4,10,True
+T. Nagar,2026-08-29,5,1,8,afternoon,25,406.37,20,0.68,17,True
+T. Nagar,2026-08-29,5,1,8,evening,25,406.37,26,0.96,24,True
+T. Nagar,2026-08-29,5,1,8,night,25,406.37,8,0.32,8,True
+Anna Nagar,2026-08-29,5,1,8,morning,27,451.51,12,0.48,13,True
+Anna Nagar,2026-08-29,5,1,8,afternoon,27,451.51,17,0.67,18,True
+Anna Nagar,2026-08-29,5,1,8,evening,27,451.51,22,0.67,18,True
+Anna Nagar,2026-08-29,5,1,8,night,27,451.51,8,0.19,5,True
+Mylapore,2026-08-29,5,1,8,morning,14,481.81,7,0.64,9,True
+Mylapore,2026-08-29,5,1,8,afternoon,14,481.81,11,0.71,10,True
+Mylapore,2026-08-29,5,1,8,evening,14,481.81,14,1.0,14,True
+Mylapore,2026-08-29,5,1,8,night,14,481.81,5,0.14,2,True
+OMR (Thoraipakkam),2026-08-29,5,1,8,morning,33,518.03,9,0.21,7,True
+OMR (Thoraipakkam),2026-08-29,5,1,8,afternoon,33,518.03,15,0.48,16,True
+OMR (Thoraipakkam),2026-08-29,5,1,8,evening,33,518.03,19,0.55,18,True
+OMR (Thoraipakkam),2026-08-29,5,1,8,night,33,518.03,6,0.3,10,True
+Nungambakkam,2026-08-29,5,1,8,morning,29,490.91,9,0.34,10,True
+Nungambakkam,2026-08-29,5,1,8,afternoon,29,490.91,13,0.48,14,True
+Nungambakkam,2026-08-29,5,1,8,evening,29,490.91,16,0.41,12,True
+Nungambakkam,2026-08-29,5,1,8,night,29,490.91,5,0.17,5,True
+Guindy,2026-08-30,6,1,8,morning,29,358.33,10,0.34,10,True
+Guindy,2026-08-30,6,1,8,afternoon,29,358.33,14,0.41,12,True
+Guindy,2026-08-30,6,1,8,evening,29,358.33,15,0.66,19,True
+Guindy,2026-08-30,6,1,8,night,29,358.33,6,0.24,7,True
+Velachery,2026-08-30,6,1,8,morning,33,419.22,9,0.24,8,True
+Velachery,2026-08-30,6,1,8,afternoon,33,419.22,12,0.42,14,True
+Velachery,2026-08-30,6,1,8,evening,33,419.22,15,0.52,17,True
+Velachery,2026-08-30,6,1,8,night,33,419.22,5,0.12,4,True
+Adyar,2026-08-30,6,1,8,morning,13,382.71,10,0.69,9,True
+Adyar,2026-08-30,6,1,8,afternoon,13,382.71,15,1.0,16,True
+Adyar,2026-08-30,6,1,8,evening,13,382.71,20,1.0,19,True
+Adyar,2026-08-30,6,1,8,night,13,382.71,6,0.54,7,True
+T. Nagar,2026-08-30,6,1,8,morning,34,444.84,14,0.26,9,True
+T. Nagar,2026-08-30,6,1,8,afternoon,34,444.84,21,0.59,20,True
+T. Nagar,2026-08-30,6,1,8,evening,34,444.84,26,0.76,26,True
+T. Nagar,2026-08-30,6,1,8,night,34,444.84,9,0.32,11,True
+Anna Nagar,2026-08-30,6,1,8,morning,20,454.43,11,0.6,12,True
+Anna Nagar,2026-08-30,6,1,8,afternoon,20,454.43,16,0.95,19,True
+Anna Nagar,2026-08-30,6,1,8,evening,20,454.43,20,1.0,23,True
+Anna Nagar,2026-08-30,6,1,8,night,20,454.43,7,0.35,7,True
+Mylapore,2026-08-30,6,1,8,morning,26,480.06,8,0.31,8,True
+Mylapore,2026-08-30,6,1,8,afternoon,26,480.06,10,0.35,9,True
+Mylapore,2026-08-30,6,1,8,evening,26,480.06,13,0.46,12,True
+Mylapore,2026-08-30,6,1,8,night,26,480.06,4,0.19,5,True
+OMR (Thoraipakkam),2026-08-30,6,1,8,morning,17,408.44,10,0.76,13,True
+OMR (Thoraipakkam),2026-08-30,6,1,8,afternoon,17,408.44,16,0.82,14,True
+OMR (Thoraipakkam),2026-08-30,6,1,8,evening,17,408.44,18,1.0,18,True
+OMR (Thoraipakkam),2026-08-30,6,1,8,night,17,408.44,6,0.29,5,True
+Nungambakkam,2026-08-30,6,1,8,morning,29,429.1,8,0.31,9,True
+Nungambakkam,2026-08-30,6,1,8,afternoon,29,429.1,13,0.41,12,True
+Nungambakkam,2026-08-30,6,1,8,evening,29,429.1,16,0.59,17,True
+Nungambakkam,2026-08-30,6,1,8,night,29,429.1,5,0.21,6,True
+Guindy,2026-08-31,0,0,8,morning,24,464.92,12,0.46,11,True
+Guindy,2026-08-31,0,0,8,afternoon,24,464.92,18,0.75,18,True
+Guindy,2026-08-31,0,0,8,evening,24,464.92,21,0.79,19,True
+Guindy,2026-08-31,0,0,8,night,24,464.92,7,0.5,12,True
+Velachery,2026-08-31,0,0,8,morning,22,489.23,9,0.55,12,True
+Velachery,2026-08-31,0,0,8,afternoon,22,489.23,13,0.55,12,True
+Velachery,2026-08-31,0,0,8,evening,22,489.23,16,0.68,15,True
+Velachery,2026-08-31,0,0,8,night,22,489.23,6,0.23,5,True
+Adyar,2026-08-31,0,0,8,morning,20,440.41,7,0.35,7,True
+Adyar,2026-08-31,0,0,8,afternoon,20,440.41,12,0.7,14,True
+Adyar,2026-08-31,0,0,8,evening,20,440.41,14,0.65,13,True
+Adyar,2026-08-31,0,0,8,night,20,440.41,5,0.35,7,True
+T. Nagar,2026-08-31,0,0,8,morning,26,382.43,11,0.42,11,True
+T. Nagar,2026-08-31,0,0,8,afternoon,26,382.43,16,0.73,19,True
+T. Nagar,2026-08-31,0,0,8,evening,26,382.43,17,0.62,16,True
+T. Nagar,2026-08-31,0,0,8,night,26,382.43,7,0.19,5,True
+Anna Nagar,2026-08-31,0,0,8,morning,13,465.6,9,0.69,9,True
+Anna Nagar,2026-08-31,0,0,8,afternoon,13,465.6,13,1.0,13,True
+Anna Nagar,2026-08-31,0,0,8,evening,13,465.6,18,1.0,19,True
+Anna Nagar,2026-08-31,0,0,8,night,13,465.6,6,0.46,6,True
+Mylapore,2026-08-31,0,0,8,morning,33,461.54,7,0.15,5,True
+Mylapore,2026-08-31,0,0,8,afternoon,33,461.54,10,0.3,10,True
+Mylapore,2026-08-31,0,0,8,evening,33,461.54,13,0.45,15,True
+Mylapore,2026-08-31,0,0,8,night,33,461.54,4,0.18,6,True
+OMR (Thoraipakkam),2026-08-31,0,0,8,morning,26,474.91,12,0.58,15,True
+OMR (Thoraipakkam),2026-08-31,0,0,8,afternoon,26,474.91,20,0.81,21,True
+OMR (Thoraipakkam),2026-08-31,0,0,8,evening,26,474.91,21,0.88,23,True
+OMR (Thoraipakkam),2026-08-31,0,0,8,night,26,474.91,7,0.31,8,True
+Nungambakkam,2026-08-31,0,0,8,morning,25,537.25,9,0.24,6,True
+Nungambakkam,2026-08-31,0,0,8,afternoon,25,537.25,13,0.48,12,True
+Nungambakkam,2026-08-31,0,0,8,evening,25,537.25,15,0.6,15,True
+Nungambakkam,2026-08-31,0,0,8,night,25,537.25,5,0.08,2,True
+Guindy,2026-09-01,1,0,9,morning,29,492.08,12,0.38,11,True
+Guindy,2026-09-01,1,0,9,afternoon,29,492.08,18,0.62,18,True
+Guindy,2026-09-01,1,0,9,evening,29,492.08,23,0.62,18,True
+Guindy,2026-09-01,1,0,9,night,29,492.08,8,0.31,9,True
+Velachery,2026-09-01,1,0,9,morning,28,447.76,10,0.29,8,True
+Velachery,2026-09-01,1,0,9,afternoon,28,447.76,12,0.5,14,True
+Velachery,2026-09-01,1,0,9,evening,28,447.76,15,0.43,12,True
+Velachery,2026-09-01,1,0,9,night,28,447.76,6,0.21,6,True
+Adyar,2026-09-01,1,0,9,morning,17,459.49,8,0.41,7,True
+Adyar,2026-09-01,1,0,9,afternoon,17,459.49,13,0.76,13,True
+Adyar,2026-09-01,1,0,9,evening,17,459.49,13,0.82,14,True
+Adyar,2026-09-01,1,0,9,night,17,459.49,5,0.53,9,True
+T. Nagar,2026-09-01,1,0,9,morning,12,440.45,11,1.0,13,True
+T. Nagar,2026-09-01,1,0,9,afternoon,12,440.45,16,1.0,15,True
+T. Nagar,2026-09-01,1,0,9,evening,12,440.45,19,1.0,19,True
+T. Nagar,2026-09-01,1,0,9,night,12,440.45,7,0.75,9,True
+Anna Nagar,2026-09-01,1,0,9,morning,22,494.73,8,0.23,5,True
+Anna Nagar,2026-09-01,1,0,9,afternoon,22,494.73,14,0.59,13,True
+Anna Nagar,2026-09-01,1,0,9,evening,22,494.73,17,0.77,17,True
+Anna Nagar,2026-09-01,1,0,9,night,22,494.73,6,0.18,4,True
+Mylapore,2026-09-01,1,0,9,morning,23,409.1,7,0.26,6,True
+Mylapore,2026-09-01,1,0,9,afternoon,23,409.1,11,0.48,11,True
+Mylapore,2026-09-01,1,0,9,evening,23,409.1,13,0.43,10,True
+Mylapore,2026-09-01,1,0,9,night,23,409.1,5,0.04,1,True
+OMR (Thoraipakkam),2026-09-01,1,0,9,morning,25,455.03,13,0.56,14,True
+OMR (Thoraipakkam),2026-09-01,1,0,9,afternoon,25,455.03,20,0.6,15,True
+OMR (Thoraipakkam),2026-09-01,1,0,9,evening,25,455.03,24,1.0,25,True
+OMR (Thoraipakkam),2026-09-01,1,0,9,night,25,455.03,9,0.24,6,True
+Nungambakkam,2026-09-01,1,0,9,morning,33,487.3,9,0.24,8,True
+Nungambakkam,2026-09-01,1,0,9,afternoon,33,487.3,13,0.42,14,True
+Nungambakkam,2026-09-01,1,0,9,evening,33,487.3,15,0.58,19,True
+Nungambakkam,2026-09-01,1,0,9,night,33,487.3,6,0.06,2,True
+Guindy,2026-09-02,2,0,9,morning,26,405.06,13,0.35,9,True
+Guindy,2026-09-02,2,0,9,afternoon,26,405.06,19,0.65,17,True
+Guindy,2026-09-02,2,0,9,evening,26,405.06,22,0.88,23,True
+Guindy,2026-09-02,2,0,9,night,26,405.06,7,0.31,8,True
+Velachery,2026-09-02,2,0,9,morning,19,499.16,9,0.42,8,True
+Velachery,2026-09-02,2,0,9,afternoon,19,499.16,12,0.58,11,True
+Velachery,2026-09-02,2,0,9,evening,19,499.16,15,0.79,15,True
+Velachery,2026-09-02,2,0,9,night,19,499.16,6,0.37,7,True
+Adyar,2026-09-02,2,0,9,morning,13,426.07,8,0.77,10,True
+Adyar,2026-09-02,2,0,9,afternoon,13,426.07,12,1.0,14,True
+Adyar,2026-09-02,2,0,9,evening,13,426.07,14,1.0,13,True
+Adyar,2026-09-02,2,0,9,night,13,426.07,5,0.38,5,True
+T. Nagar,2026-09-02,2,0,9,morning,20,483.31,11,0.45,9,True
+T. Nagar,2026-09-02,2,0,9,afternoon,20,483.31,15,0.8,16,True
+T. Nagar,2026-09-02,2,0,9,evening,20,483.31,17,0.8,16,True
+T. Nagar,2026-09-02,2,0,9,night,20,483.31,6,0.2,4,True
+Anna Nagar,2026-09-02,2,0,9,morning,26,483.97,9,0.27,7,True
+Anna Nagar,2026-09-02,2,0,9,afternoon,26,483.97,15,0.58,15,True
+Anna Nagar,2026-09-02,2,0,9,evening,26,483.97,17,0.73,19,True
+Anna Nagar,2026-09-02,2,0,9,night,26,483.97,5,0.15,4,True
+Mylapore,2026-09-02,2,0,9,morning,27,403.82,7,0.37,10,True
+Mylapore,2026-09-02,2,0,9,afternoon,27,403.82,10,0.26,7,True
+Mylapore,2026-09-02,2,0,9,evening,27,403.82,12,0.59,16,True
+Mylapore,2026-09-02,2,0,9,night,27,403.82,5,0.19,5,True
+OMR (Thoraipakkam),2026-09-02,2,0,9,morning,21,478.42,12,0.62,13,True
+OMR (Thoraipakkam),2026-09-02,2,0,9,afternoon,21,478.42,19,0.95,20,True
+OMR (Thoraipakkam),2026-09-02,2,0,9,evening,21,478.42,20,1.0,22,True
+OMR (Thoraipakkam),2026-09-02,2,0,9,night,21,478.42,8,0.52,11,True
+Nungambakkam,2026-09-02,2,0,9,morning,30,465.59,9,0.33,10,True
+Nungambakkam,2026-09-02,2,0,9,afternoon,30,465.59,13,0.4,12,True
+Nungambakkam,2026-09-02,2,0,9,evening,30,465.59,16,0.47,14,True
+Nungambakkam,2026-09-02,2,0,9,night,30,465.59,5,0.3,9,True
+Guindy,2026-09-03,3,0,9,morning,28,483.3,11,0.46,13,True
+Guindy,2026-09-03,3,0,9,afternoon,28,483.3,17,0.68,19,True
+Guindy,2026-09-03,3,0,9,evening,28,483.3,19,0.68,19,True
+Guindy,2026-09-03,3,0,9,night,28,483.3,7,0.32,9,True
+Velachery,2026-09-03,3,0,9,morning,12,507.06,9,0.67,8,True
+Velachery,2026-09-03,3,0,9,afternoon,12,507.06,13,0.75,9,True
+Velachery,2026-09-03,3,0,9,evening,12,507.06,16,1.0,15,True
+Velachery,2026-09-03,3,0,9,night,12,507.06,6,0.5,6,True
+Adyar,2026-09-03,3,0,9,morning,17,452.7,8,0.82,14,True
+Adyar,2026-09-03,3,0,9,afternoon,17,452.7,13,0.94,16,True
+Adyar,2026-09-03,3,0,9,evening,17,452.7,13,0.82,14,True
+Adyar,2026-09-03,3,0,9,night,17,452.7,5,0.29,5,True
+T. Nagar,2026-09-03,3,0,9,morning,22,519.34,11,0.36,8,True
+T. Nagar,2026-09-03,3,0,9,afternoon,22,519.34,16,0.64,14,True
+T. Nagar,2026-09-03,3,0,9,evening,22,519.34,19,0.77,17,True
+T. Nagar,2026-09-03,3,0,9,night,22,519.34,7,0.36,8,True
+Anna Nagar,2026-09-03,3,0,9,morning,32,453.49,9,0.25,8,True
+Anna Nagar,2026-09-03,3,0,9,afternoon,32,453.49,13,0.5,16,True
+Anna Nagar,2026-09-03,3,0,9,evening,32,453.49,17,0.41,13,True
+Anna Nagar,2026-09-03,3,0,9,night,32,453.49,6,0.12,4,True
+Mylapore,2026-09-03,3,0,9,morning,29,442.42,7,0.38,11,True
+Mylapore,2026-09-03,3,0,9,afternoon,29,442.42,10,0.31,9,True
+Mylapore,2026-09-03,3,0,9,evening,29,442.42,13,0.48,14,True
+Mylapore,2026-09-03,3,0,9,night,29,442.42,5,0.14,4,True
+OMR (Thoraipakkam),2026-09-03,3,0,9,morning,30,390.73,13,0.47,14,True
+OMR (Thoraipakkam),2026-09-03,3,0,9,afternoon,30,390.73,20,0.67,20,True
+OMR (Thoraipakkam),2026-09-03,3,0,9,evening,30,390.73,20,0.73,22,True
+OMR (Thoraipakkam),2026-09-03,3,0,9,night,30,390.73,7,0.3,9,True
+Nungambakkam,2026-09-03,3,0,9,morning,16,447.88,8,0.5,8,True
+Nungambakkam,2026-09-03,3,0,9,afternoon,16,447.88,13,0.81,13,True
+Nungambakkam,2026-09-03,3,0,9,evening,16,447.88,13,0.94,15,True
+Nungambakkam,2026-09-03,3,0,9,night,16,447.88,5,0.12,2,True
+Guindy,2026-09-04,4,0,9,morning,13,535.28,11,0.92,12,True
+Guindy,2026-09-04,4,0,9,afternoon,13,535.28,18,1.0,18,True
+Guindy,2026-09-04,4,0,9,evening,13,535.28,19,1.0,21,True
+Guindy,2026-09-04,4,0,9,night,13,535.28,8,0.46,6,True
+Velachery,2026-09-04,4,0,9,morning,31,436.42,9,0.29,9,True
+Velachery,2026-09-04,4,0,9,afternoon,31,436.42,14,0.35,11,True
+Velachery,2026-09-04,4,0,9,evening,31,436.42,15,0.55,17,True
+Velachery,2026-09-04,4,0,9,night,31,436.42,6,0.03,1,True
+Adyar,2026-09-04,4,0,9,morning,13,488.9,9,1.0,13,True
+Adyar,2026-09-04,4,0,9,afternoon,13,488.9,11,1.0,13,True
+Adyar,2026-09-04,4,0,9,evening,13,488.9,14,1.0,15,True
+Adyar,2026-09-04,4,0,9,night,13,488.9,5,0.54,7,True
+T. Nagar,2026-09-04,4,0,9,morning,28,508.48,10,0.43,12,True
+T. Nagar,2026-09-04,4,0,9,afternoon,28,508.48,17,0.54,15,True
+T. Nagar,2026-09-04,4,0,9,evening,28,508.48,19,0.71,20,True
+T. Nagar,2026-09-04,4,0,9,night,28,508.48,7,0.18,5,True
+Anna Nagar,2026-09-04,4,0,9,morning,21,482.31,8,0.33,7,True
+Anna Nagar,2026-09-04,4,0,9,afternoon,21,482.31,14,0.57,12,True
+Anna Nagar,2026-09-04,4,0,9,evening,21,482.31,17,0.76,16,True
+Anna Nagar,2026-09-04,4,0,9,night,21,482.31,6,0.14,3,True
+Mylapore,2026-09-04,4,0,9,morning,20,428.05,7,0.4,8,True
+Mylapore,2026-09-04,4,0,9,afternoon,20,428.05,11,0.4,8,True
+Mylapore,2026-09-04,4,0,9,evening,20,428.05,13,0.7,14,True
+Mylapore,2026-09-04,4,0,9,night,20,428.05,4,0.1,2,True
+OMR (Thoraipakkam),2026-09-04,4,0,9,morning,12,401.34,13,0.75,9,True
+OMR (Thoraipakkam),2026-09-04,4,0,9,afternoon,12,401.34,20,1.0,20,True
+OMR (Thoraipakkam),2026-09-04,4,0,9,evening,12,401.34,24,1.0,23,True
+OMR (Thoraipakkam),2026-09-04,4,0,9,night,12,401.34,8,0.42,5,True
+Nungambakkam,2026-09-04,4,0,9,morning,12,460.34,8,0.83,10,True
+Nungambakkam,2026-09-04,4,0,9,afternoon,12,460.34,12,0.92,11,True
+Nungambakkam,2026-09-04,4,0,9,evening,12,460.34,16,1.0,14,True
+Nungambakkam,2026-09-04,4,0,9,night,12,460.34,6,0.58,7,True
+Guindy,2026-09-05,5,1,9,morning,22,428.98,10,0.55,12,True
+Guindy,2026-09-05,5,1,9,afternoon,22,428.98,15,0.64,14,True
+Guindy,2026-09-05,5,1,9,evening,22,428.98,16,0.86,19,True
+Guindy,2026-09-05,5,1,9,night,22,428.98,6,0.23,5,True
+Velachery,2026-09-05,5,1,9,morning,22,519.83,9,0.27,6,True
+Velachery,2026-09-05,5,1,9,afternoon,22,519.83,13,0.64,14,True
+Velachery,2026-09-05,5,1,9,evening,22,519.83,15,0.64,14,True
+Velachery,2026-09-05,5,1,9,night,22,519.83,5,0.23,5,True
+Adyar,2026-09-05,5,1,9,morning,32,486.86,10,0.31,10,True
+Adyar,2026-09-05,5,1,9,afternoon,32,486.86,17,0.53,17,True
+Adyar,2026-09-05,5,1,9,evening,32,486.86,19,0.59,19,True
+Adyar,2026-09-05,5,1,9,night,32,486.86,6,0.19,6,True
+T. Nagar,2026-09-05,5,1,9,morning,21,419.39,13,0.43,9,True
+T. Nagar,2026-09-05,5,1,9,afternoon,21,419.39,22,1.0,21,True
+T. Nagar,2026-09-05,5,1,9,evening,21,419.39,26,1.0,22,True
+T. Nagar,2026-09-05,5,1,9,night,21,419.39,9,0.48,10,True
+Anna Nagar,2026-09-05,5,1,9,morning,21,392.72,11,0.43,9,True
+Anna Nagar,2026-09-05,5,1,9,afternoon,21,392.72,19,0.76,16,True
+Anna Nagar,2026-09-05,5,1,9,evening,21,392.72,19,0.9,19,True
+Anna Nagar,2026-09-05,5,1,9,night,21,392.72,8,0.33,7,True
+Mylapore,2026-09-05,5,1,9,morning,16,501.66,8,0.56,9,True
+Mylapore,2026-09-05,5,1,9,afternoon,16,501.66,11,0.75,12,True
+Mylapore,2026-09-05,5,1,9,evening,16,501.66,12,1.0,17,True
+Mylapore,2026-09-05,5,1,9,night,16,501.66,5,0.12,2,True
+OMR (Thoraipakkam),2026-09-05,5,1,9,morning,26,477.78,10,0.31,8,True
+OMR (Thoraipakkam),2026-09-05,5,1,9,afternoon,26,477.78,16,0.69,18,True
+OMR (Thoraipakkam),2026-09-05,5,1,9,evening,26,477.78,18,0.65,17,True
+OMR (Thoraipakkam),2026-09-05,5,1,9,night,26,477.78,6,0.19,5,True
+Nungambakkam,2026-09-05,5,1,9,morning,28,498.16,9,0.43,12,True
+Nungambakkam,2026-09-05,5,1,9,afternoon,28,498.16,12,0.39,11,True
+Nungambakkam,2026-09-05,5,1,9,evening,28,498.16,14,0.61,17,True
+Nungambakkam,2026-09-05,5,1,9,night,28,498.16,5,0.32,9,True
+Guindy,2026-09-06,6,1,9,morning,26,405.09,9,0.35,9,True
+Guindy,2026-09-06,6,1,9,afternoon,26,405.09,16,0.5,13,True
+Guindy,2026-09-06,6,1,9,evening,26,405.09,17,0.58,15,True
+Guindy,2026-09-06,6,1,9,night,26,405.09,6,0.08,2,True
+Velachery,2026-09-06,6,1,9,morning,30,520.64,9,0.23,7,True
+Velachery,2026-09-06,6,1,9,afternoon,30,520.64,12,0.57,17,True
+Velachery,2026-09-06,6,1,9,evening,30,520.64,16,0.53,16,True
+Velachery,2026-09-06,6,1,9,night,30,520.64,5,0.07,2,True
+Adyar,2026-09-06,6,1,9,morning,32,456.66,10,0.34,11,True
+Adyar,2026-09-06,6,1,9,afternoon,32,456.66,16,0.44,14,True
+Adyar,2026-09-06,6,1,9,evening,32,456.66,17,0.53,17,True
+Adyar,2026-09-06,6,1,9,night,32,456.66,6,0.25,8,True
+T. Nagar,2026-09-06,6,1,9,morning,28,438.27,14,0.57,16,True
+T. Nagar,2026-09-06,6,1,9,afternoon,28,438.27,20,0.75,21,True
+T. Nagar,2026-09-06,6,1,9,evening,28,438.27,25,0.82,23,True
+T. Nagar,2026-09-06,6,1,9,night,28,438.27,9,0.32,9,True
+Anna Nagar,2026-09-06,6,1,9,morning,12,495.77,12,1.0,14,True
+Anna Nagar,2026-09-06,6,1,9,afternoon,12,495.77,17,1.0,17,True
+Anna Nagar,2026-09-06,6,1,9,evening,12,495.77,20,1.0,22,True
+Anna Nagar,2026-09-06,6,1,9,night,12,495.77,8,0.83,10,True
+Mylapore,2026-09-06,6,1,9,morning,20,606.09,7,0.35,7,True
+Mylapore,2026-09-06,6,1,9,afternoon,20,606.09,11,0.65,13,True
+Mylapore,2026-09-06,6,1,9,evening,20,606.09,13,0.6,12,True
+Mylapore,2026-09-06,6,1,9,night,20,606.09,5,0.3,6,True
+OMR (Thoraipakkam),2026-09-06,6,1,9,morning,24,459.58,10,0.38,9,True
+OMR (Thoraipakkam),2026-09-06,6,1,9,afternoon,24,459.58,14,0.67,16,True
+OMR (Thoraipakkam),2026-09-06,6,1,9,evening,24,459.58,19,0.75,18,True
+OMR (Thoraipakkam),2026-09-06,6,1,9,night,24,459.58,6,0.25,6,True
+Nungambakkam,2026-09-06,6,1,9,morning,25,421.43,8,0.28,7,True
+Nungambakkam,2026-09-06,6,1,9,afternoon,25,421.43,13,0.48,12,True
+Nungambakkam,2026-09-06,6,1,9,evening,25,421.43,15,0.64,16,True
+Nungambakkam,2026-09-06,6,1,9,night,25,421.43,5,0.32,8,True
+Guindy,2026-09-07,0,0,9,morning,28,482.58,12,0.36,10,True
+Guindy,2026-09-07,0,0,9,afternoon,28,482.58,17,0.57,16,True
+Guindy,2026-09-07,0,0,9,evening,28,482.58,19,0.75,21,True
+Guindy,2026-09-07,0,0,9,night,28,482.58,8,0.14,4,True
+Velachery,2026-09-07,0,0,9,morning,27,540.98,9,0.37,10,True
+Velachery,2026-09-07,0,0,9,afternoon,27,540.98,12,0.52,14,True
+Velachery,2026-09-07,0,0,9,evening,27,540.98,16,0.67,18,True
+Velachery,2026-09-07,0,0,9,night,27,540.98,5,0.33,9,True
+Adyar,2026-09-07,0,0,9,morning,28,457.54,8,0.29,8,True
+Adyar,2026-09-07,0,0,9,afternoon,28,457.54,13,0.32,9,True
+Adyar,2026-09-07,0,0,9,evening,28,457.54,15,0.64,18,True
+Adyar,2026-09-07,0,0,9,night,28,457.54,5,0.29,8,True
+T. Nagar,2026-09-07,0,0,9,morning,24,462.81,11,0.38,9,True
+T. Nagar,2026-09-07,0,0,9,afternoon,24,462.81,15,0.79,19,True
+T. Nagar,2026-09-07,0,0,9,evening,24,462.81,20,0.83,20,True
+T. Nagar,2026-09-07,0,0,9,night,24,462.81,7,0.29,7,True
+Anna Nagar,2026-09-07,0,0,9,morning,13,468.96,9,0.92,12,True
+Anna Nagar,2026-09-07,0,0,9,afternoon,13,468.96,15,0.77,10,True
+Anna Nagar,2026-09-07,0,0,9,evening,13,468.96,16,0.92,12,True
+Anna Nagar,2026-09-07,0,0,9,night,13,468.96,6,0.69,9,True
+Mylapore,2026-09-07,0,0,9,morning,14,570.99,7,0.29,4,True
+Mylapore,2026-09-07,0,0,9,afternoon,14,570.99,10,0.93,13,True
+Mylapore,2026-09-07,0,0,9,evening,14,570.99,13,0.79,11,True
+Mylapore,2026-09-07,0,0,9,night,14,570.99,4,0.43,6,True
+OMR (Thoraipakkam),2026-09-07,0,0,9,morning,15,502.23,12,0.93,14,True
+OMR (Thoraipakkam),2026-09-07,0,0,9,afternoon,15,502.23,17,1.0,20,True
+OMR (Thoraipakkam),2026-09-07,0,0,9,evening,15,502.23,21,1.0,24,True
+OMR (Thoraipakkam),2026-09-07,0,0,9,night,15,502.23,8,0.27,4,True
+Nungambakkam,2026-09-07,0,0,9,morning,14,437.03,9,0.64,9,True
+Nungambakkam,2026-09-07,0,0,9,afternoon,14,437.03,13,1.0,15,True
+Nungambakkam,2026-09-07,0,0,9,evening,14,437.03,15,0.86,12,True
+Nungambakkam,2026-09-07,0,0,9,night,14,437.03,5,0.36,5,True
+Guindy,2026-09-08,1,0,9,morning,29,544.84,13,0.38,11,True
+Guindy,2026-09-08,1,0,9,afternoon,29,544.84,16,0.66,19,True
+Guindy,2026-09-08,1,0,9,evening,29,544.84,19,0.62,18,True
+Guindy,2026-09-08,1,0,9,night,29,544.84,8,0.31,9,True
+Velachery,2026-09-08,1,0,9,morning,24,480.62,8,0.58,14,True
+Velachery,2026-09-08,1,0,9,afternoon,24,480.62,13,0.46,11,True
+Velachery,2026-09-08,1,0,9,evening,24,480.62,14,0.62,15,True
+Velachery,2026-09-08,1,0,9,night,24,480.62,5,0.33,8,True
+Adyar,2026-09-08,1,0,9,morning,34,398.41,9,0.29,10,True
+Adyar,2026-09-08,1,0,9,afternoon,34,398.41,12,0.41,14,True
+Adyar,2026-09-08,1,0,9,evening,34,398.41,15,0.53,18,True
+Adyar,2026-09-08,1,0,9,night,34,398.41,5,0.24,8,True
+T. Nagar,2026-09-08,1,0,9,morning,30,537.74,10,0.47,14,True
+T. Nagar,2026-09-08,1,0,9,afternoon,30,537.74,15,0.5,15,True
+T. Nagar,2026-09-08,1,0,9,evening,30,537.74,20,0.67,20,True
+T. Nagar,2026-09-08,1,0,9,night,30,537.74,6,0.23,7,True
+Anna Nagar,2026-09-08,1,0,9,morning,30,376.46,9,0.3,9,True
+Anna Nagar,2026-09-08,1,0,9,afternoon,30,376.46,14,0.53,16,True
+Anna Nagar,2026-09-08,1,0,9,evening,30,376.46,18,0.53,16,True
+Anna Nagar,2026-09-08,1,0,9,night,30,376.46,6,0.23,7,True
+Mylapore,2026-09-08,1,0,9,morning,34,450.29,7,0.24,8,True
+Mylapore,2026-09-08,1,0,9,afternoon,34,450.29,11,0.35,12,True
+Mylapore,2026-09-08,1,0,9,evening,34,450.29,13,0.47,16,True
+Mylapore,2026-09-08,1,0,9,night,34,450.29,4,0.15,5,True
+OMR (Thoraipakkam),2026-09-08,1,0,9,morning,25,383.96,12,0.68,17,True
+OMR (Thoraipakkam),2026-09-08,1,0,9,afternoon,25,383.96,20,0.88,22,True
+OMR (Thoraipakkam),2026-09-08,1,0,9,evening,25,383.96,23,0.96,24,True
+OMR (Thoraipakkam),2026-09-08,1,0,9,night,25,383.96,8,0.32,8,True
+Nungambakkam,2026-09-08,1,0,9,morning,24,477.91,8,0.38,9,True
+Nungambakkam,2026-09-08,1,0,9,afternoon,24,477.91,14,0.42,10,True
+Nungambakkam,2026-09-08,1,0,9,evening,24,477.91,14,0.75,18,True
+Nungambakkam,2026-09-08,1,0,9,night,24,477.91,5,0.33,8,True
+Guindy,2026-09-09,2,0,9,morning,28,446.3,12,0.39,11,True
+Guindy,2026-09-09,2,0,9,afternoon,28,446.3,19,0.57,16,True
+Guindy,2026-09-09,2,0,9,evening,28,446.3,23,0.79,22,True
+Guindy,2026-09-09,2,0,9,night,28,446.3,7,0.32,9,True
+Velachery,2026-09-09,2,0,9,morning,20,409.78,10,0.45,9,True
+Velachery,2026-09-09,2,0,9,afternoon,20,409.78,13,0.75,15,True
+Velachery,2026-09-09,2,0,9,evening,20,409.78,17,0.7,14,True
+Velachery,2026-09-09,2,0,9,night,20,409.78,6,0.25,5,True
+Adyar,2026-09-09,2,0,9,morning,29,439.71,8,0.24,7,True
+Adyar,2026-09-09,2,0,9,afternoon,29,439.71,11,0.41,12,True
+Adyar,2026-09-09,2,0,9,evening,29,439.71,15,0.38,11,True
+Adyar,2026-09-09,2,0,9,night,29,439.71,5,0.17,5,True
+T. Nagar,2026-09-09,2,0,9,morning,16,411.45,11,0.44,7,True
+T. Nagar,2026-09-09,2,0,9,afternoon,16,411.45,15,0.94,15,True
+T. Nagar,2026-09-09,2,0,9,evening,16,411.45,17,1.0,16,True
+T. Nagar,2026-09-09,2,0,9,night,16,411.45,6,0.31,5,True
+Anna Nagar,2026-09-09,2,0,9,morning,15,518.46,9,0.47,7,True
+Anna Nagar,2026-09-09,2,0,9,afternoon,15,518.46,13,0.87,13,True
+Anna Nagar,2026-09-09,2,0,9,evening,15,518.46,17,1.0,17,True
+Anna Nagar,2026-09-09,2,0,9,night,15,518.46,6,0.13,2,True
+Mylapore,2026-09-09,2,0,9,morning,16,442.49,7,0.62,10,True
+Mylapore,2026-09-09,2,0,9,afternoon,16,442.49,10,0.69,11,True
+Mylapore,2026-09-09,2,0,9,evening,16,442.49,14,0.75,12,True
+Mylapore,2026-09-09,2,0,9,night,16,442.49,4,0.44,7,True
+OMR (Thoraipakkam),2026-09-09,2,0,9,morning,13,400.18,12,1.0,14,True
+OMR (Thoraipakkam),2026-09-09,2,0,9,afternoon,13,400.18,19,1.0,20,True
+OMR (Thoraipakkam),2026-09-09,2,0,9,evening,13,400.18,23,1.0,25,True
+OMR (Thoraipakkam),2026-09-09,2,0,9,night,13,400.18,8,0.54,7,True
+Nungambakkam,2026-09-09,2,0,9,morning,18,490.29,9,0.61,11,True
+Nungambakkam,2026-09-09,2,0,9,afternoon,18,490.29,11,0.72,13,True
+Nungambakkam,2026-09-09,2,0,9,evening,18,490.29,15,0.56,10,True
+Nungambakkam,2026-09-09,2,0,9,night,18,490.29,5,0.5,9,True
+Guindy,2026-09-10,3,0,9,morning,14,504.54,13,1.0,15,True
+Guindy,2026-09-10,3,0,9,afternoon,14,504.54,18,1.0,19,True
+Guindy,2026-09-10,3,0,9,evening,14,504.54,21,1.0,20,True
+Guindy,2026-09-10,3,0,9,night,14,504.54,8,0.57,8,True
+Velachery,2026-09-10,3,0,9,morning,25,517.23,9,0.24,6,True
+Velachery,2026-09-10,3,0,9,afternoon,25,517.23,13,0.6,15,True
+Velachery,2026-09-10,3,0,9,evening,25,517.23,16,0.56,14,True
+Velachery,2026-09-10,3,0,9,night,25,517.23,5,0.24,6,True
+Adyar,2026-09-10,3,0,9,morning,24,404.57,8,0.29,7,True
+Adyar,2026-09-10,3,0,9,afternoon,24,404.57,12,0.5,12,True
+Adyar,2026-09-10,3,0,9,evening,24,404.57,14,0.67,16,True
+Adyar,2026-09-10,3,0,9,night,24,404.57,5,0.29,7,True
+T. Nagar,2026-09-10,3,0,9,morning,21,421.9,11,0.43,9,True
+T. Nagar,2026-09-10,3,0,9,afternoon,21,421.9,17,0.71,15,True
+T. Nagar,2026-09-10,3,0,9,evening,21,421.9,19,0.81,17,True
+T. Nagar,2026-09-10,3,0,9,night,21,421.9,6,0.33,7,True
+Anna Nagar,2026-09-10,3,0,9,morning,18,470.43,9,0.5,9,True
+Anna Nagar,2026-09-10,3,0,9,afternoon,18,470.43,14,0.83,15,True
+Anna Nagar,2026-09-10,3,0,9,evening,18,470.43,15,1.0,19,True
+Anna Nagar,2026-09-10,3,0,9,night,18,470.43,5,0.17,3,True
+Mylapore,2026-09-10,3,0,9,morning,12,419.6,7,0.5,6,True
+Mylapore,2026-09-10,3,0,9,afternoon,12,419.6,12,0.83,10,True
+Mylapore,2026-09-10,3,0,9,evening,12,419.6,14,0.92,11,True
+Mylapore,2026-09-10,3,0,9,night,12,419.6,4,0.25,3,True
+OMR (Thoraipakkam),2026-09-10,3,0,9,morning,27,529.55,13,0.44,12,True
+OMR (Thoraipakkam),2026-09-10,3,0,9,afternoon,27,529.55,20,0.7,19,True
+OMR (Thoraipakkam),2026-09-10,3,0,9,evening,27,529.55,24,0.93,25,True
+OMR (Thoraipakkam),2026-09-10,3,0,9,night,27,529.55,8,0.41,11,True
+Nungambakkam,2026-09-10,3,0,9,morning,22,406.39,9,0.41,9,True
+Nungambakkam,2026-09-10,3,0,9,afternoon,22,406.39,14,0.36,8,True
+Nungambakkam,2026-09-10,3,0,9,evening,22,406.39,13,0.73,16,True
+Nungambakkam,2026-09-10,3,0,9,night,22,406.39,5,0.59,13,True
+Guindy,2026-09-11,4,0,9,morning,33,345.79,13,0.45,15,True
+Guindy,2026-09-11,4,0,9,afternoon,33,345.79,17,0.58,19,True
+Guindy,2026-09-11,4,0,9,evening,33,345.79,20,0.7,23,True
+Guindy,2026-09-11,4,0,9,night,33,345.79,8,0.33,11,True
+Velachery,2026-09-11,4,0,9,morning,19,440.39,9,0.37,7,True
+Velachery,2026-09-11,4,0,9,afternoon,19,440.39,14,0.63,12,True
+Velachery,2026-09-11,4,0,9,evening,19,440.39,14,0.95,18,True
+Velachery,2026-09-11,4,0,9,night,19,440.39,6,0.21,4,True
+Adyar,2026-09-11,4,0,9,morning,32,487.7,9,0.19,6,True
+Adyar,2026-09-11,4,0,9,afternoon,32,487.7,12,0.38,12,True
+Adyar,2026-09-11,4,0,9,evening,32,487.7,15,0.47,15,True
+Adyar,2026-09-11,4,0,9,night,32,487.7,5,0.09,3,True
+T. Nagar,2026-09-11,4,0,9,morning,30,443.04,11,0.33,10,True
+T. Nagar,2026-09-11,4,0,9,afternoon,30,443.04,16,0.5,15,True
+T. Nagar,2026-09-11,4,0,9,evening,30,443.04,19,0.6,18,True
+T. Nagar,2026-09-11,4,0,9,night,30,443.04,7,0.23,7,True
+Anna Nagar,2026-09-11,4,0,9,morning,34,493.46,9,0.24,8,True
+Anna Nagar,2026-09-11,4,0,9,afternoon,34,493.46,15,0.26,9,True
+Anna Nagar,2026-09-11,4,0,9,evening,34,493.46,16,0.47,16,True
+Anna Nagar,2026-09-11,4,0,9,night,34,493.46,6,0.29,10,True
+Mylapore,2026-09-11,4,0,9,morning,15,425.8,7,0.33,5,True
+Mylapore,2026-09-11,4,0,9,afternoon,15,425.8,11,0.53,8,True
+Mylapore,2026-09-11,4,0,9,evening,15,425.8,13,0.73,11,True
+Mylapore,2026-09-11,4,0,9,night,15,425.8,5,0.13,2,True
+OMR (Thoraipakkam),2026-09-11,4,0,9,morning,15,426.58,12,0.67,10,True
+OMR (Thoraipakkam),2026-09-11,4,0,9,afternoon,15,426.58,20,1.0,18,True
+OMR (Thoraipakkam),2026-09-11,4,0,9,evening,15,426.58,21,1.0,21,True
+OMR (Thoraipakkam),2026-09-11,4,0,9,night,15,426.58,8,0.47,7,True
+Nungambakkam,2026-09-11,4,0,9,morning,14,350.25,9,0.57,8,True
+Nungambakkam,2026-09-11,4,0,9,afternoon,14,350.25,13,0.64,9,True
+Nungambakkam,2026-09-11,4,0,9,evening,14,350.25,16,1.0,16,True
+Nungambakkam,2026-09-11,4,0,9,night,14,350.25,6,0.57,8,True
+Guindy,2026-09-12,5,1,9,morning,13,402.55,10,1.0,13,True
+Guindy,2026-09-12,5,1,9,afternoon,13,402.55,14,1.0,17,True
+Guindy,2026-09-12,5,1,9,evening,13,402.55,16,1.0,15,True
+Guindy,2026-09-12,5,1,9,night,13,402.55,6,0.46,6,True
+Velachery,2026-09-12,5,1,9,morning,14,402.65,9,0.5,7,True
+Velachery,2026-09-12,5,1,9,afternoon,14,402.65,12,0.64,9,True
+Velachery,2026-09-12,5,1,9,evening,14,402.65,15,1.0,16,True
+Velachery,2026-09-12,5,1,9,night,14,402.65,5,0.64,9,True
+Adyar,2026-09-12,5,1,9,morning,25,489.02,11,0.28,7,True
+Adyar,2026-09-12,5,1,9,afternoon,25,489.02,15,0.48,12,True
+Adyar,2026-09-12,5,1,9,evening,25,489.02,17,0.84,21,True
+Adyar,2026-09-12,5,1,9,night,25,489.02,7,0.2,5,True
+T. Nagar,2026-09-12,5,1,9,morning,19,459.42,13,0.79,15,True
+T. Nagar,2026-09-12,5,1,9,afternoon,19,459.42,20,1.0,21,True
+T. Nagar,2026-09-12,5,1,9,evening,19,459.42,24,1.0,23,True
+T. Nagar,2026-09-12,5,1,9,night,19,459.42,8,0.47,9,True
+Anna Nagar,2026-09-12,5,1,9,morning,30,525.82,12,0.43,13,True
+Anna Nagar,2026-09-12,5,1,9,afternoon,30,525.82,17,0.53,16,True
+Anna Nagar,2026-09-12,5,1,9,evening,30,525.82,21,0.7,21,True
+Anna Nagar,2026-09-12,5,1,9,night,30,525.82,8,0.27,8,True
+Mylapore,2026-09-12,5,1,9,morning,20,442.24,7,0.3,6,True
+Mylapore,2026-09-12,5,1,9,afternoon,20,442.24,10,0.5,10,True
+Mylapore,2026-09-12,5,1,9,evening,20,442.24,14,0.5,10,True
+Mylapore,2026-09-12,5,1,9,night,20,442.24,5,0.25,5,True
+OMR (Thoraipakkam),2026-09-12,5,1,9,morning,21,470.8,11,0.38,8,True
+OMR (Thoraipakkam),2026-09-12,5,1,9,afternoon,21,470.8,15,0.71,15,True
+OMR (Thoraipakkam),2026-09-12,5,1,9,evening,21,470.8,17,0.95,20,True
+OMR (Thoraipakkam),2026-09-12,5,1,9,night,21,470.8,6,0.24,5,True
+Nungambakkam,2026-09-12,5,1,9,morning,28,501.92,9,0.29,8,True
+Nungambakkam,2026-09-12,5,1,9,afternoon,28,501.92,13,0.54,15,True
+Nungambakkam,2026-09-12,5,1,9,evening,28,501.92,15,0.5,14,True
+Nungambakkam,2026-09-12,5,1,9,night,28,501.92,6,0.18,5,True
+Guindy,2026-09-13,6,1,9,morning,14,414.27,9,0.79,11,True
+Guindy,2026-09-13,6,1,9,afternoon,14,414.27,14,0.93,13,True
+Guindy,2026-09-13,6,1,9,evening,14,414.27,17,1.0,17,True
+Guindy,2026-09-13,6,1,9,night,14,414.27,6,0.43,6,True
+Velachery,2026-09-13,6,1,9,morning,29,470.41,9,0.31,9,True
+Velachery,2026-09-13,6,1,9,afternoon,29,470.41,12,0.48,14,True
+Velachery,2026-09-13,6,1,9,evening,29,470.41,16,0.45,13,True
+Velachery,2026-09-13,6,1,9,night,29,470.41,6,0.17,5,True
+Adyar,2026-09-13,6,1,9,morning,30,420.67,10,0.37,11,True
+Adyar,2026-09-13,6,1,9,afternoon,30,420.67,14,0.53,16,True
+Adyar,2026-09-13,6,1,9,evening,30,420.67,18,0.63,19,True
+Adyar,2026-09-13,6,1,9,night,30,420.67,7,0.27,8,True
+T. Nagar,2026-09-13,6,1,9,morning,14,442.94,14,0.79,11,True
+T. Nagar,2026-09-13,6,1,9,afternoon,14,442.94,21,1.0,17,True
+T. Nagar,2026-09-13,6,1,9,evening,14,442.94,22,1.0,23,True
+T. Nagar,2026-09-13,6,1,9,night,14,442.94,8,0.5,7,True
+Anna Nagar,2026-09-13,6,1,9,morning,24,390.01,12,0.46,11,True
+Anna Nagar,2026-09-13,6,1,9,afternoon,24,390.01,20,0.71,17,True
+Anna Nagar,2026-09-13,6,1,9,evening,24,390.01,20,0.83,20,True
+Anna Nagar,2026-09-13,6,1,9,night,24,390.01,7,0.38,9,True
+Mylapore,2026-09-13,6,1,9,morning,23,425.16,7,0.35,8,True
+Mylapore,2026-09-13,6,1,9,afternoon,23,425.16,11,0.52,12,True
+Mylapore,2026-09-13,6,1,9,evening,23,425.16,13,0.57,13,True
+Mylapore,2026-09-13,6,1,9,night,23,425.16,4,0.35,8,True
+OMR (Thoraipakkam),2026-09-13,6,1,9,morning,24,488.76,10,0.46,11,True
+OMR (Thoraipakkam),2026-09-13,6,1,9,afternoon,24,488.76,16,0.58,14,True
+OMR (Thoraipakkam),2026-09-13,6,1,9,evening,24,488.76,18,0.71,17,True
+OMR (Thoraipakkam),2026-09-13,6,1,9,night,24,488.76,6,0.12,3,True
+Nungambakkam,2026-09-13,6,1,9,morning,20,429.28,8,0.5,10,True
+Nungambakkam,2026-09-13,6,1,9,afternoon,20,429.28,11,0.45,9,True
+Nungambakkam,2026-09-13,6,1,9,evening,20,429.28,14,0.9,18,True
+Nungambakkam,2026-09-13,6,1,9,night,20,429.28,5,0.2,4,True
+Guindy,2026-09-14,0,0,9,morning,22,517.33,12,0.5,11,True
+Guindy,2026-09-14,0,0,9,afternoon,22,517.33,18,0.82,18,True
+Guindy,2026-09-14,0,0,9,evening,22,517.33,20,0.82,18,True
+Guindy,2026-09-14,0,0,9,night,22,517.33,7,0.32,7,True
+Velachery,2026-09-14,0,0,9,morning,34,497.46,8,0.18,6,True
+Velachery,2026-09-14,0,0,9,afternoon,34,497.46,13,0.38,13,True
+Velachery,2026-09-14,0,0,9,evening,34,497.46,14,0.47,16,True
+Velachery,2026-09-14,0,0,9,night,34,497.46,5,0.18,6,True
+Adyar,2026-09-14,0,0,9,morning,13,502.44,7,0.85,11,True
+Adyar,2026-09-14,0,0,9,afternoon,13,502.44,13,1.0,13,True
+Adyar,2026-09-14,0,0,9,evening,13,502.44,13,1.0,13,True
+Adyar,2026-09-14,0,0,9,night,13,502.44,5,0.23,3,True
+T. Nagar,2026-09-14,0,0,9,morning,21,401.59,11,0.48,10,True
+T. Nagar,2026-09-14,0,0,9,afternoon,21,401.59,16,0.76,16,True
+T. Nagar,2026-09-14,0,0,9,evening,21,401.59,19,0.76,16,True
+T. Nagar,2026-09-14,0,0,9,night,21,401.59,6,0.24,5,True
+Anna Nagar,2026-09-14,0,0,9,morning,26,443.99,9,0.35,9,True
+Anna Nagar,2026-09-14,0,0,9,afternoon,26,443.99,14,0.5,13,True
+Anna Nagar,2026-09-14,0,0,9,evening,26,443.99,15,0.69,18,True
+Anna Nagar,2026-09-14,0,0,9,night,26,443.99,6,0.31,8,True
+Mylapore,2026-09-14,0,0,9,morning,28,436.55,8,0.29,8,True
+Mylapore,2026-09-14,0,0,9,afternoon,28,436.55,10,0.36,10,True
+Mylapore,2026-09-14,0,0,9,evening,28,436.55,14,0.32,9,True
+Mylapore,2026-09-14,0,0,9,night,28,436.55,4,0.11,3,True
+OMR (Thoraipakkam),2026-09-14,0,0,9,morning,24,483.87,13,0.46,11,True
+OMR (Thoraipakkam),2026-09-14,0,0,9,afternoon,24,483.87,19,0.83,20,True
+OMR (Thoraipakkam),2026-09-14,0,0,9,evening,24,483.87,23,1.0,24,True
+OMR (Thoraipakkam),2026-09-14,0,0,9,night,24,483.87,7,0.21,5,True
+Nungambakkam,2026-09-14,0,0,9,morning,16,463.55,8,0.44,7,True
+Nungambakkam,2026-09-14,0,0,9,afternoon,16,463.55,12,0.88,14,True
+Nungambakkam,2026-09-14,0,0,9,evening,16,463.55,15,0.75,12,True
+Nungambakkam,2026-09-14,0,0,9,night,16,463.55,5,0.12,2,True
+Guindy,2026-09-15,1,0,9,morning,34,445.17,13,0.32,11,True
+Guindy,2026-09-15,1,0,9,afternoon,34,445.17,17,0.44,15,True
+Guindy,2026-09-15,1,0,9,evening,34,445.17,19,0.56,19,True
+Guindy,2026-09-15,1,0,9,night,34,445.17,8,0.24,8,True
+Velachery,2026-09-15,1,0,9,morning,26,409.95,9,0.38,10,True
+Velachery,2026-09-15,1,0,9,afternoon,26,409.95,13,0.58,15,True
+Velachery,2026-09-15,1,0,9,evening,26,409.95,15,0.62,16,True
+Velachery,2026-09-15,1,0,9,night,26,409.95,6,0.15,4,True
+Adyar,2026-09-15,1,0,9,morning,21,431.16,8,0.38,8,True
+Adyar,2026-09-15,1,0,9,afternoon,21,431.16,11,0.48,10,True
+Adyar,2026-09-15,1,0,9,evening,21,431.16,14,0.67,14,True
+Adyar,2026-09-15,1,0,9,night,21,431.16,5,0.24,5,True
+T. Nagar,2026-09-15,1,0,9,morning,32,530.42,10,0.31,10,True
+T. Nagar,2026-09-15,1,0,9,afternoon,32,530.42,16,0.59,19,True
+T. Nagar,2026-09-15,1,0,9,evening,32,530.42,19,0.56,18,True
+T. Nagar,2026-09-15,1,0,9,night,32,530.42,6,0.34,11,True
+Anna Nagar,2026-09-15,1,0,9,morning,22,366.5,9,0.36,8,True
+Anna Nagar,2026-09-15,1,0,9,afternoon,22,366.5,15,0.55,12,True
+Anna Nagar,2026-09-15,1,0,9,evening,22,366.5,15,0.68,15,True
+Anna Nagar,2026-09-15,1,0,9,night,22,366.5,6,0.36,8,True
+Mylapore,2026-09-15,1,0,9,morning,21,472.56,7,0.43,9,True
+Mylapore,2026-09-15,1,0,9,afternoon,21,472.56,11,0.52,11,True
+Mylapore,2026-09-15,1,0,9,evening,21,472.56,13,0.48,10,True
+Mylapore,2026-09-15,1,0,9,night,21,472.56,4,0.29,6,True
+OMR (Thoraipakkam),2026-09-15,1,0,9,morning,20,468.5,14,0.55,11,True
+OMR (Thoraipakkam),2026-09-15,1,0,9,afternoon,20,468.5,18,0.95,19,True
+OMR (Thoraipakkam),2026-09-15,1,0,9,evening,20,468.5,20,0.95,19,True
+OMR (Thoraipakkam),2026-09-15,1,0,9,night,20,468.5,8,0.4,8,True
+Nungambakkam,2026-09-15,1,0,9,morning,27,434.82,8,0.33,9,True
+Nungambakkam,2026-09-15,1,0,9,afternoon,27,434.82,13,0.44,12,True
+Nungambakkam,2026-09-15,1,0,9,evening,27,434.82,15,0.52,14,True
+Nungambakkam,2026-09-15,1,0,9,night,27,434.82,6,0.15,4,True
+Guindy,2026-09-16,2,0,9,morning,32,531.11,11,0.5,16,True
+Guindy,2026-09-16,2,0,9,afternoon,32,531.11,17,0.56,18,True
+Guindy,2026-09-16,2,0,9,evening,32,531.11,23,0.59,19,True
+Guindy,2026-09-16,2,0,9,night,32,531.11,8,0.16,5,True
+Velachery,2026-09-16,2,0,9,morning,15,436.02,10,0.73,11,True
+Velachery,2026-09-16,2,0,9,afternoon,15,436.02,13,1.0,15,True
+Velachery,2026-09-16,2,0,9,evening,15,436.02,16,1.0,17,True
+Velachery,2026-09-16,2,0,9,night,15,436.02,6,0.33,5,True
+Adyar,2026-09-16,2,0,9,morning,27,492.1,8,0.22,6,True
+Adyar,2026-09-16,2,0,9,afternoon,27,492.1,12,0.52,14,True
+Adyar,2026-09-16,2,0,9,evening,27,492.1,13,0.63,17,True
+Adyar,2026-09-16,2,0,9,night,27,492.1,5,0.11,3,True
+T. Nagar,2026-09-16,2,0,9,morning,25,508.64,10,0.4,10,True
+T. Nagar,2026-09-16,2,0,9,afternoon,25,508.64,17,0.36,9,True
+T. Nagar,2026-09-16,2,0,9,evening,25,508.64,17,0.64,16,True
+T. Nagar,2026-09-16,2,0,9,night,25,508.64,7,0.32,8,True
+Anna Nagar,2026-09-16,2,0,9,morning,34,392.39,10,0.29,10,True
+Anna Nagar,2026-09-16,2,0,9,afternoon,34,392.39,15,0.41,14,True
+Anna Nagar,2026-09-16,2,0,9,evening,34,392.39,16,0.53,18,True
+Anna Nagar,2026-09-16,2,0,9,night,34,392.39,6,0.15,5,True
+Mylapore,2026-09-16,2,0,9,morning,23,382.71,7,0.3,7,True
+Mylapore,2026-09-16,2,0,9,afternoon,23,382.71,12,0.48,11,True
+Mylapore,2026-09-16,2,0,9,evening,23,382.71,12,0.48,11,True
+Mylapore,2026-09-16,2,0,9,night,23,382.71,4,0.3,7,True
+OMR (Thoraipakkam),2026-09-16,2,0,9,morning,27,510.3,12,0.56,15,True
+OMR (Thoraipakkam),2026-09-16,2,0,9,afternoon,27,510.3,19,0.63,17,True
+OMR (Thoraipakkam),2026-09-16,2,0,9,evening,27,510.3,23,0.85,23,True
+OMR (Thoraipakkam),2026-09-16,2,0,9,night,27,510.3,8,0.37,10,True
+Nungambakkam,2026-09-16,2,0,9,morning,33,490.99,9,0.3,10,True
+Nungambakkam,2026-09-16,2,0,9,afternoon,33,490.99,12,0.45,15,True
+Nungambakkam,2026-09-16,2,0,9,evening,33,490.99,14,0.55,18,True
+Nungambakkam,2026-09-16,2,0,9,night,33,490.99,5,0.15,5,True
+Guindy,2026-09-17,3,0,9,morning,30,511.95,12,0.57,17,True
+Guindy,2026-09-17,3,0,9,afternoon,30,511.95,17,0.67,20,True
+Guindy,2026-09-17,3,0,9,evening,30,511.95,19,0.87,26,True
+Guindy,2026-09-17,3,0,9,night,30,511.95,8,0.27,8,True
+Velachery,2026-09-17,3,0,9,morning,25,404.8,10,0.36,9,True
+Velachery,2026-09-17,3,0,9,afternoon,25,404.8,13,0.52,13,True
+Velachery,2026-09-17,3,0,9,evening,25,404.8,16,0.56,14,True
+Velachery,2026-09-17,3,0,9,night,25,404.8,6,0.08,2,True
+Adyar,2026-09-17,3,0,9,morning,26,394.82,8,0.31,8,True
+Adyar,2026-09-17,3,0,9,afternoon,26,394.82,11,0.42,11,True
+Adyar,2026-09-17,3,0,9,evening,26,394.82,15,0.69,18,True
+Adyar,2026-09-17,3,0,9,night,26,394.82,5,0.04,1,True
+T. Nagar,2026-09-17,3,0,9,morning,25,490.45,11,0.44,11,True
+T. Nagar,2026-09-17,3,0,9,afternoon,25,490.45,17,0.64,16,True
+T. Nagar,2026-09-17,3,0,9,evening,25,490.45,19,0.76,19,True
+T. Nagar,2026-09-17,3,0,9,night,25,490.45,6,0.28,7,True
+Anna Nagar,2026-09-17,3,0,9,morning,24,490.91,9,0.21,5,True
+Anna Nagar,2026-09-17,3,0,9,afternoon,24,490.91,13,0.62,15,True
+Anna Nagar,2026-09-17,3,0,9,evening,24,490.91,15,0.67,16,True
+Anna Nagar,2026-09-17,3,0,9,night,24,490.91,5,0.25,6,True
+Mylapore,2026-09-17,3,0,9,morning,28,343.56,6,0.29,8,True
+Mylapore,2026-09-17,3,0,9,afternoon,28,343.56,11,0.39,11,True
+Mylapore,2026-09-17,3,0,9,evening,28,343.56,12,0.39,11,True
+Mylapore,2026-09-17,3,0,9,night,28,343.56,4,0.32,9,True
+OMR (Thoraipakkam),2026-09-17,3,0,9,morning,28,529.08,14,0.39,11,True
+OMR (Thoraipakkam),2026-09-17,3,0,9,afternoon,28,529.08,19,0.68,19,True
+OMR (Thoraipakkam),2026-09-17,3,0,9,evening,28,529.08,22,0.68,19,True
+OMR (Thoraipakkam),2026-09-17,3,0,9,night,28,529.08,7,0.14,4,True
+Nungambakkam,2026-09-17,3,0,9,morning,32,398.8,9,0.25,8,True
+Nungambakkam,2026-09-17,3,0,9,afternoon,32,398.8,13,0.41,13,True
+Nungambakkam,2026-09-17,3,0,9,evening,32,398.8,14,0.41,13,True
+Nungambakkam,2026-09-17,3,0,9,night,32,398.8,5,0.16,5,True
+Guindy,2026-09-18,4,0,9,morning,22,463.63,12,0.36,8,True
+Guindy,2026-09-18,4,0,9,afternoon,22,463.63,17,0.82,18,True
+Guindy,2026-09-18,4,0,9,evening,22,463.63,20,1.0,23,True
+Guindy,2026-09-18,4,0,9,night,22,463.63,8,0.32,7,True
+Velachery,2026-09-18,4,0,9,morning,28,392.53,9,0.18,5,True
+Velachery,2026-09-18,4,0,9,afternoon,28,392.53,13,0.5,14,True
+Velachery,2026-09-18,4,0,9,evening,28,392.53,16,0.5,14,True
+Velachery,2026-09-18,4,0,9,night,28,392.53,6,0.11,3,True
+Adyar,2026-09-18,4,0,9,morning,18,380.4,8,0.33,6,True
+Adyar,2026-09-18,4,0,9,afternoon,18,380.4,12,0.56,10,True
+Adyar,2026-09-18,4,0,9,evening,18,380.4,15,0.61,11,True
+Adyar,2026-09-18,4,0,9,night,18,380.4,5,0.0,0,True
+T. Nagar,2026-09-18,4,0,9,morning,21,400.89,11,0.62,13,True
+T. Nagar,2026-09-18,4,0,9,afternoon,21,400.89,14,0.71,15,True
+T. Nagar,2026-09-18,4,0,9,evening,21,400.89,17,0.81,17,True
+T. Nagar,2026-09-18,4,0,9,night,21,400.89,6,0.38,8,True
+Anna Nagar,2026-09-18,4,0,9,morning,33,386.77,9,0.36,12,True
+Anna Nagar,2026-09-18,4,0,9,afternoon,33,386.77,14,0.39,13,True
+Anna Nagar,2026-09-18,4,0,9,evening,33,386.77,17,0.39,13,True
+Anna Nagar,2026-09-18,4,0,9,night,33,386.77,6,0.15,5,True
+Mylapore,2026-09-18,4,0,9,morning,29,473.56,7,0.24,7,True
+Mylapore,2026-09-18,4,0,9,afternoon,29,473.56,10,0.24,7,True
+Mylapore,2026-09-18,4,0,9,evening,29,473.56,12,0.41,12,True
+Mylapore,2026-09-18,4,0,9,night,29,473.56,4,0.21,6,True
+OMR (Thoraipakkam),2026-09-18,4,0,9,morning,18,478.12,13,0.67,12,True
+OMR (Thoraipakkam),2026-09-18,4,0,9,afternoon,18,478.12,19,1.0,20,True
+OMR (Thoraipakkam),2026-09-18,4,0,9,evening,18,478.12,20,1.0,19,True
+OMR (Thoraipakkam),2026-09-18,4,0,9,night,18,478.12,8,0.44,8,True
+Nungambakkam,2026-09-18,4,0,9,morning,21,419.29,9,0.19,4,True
+Nungambakkam,2026-09-18,4,0,9,afternoon,21,419.29,11,0.67,14,True
+Nungambakkam,2026-09-18,4,0,9,evening,21,419.29,14,0.76,16,True
+Nungambakkam,2026-09-18,4,0,9,night,21,419.29,5,0.19,4,True
+Guindy,2026-09-19,5,1,9,morning,30,501.51,10,0.3,9,True
+Guindy,2026-09-19,5,1,9,afternoon,30,501.51,14,0.43,13,True
+Guindy,2026-09-19,5,1,9,evening,30,501.51,15,0.53,16,True
+Guindy,2026-09-19,5,1,9,night,30,501.51,6,0.2,6,True
+Velachery,2026-09-19,5,1,9,morning,14,428.52,10,0.64,9,True
+Velachery,2026-09-19,5,1,9,afternoon,14,428.52,12,1.0,15,True
+Velachery,2026-09-19,5,1,9,evening,14,428.52,16,1.0,16,True
+Velachery,2026-09-19,5,1,9,night,14,428.52,5,0.21,3,True
+Adyar,2026-09-19,5,1,9,morning,23,427.27,11,0.43,10,True
+Adyar,2026-09-19,5,1,9,afternoon,23,427.27,16,0.74,17,True
+Adyar,2026-09-19,5,1,9,evening,23,427.27,17,0.87,20,True
+Adyar,2026-09-19,5,1,9,night,23,427.27,7,0.3,7,True
+T. Nagar,2026-09-19,5,1,9,morning,29,431.64,13,0.52,15,True
+T. Nagar,2026-09-19,5,1,9,afternoon,29,431.64,18,0.62,18,True
+T. Nagar,2026-09-19,5,1,9,evening,29,431.64,23,0.9,26,True
+T. Nagar,2026-09-19,5,1,9,night,29,431.64,9,0.24,7,True
+Anna Nagar,2026-09-19,5,1,9,morning,13,432.42,11,0.92,12,True
+Anna Nagar,2026-09-19,5,1,9,afternoon,13,432.42,20,1.0,18,True
+Anna Nagar,2026-09-19,5,1,9,evening,13,432.42,19,1.0,22,True
+Anna Nagar,2026-09-19,5,1,9,night,13,432.42,7,0.38,5,True
+Mylapore,2026-09-19,5,1,9,morning,29,448.13,7,0.28,8,True
+Mylapore,2026-09-19,5,1,9,afternoon,29,448.13,11,0.45,13,True
+Mylapore,2026-09-19,5,1,9,evening,29,448.13,13,0.38,11,True
+Mylapore,2026-09-19,5,1,9,night,29,448.13,5,0.07,2,True
+OMR (Thoraipakkam),2026-09-19,5,1,9,morning,33,475.14,10,0.27,9,True
+OMR (Thoraipakkam),2026-09-19,5,1,9,afternoon,33,475.14,16,0.61,20,True
+OMR (Thoraipakkam),2026-09-19,5,1,9,evening,33,475.14,18,0.52,17,True
+OMR (Thoraipakkam),2026-09-19,5,1,9,night,33,475.14,7,0.15,5,True
+Nungambakkam,2026-09-19,5,1,9,morning,12,491.29,9,0.75,9,True
+Nungambakkam,2026-09-19,5,1,9,afternoon,12,491.29,11,1.0,14,True
+Nungambakkam,2026-09-19,5,1,9,evening,12,491.29,14,1.0,13,True
+Nungambakkam,2026-09-19,5,1,9,night,12,491.29,5,0.5,6,True
+Guindy,2026-09-20,6,1,9,morning,33,475.14,9,0.15,5,True
+Guindy,2026-09-20,6,1,9,afternoon,33,475.14,16,0.52,17,True
+Guindy,2026-09-20,6,1,9,evening,33,475.14,15,0.55,18,True
+Guindy,2026-09-20,6,1,9,night,33,475.14,6,0.21,7,True
+Velachery,2026-09-20,6,1,9,morning,32,531.53,9,0.38,12,True
+Velachery,2026-09-20,6,1,9,afternoon,32,531.53,13,0.34,11,True
+Velachery,2026-09-20,6,1,9,evening,32,531.53,16,0.56,18,True
+Velachery,2026-09-20,6,1,9,night,32,531.53,5,0.06,2,True
+Adyar,2026-09-20,6,1,9,morning,24,578.5,10,0.33,8,True
+Adyar,2026-09-20,6,1,9,afternoon,24,578.5,14,0.62,15,True
+Adyar,2026-09-20,6,1,9,evening,24,578.5,19,0.62,15,True
+Adyar,2026-09-20,6,1,9,night,24,578.5,6,0.38,9,True
+T. Nagar,2026-09-20,6,1,9,morning,32,409.01,13,0.47,15,True
+T. Nagar,2026-09-20,6,1,9,afternoon,32,409.01,19,0.72,23,True
+T. Nagar,2026-09-20,6,1,9,evening,32,409.01,24,0.72,23,True
+T. Nagar,2026-09-20,6,1,9,night,32,409.01,8,0.16,5,True
+Anna Nagar,2026-09-20,6,1,9,morning,17,358.0,11,0.71,12,True
+Anna Nagar,2026-09-20,6,1,9,afternoon,17,358.0,17,1.0,17,True
+Anna Nagar,2026-09-20,6,1,9,evening,17,358.0,21,1.0,20,True
+Anna Nagar,2026-09-20,6,1,9,night,17,358.0,7,0.35,6,True
+Mylapore,2026-09-20,6,1,9,morning,14,518.91,7,0.5,7,True
+Mylapore,2026-09-20,6,1,9,afternoon,14,518.91,12,0.79,11,True
+Mylapore,2026-09-20,6,1,9,evening,14,518.91,13,1.0,14,True
+Mylapore,2026-09-20,6,1,9,night,14,518.91,5,0.36,5,True
+OMR (Thoraipakkam),2026-09-20,6,1,9,morning,30,527.94,10,0.3,9,True
+OMR (Thoraipakkam),2026-09-20,6,1,9,afternoon,30,527.94,14,0.43,13,True
+OMR (Thoraipakkam),2026-09-20,6,1,9,evening,30,527.94,19,0.57,17,True
+OMR (Thoraipakkam),2026-09-20,6,1,9,night,30,527.94,6,0.13,4,True
+Nungambakkam,2026-09-20,6,1,9,morning,32,349.06,8,0.38,12,True
+Nungambakkam,2026-09-20,6,1,9,afternoon,32,349.06,12,0.31,10,True
+Nungambakkam,2026-09-20,6,1,9,evening,32,349.06,14,0.47,15,True
+Nungambakkam,2026-09-20,6,1,9,night,32,349.06,5,0.09,3,True
+Guindy,2026-09-21,0,0,9,morning,26,511.98,12,0.42,11,True
+Guindy,2026-09-21,0,0,9,afternoon,26,511.98,17,0.65,17,True
+Guindy,2026-09-21,0,0,9,evening,26,511.98,20,0.88,23,True
+Guindy,2026-09-21,0,0,9,night,26,511.98,8,0.35,9,True
+Velachery,2026-09-21,0,0,9,morning,16,353.56,9,0.81,13,True
+Velachery,2026-09-21,0,0,9,afternoon,16,353.56,14,0.94,15,True
+Velachery,2026-09-21,0,0,9,evening,16,353.56,14,1.0,17,True
+Velachery,2026-09-21,0,0,9,night,16,353.56,5,0.31,5,True
+Adyar,2026-09-21,0,0,9,morning,14,436.17,9,0.64,9,True
+Adyar,2026-09-21,0,0,9,afternoon,14,436.17,13,0.57,8,True
+Adyar,2026-09-21,0,0,9,evening,14,436.17,13,0.86,12,True
+Adyar,2026-09-21,0,0,9,night,14,436.17,5,0.64,9,True
+T. Nagar,2026-09-21,0,0,9,morning,18,456.81,11,0.56,10,True
+T. Nagar,2026-09-21,0,0,9,afternoon,18,456.81,15,0.89,16,True
+T. Nagar,2026-09-21,0,0,9,evening,18,456.81,19,1.0,20,True
+T. Nagar,2026-09-21,0,0,9,night,18,456.81,7,0.44,8,True
+Anna Nagar,2026-09-21,0,0,9,morning,13,400.71,10,0.69,9,True
+Anna Nagar,2026-09-21,0,0,9,afternoon,13,400.71,14,1.0,18,True
+Anna Nagar,2026-09-21,0,0,9,evening,13,400.71,16,1.0,14,True
+Anna Nagar,2026-09-21,0,0,9,night,13,400.71,6,0.38,5,True
+Mylapore,2026-09-21,0,0,9,morning,16,427.47,7,0.38,6,True
+Mylapore,2026-09-21,0,0,9,afternoon,16,427.47,10,0.5,8,True
+Mylapore,2026-09-21,0,0,9,evening,16,427.47,12,0.81,13,True
+Mylapore,2026-09-21,0,0,9,night,16,427.47,5,0.31,5,True
+OMR (Thoraipakkam),2026-09-21,0,0,9,morning,27,374.59,12,0.37,10,True
+OMR (Thoraipakkam),2026-09-21,0,0,9,afternoon,27,374.59,18,0.67,18,True
+OMR (Thoraipakkam),2026-09-21,0,0,9,evening,27,374.59,23,0.78,21,True
+OMR (Thoraipakkam),2026-09-21,0,0,9,night,27,374.59,8,0.26,7,True
+Nungambakkam,2026-09-21,0,0,9,morning,21,485.86,9,0.33,7,True
+Nungambakkam,2026-09-21,0,0,9,afternoon,21,485.86,14,0.62,13,True
+Nungambakkam,2026-09-21,0,0,9,evening,21,485.86,15,0.57,12,True
+Nungambakkam,2026-09-21,0,0,9,night,21,485.86,5,0.38,8,True
+Guindy,2026-09-22,1,0,9,morning,13,397.68,11,0.92,12,True
+Guindy,2026-09-22,1,0,9,afternoon,13,397.68,19,1.0,16,True
+Guindy,2026-09-22,1,0,9,evening,13,397.68,20,1.0,21,True
+Guindy,2026-09-22,1,0,9,night,13,397.68,8,0.69,9,True
+Velachery,2026-09-22,1,0,9,morning,24,414.78,9,0.46,11,True
+Velachery,2026-09-22,1,0,9,afternoon,24,414.78,13,0.62,15,True
+Velachery,2026-09-22,1,0,9,evening,24,414.78,14,0.62,15,True
+Velachery,2026-09-22,1,0,9,night,24,414.78,6,0.25,6,True
+Adyar,2026-09-22,1,0,9,morning,23,509.59,8,0.35,8,True
+Adyar,2026-09-22,1,0,9,afternoon,23,509.59,12,0.57,13,True
+Adyar,2026-09-22,1,0,9,evening,23,509.59,14,0.7,16,True
+Adyar,2026-09-22,1,0,9,night,23,509.59,5,0.09,2,True
+T. Nagar,2026-09-22,1,0,9,morning,27,485.23,11,0.41,11,True
+T. Nagar,2026-09-22,1,0,9,afternoon,27,485.23,14,0.59,16,True
+T. Nagar,2026-09-22,1,0,9,evening,27,485.23,19,0.7,19,True
+T. Nagar,2026-09-22,1,0,9,night,27,485.23,6,0.3,8,True
+Anna Nagar,2026-09-22,1,0,9,morning,34,468.07,9,0.29,10,True
+Anna Nagar,2026-09-22,1,0,9,afternoon,34,468.07,13,0.35,12,True
+Anna Nagar,2026-09-22,1,0,9,evening,34,468.07,16,0.41,14,True
+Anna Nagar,2026-09-22,1,0,9,night,34,468.07,6,0.15,5,True
+Mylapore,2026-09-22,1,0,9,morning,26,476.09,8,0.27,7,True
+Mylapore,2026-09-22,1,0,9,afternoon,26,476.09,12,0.42,11,True
+Mylapore,2026-09-22,1,0,9,evening,26,476.09,12,0.5,13,True
+Mylapore,2026-09-22,1,0,9,night,26,476.09,4,0.04,1,True
+OMR (Thoraipakkam),2026-09-22,1,0,9,morning,17,424.46,11,0.71,12,True
+OMR (Thoraipakkam),2026-09-22,1,0,9,afternoon,17,424.46,19,1.0,18,True
+OMR (Thoraipakkam),2026-09-22,1,0,9,evening,17,424.46,23,1.0,17,True
+OMR (Thoraipakkam),2026-09-22,1,0,9,night,17,424.46,8,0.18,3,True
+Nungambakkam,2026-09-22,1,0,9,morning,33,556.75,9,0.27,9,True
+Nungambakkam,2026-09-22,1,0,9,afternoon,33,556.75,12,0.36,12,True
+Nungambakkam,2026-09-22,1,0,9,evening,33,556.75,15,0.33,11,True
+Nungambakkam,2026-09-22,1,0,9,night,33,556.75,5,0.15,5,True
+Guindy,2026-09-23,2,0,9,morning,18,494.83,13,0.5,9,True
+Guindy,2026-09-23,2,0,9,afternoon,18,494.83,18,1.0,20,True
+Guindy,2026-09-23,2,0,9,evening,18,494.83,23,0.94,17,True
+Guindy,2026-09-23,2,0,9,night,18,494.83,8,0.44,8,True
+Velachery,2026-09-23,2,0,9,morning,33,402.74,8,0.21,7,True
+Velachery,2026-09-23,2,0,9,afternoon,33,402.74,12,0.42,14,True
+Velachery,2026-09-23,2,0,9,evening,33,402.74,15,0.48,16,True
+Velachery,2026-09-23,2,0,9,night,33,402.74,5,0.18,6,True
+Adyar,2026-09-23,2,0,9,morning,22,341.15,8,0.36,8,True
+Adyar,2026-09-23,2,0,9,afternoon,22,341.15,13,0.45,10,True
+Adyar,2026-09-23,2,0,9,evening,22,341.15,15,0.73,16,True
+Adyar,2026-09-23,2,0,9,night,22,341.15,5,0.18,4,True
+T. Nagar,2026-09-23,2,0,9,morning,28,431.09,10,0.46,13,True
+T. Nagar,2026-09-23,2,0,9,afternoon,28,431.09,15,0.54,15,True
+T. Nagar,2026-09-23,2,0,9,evening,28,431.09,20,0.64,18,True
+T. Nagar,2026-09-23,2,0,9,night,28,431.09,7,0.39,11,True
+Anna Nagar,2026-09-23,2,0,9,morning,29,463.87,10,0.31,9,True
+Anna Nagar,2026-09-23,2,0,9,afternoon,29,463.87,14,0.41,12,True
+Anna Nagar,2026-09-23,2,0,9,evening,29,463.87,18,0.62,18,True
+Anna Nagar,2026-09-23,2,0,9,night,29,463.87,5,0.14,4,True
+Mylapore,2026-09-23,2,0,9,morning,23,515.18,7,0.22,5,True
+Mylapore,2026-09-23,2,0,9,afternoon,23,515.18,10,0.48,11,True
+Mylapore,2026-09-23,2,0,9,evening,23,515.18,12,0.48,11,True
+Mylapore,2026-09-23,2,0,9,night,23,515.18,5,0.09,2,True
+OMR (Thoraipakkam),2026-09-23,2,0,9,morning,21,480.63,12,0.67,14,True
+OMR (Thoraipakkam),2026-09-23,2,0,9,afternoon,21,480.63,18,0.81,17,True
+OMR (Thoraipakkam),2026-09-23,2,0,9,evening,21,480.63,20,0.95,20,True
+OMR (Thoraipakkam),2026-09-23,2,0,9,night,21,480.63,8,0.33,7,True
+Nungambakkam,2026-09-23,2,0,9,morning,30,464.43,9,0.27,8,True
+Nungambakkam,2026-09-23,2,0,9,afternoon,30,464.43,12,0.33,10,True
+Nungambakkam,2026-09-23,2,0,9,evening,30,464.43,14,0.43,13,True
+Nungambakkam,2026-09-23,2,0,9,night,30,464.43,5,0.0,0,True
+Guindy,2026-09-24,3,0,9,morning,28,450.46,13,0.54,15,True
+Guindy,2026-09-24,3,0,9,afternoon,28,450.46,17,0.64,18,True
+Guindy,2026-09-24,3,0,9,evening,28,450.46,20,0.75,21,True
+Guindy,2026-09-24,3,0,9,night,28,450.46,8,0.18,5,True
+Velachery,2026-09-24,3,0,9,morning,18,369.99,8,0.67,12,True
+Velachery,2026-09-24,3,0,9,afternoon,18,369.99,13,0.83,15,True
+Velachery,2026-09-24,3,0,9,evening,18,369.99,15,0.89,16,True
+Velachery,2026-09-24,3,0,9,night,18,369.99,6,0.44,8,True
+Adyar,2026-09-24,3,0,9,morning,30,437.82,8,0.2,6,True
+Adyar,2026-09-24,3,0,9,afternoon,30,437.82,11,0.37,11,True
+Adyar,2026-09-24,3,0,9,evening,30,437.82,15,0.47,14,True
+Adyar,2026-09-24,3,0,9,night,30,437.82,5,0.17,5,True
+T. Nagar,2026-09-24,3,0,9,morning,24,470.61,11,0.42,10,True
+T. Nagar,2026-09-24,3,0,9,afternoon,24,470.61,16,0.79,19,True
+T. Nagar,2026-09-24,3,0,9,evening,24,470.61,18,0.71,17,True
+T. Nagar,2026-09-24,3,0,9,night,24,470.61,7,0.46,11,True
+Anna Nagar,2026-09-24,3,0,9,morning,12,521.73,10,1.0,12,True
+Anna Nagar,2026-09-24,3,0,9,afternoon,12,521.73,13,1.0,16,True
+Anna Nagar,2026-09-24,3,0,9,evening,12,521.73,16,1.0,17,True
+Anna Nagar,2026-09-24,3,0,9,night,12,521.73,6,0.67,8,True
+Mylapore,2026-09-24,3,0,9,morning,18,378.85,7,0.44,8,True
+Mylapore,2026-09-24,3,0,9,afternoon,18,378.85,10,0.72,13,True
+Mylapore,2026-09-24,3,0,9,evening,18,378.85,13,0.78,14,True
+Mylapore,2026-09-24,3,0,9,night,18,378.85,5,0.22,4,True
+OMR (Thoraipakkam),2026-09-24,3,0,9,morning,26,456.91,13,0.54,14,True
+OMR (Thoraipakkam),2026-09-24,3,0,9,afternoon,26,456.91,19,0.65,17,True
+OMR (Thoraipakkam),2026-09-24,3,0,9,evening,26,456.91,22,0.88,23,True
+OMR (Thoraipakkam),2026-09-24,3,0,9,night,26,456.91,8,0.31,8,True
+Nungambakkam,2026-09-24,3,0,9,morning,34,332.75,9,0.21,7,True
+Nungambakkam,2026-09-24,3,0,9,afternoon,34,332.75,13,0.35,12,True
+Nungambakkam,2026-09-24,3,0,9,evening,34,332.75,13,0.38,13,True
+Nungambakkam,2026-09-24,3,0,9,night,34,332.75,5,0.24,8,True
+Guindy,2026-09-25,4,0,9,morning,12,378.56,11,1.0,12,True
+Guindy,2026-09-25,4,0,9,afternoon,12,378.56,17,1.0,16,True
+Guindy,2026-09-25,4,0,9,evening,12,378.56,23,1.0,21,True
+Guindy,2026-09-25,4,0,9,night,12,378.56,8,0.75,9,True
+Velachery,2026-09-25,4,0,9,morning,34,409.64,9,0.24,8,True
+Velachery,2026-09-25,4,0,9,afternoon,34,409.64,14,0.38,13,True
+Velachery,2026-09-25,4,0,9,evening,34,409.64,14,0.5,17,True
+Velachery,2026-09-25,4,0,9,night,34,409.64,6,0.06,2,True
+Adyar,2026-09-25,4,0,9,morning,26,583.9,9,0.31,8,True
+Adyar,2026-09-25,4,0,9,afternoon,26,583.9,13,0.35,9,True
+Adyar,2026-09-25,4,0,9,evening,26,583.9,15,0.54,14,True
+Adyar,2026-09-25,4,0,9,night,26,583.9,5,0.04,1,True
+T. Nagar,2026-09-25,4,0,9,morning,29,405.48,11,0.34,10,True
+T. Nagar,2026-09-25,4,0,9,afternoon,29,405.48,16,0.59,17,True
+T. Nagar,2026-09-25,4,0,9,evening,29,405.48,18,0.59,17,True
+T. Nagar,2026-09-25,4,0,9,night,29,405.48,7,0.1,3,True
+Anna Nagar,2026-09-25,4,0,9,morning,19,475.33,10,0.53,10,True
+Anna Nagar,2026-09-25,4,0,9,afternoon,19,475.33,14,0.74,14,True
+Anna Nagar,2026-09-25,4,0,9,evening,19,475.33,17,0.89,17,True
+Anna Nagar,2026-09-25,4,0,9,night,19,475.33,5,0.26,5,True
+Mylapore,2026-09-25,4,0,9,morning,21,504.68,7,0.33,7,True
+Mylapore,2026-09-25,4,0,9,afternoon,21,504.68,11,0.48,10,True
+Mylapore,2026-09-25,4,0,9,evening,21,504.68,13,0.57,12,True
+Mylapore,2026-09-25,4,0,9,night,21,504.68,4,0.43,9,True
+OMR (Thoraipakkam),2026-09-25,4,0,9,morning,12,461.48,13,0.92,11,True
+OMR (Thoraipakkam),2026-09-25,4,0,9,afternoon,12,461.48,21,1.0,16,True
+OMR (Thoraipakkam),2026-09-25,4,0,9,evening,12,461.48,23,1.0,22,True
+OMR (Thoraipakkam),2026-09-25,4,0,9,night,12,461.48,8,0.67,8,True
+Nungambakkam,2026-09-25,4,0,9,morning,23,477.42,9,0.35,8,True
+Nungambakkam,2026-09-25,4,0,9,afternoon,23,477.42,13,0.61,14,True
+Nungambakkam,2026-09-25,4,0,9,evening,23,477.42,14,0.65,15,True
+Nungambakkam,2026-09-25,4,0,9,night,23,477.42,5,0.39,9,True
+Guindy,2026-09-26,5,1,9,morning,24,448.48,10,0.38,9,True
+Guindy,2026-09-26,5,1,9,afternoon,24,448.48,13,0.62,15,True
+Guindy,2026-09-26,5,1,9,evening,24,448.48,18,0.79,19,True
+Guindy,2026-09-26,5,1,9,night,24,448.48,6,0.38,9,True
+Velachery,2026-09-26,5,1,9,morning,15,482.92,10,0.33,5,True
+Velachery,2026-09-26,5,1,9,afternoon,15,482.92,13,0.8,12,True
+Velachery,2026-09-26,5,1,9,evening,15,482.92,14,0.87,13,True
+Velachery,2026-09-26,5,1,9,night,15,482.92,6,0.33,5,True
+Adyar,2026-09-26,5,1,9,morning,19,371.72,10,0.63,12,True
+Adyar,2026-09-26,5,1,9,afternoon,19,371.72,17,0.79,15,True
+Adyar,2026-09-26,5,1,9,evening,19,371.72,17,1.0,20,True
+Adyar,2026-09-26,5,1,9,night,19,371.72,6,0.42,8,True
+T. Nagar,2026-09-26,5,1,9,morning,14,471.41,14,1.0,15,True
+T. Nagar,2026-09-26,5,1,9,afternoon,14,471.41,21,1.0,19,True
+T. Nagar,2026-09-26,5,1,9,evening,14,471.41,21,1.0,22,True
+T. Nagar,2026-09-26,5,1,9,night,14,471.41,8,0.5,7,True
+Anna Nagar,2026-09-26,5,1,9,morning,14,505.84,11,0.86,12,True
+Anna Nagar,2026-09-26,5,1,9,afternoon,14,505.84,17,1.0,20,True
+Anna Nagar,2026-09-26,5,1,9,evening,14,505.84,19,1.0,19,True
+Anna Nagar,2026-09-26,5,1,9,night,14,505.84,7,0.71,10,True
+Mylapore,2026-09-26,5,1,9,morning,14,456.58,7,0.57,8,True
+Mylapore,2026-09-26,5,1,9,afternoon,14,456.58,11,0.5,7,True
+Mylapore,2026-09-26,5,1,9,evening,14,456.58,13,0.86,12,True
+Mylapore,2026-09-26,5,1,9,night,14,456.58,5,0.14,2,True
+OMR (Thoraipakkam),2026-09-26,5,1,9,morning,28,467.78,10,0.36,10,True
+OMR (Thoraipakkam),2026-09-26,5,1,9,afternoon,28,467.78,15,0.5,14,True
+OMR (Thoraipakkam),2026-09-26,5,1,9,evening,28,467.78,16,0.54,15,True
+OMR (Thoraipakkam),2026-09-26,5,1,9,night,28,467.78,6,0.18,5,True
+Nungambakkam,2026-09-26,5,1,9,morning,32,375.76,8,0.31,10,True
+Nungambakkam,2026-09-26,5,1,9,afternoon,32,375.76,13,0.44,14,True
+Nungambakkam,2026-09-26,5,1,9,evening,32,375.76,16,0.47,15,True
+Nungambakkam,2026-09-26,5,1,9,night,32,375.76,6,0.0,0,True
+Guindy,2026-09-27,6,1,9,morning,18,432.42,10,0.56,10,True
+Guindy,2026-09-27,6,1,9,afternoon,18,432.42,15,0.61,11,True
+Guindy,2026-09-27,6,1,9,evening,18,432.42,18,0.83,15,True
+Guindy,2026-09-27,6,1,9,night,18,432.42,6,0.28,5,True
+Velachery,2026-09-27,6,1,9,morning,17,490.57,9,0.71,12,True
+Velachery,2026-09-27,6,1,9,afternoon,17,490.57,12,0.82,14,True
+Velachery,2026-09-27,6,1,9,evening,17,490.57,16,0.88,15,True
+Velachery,2026-09-27,6,1,9,night,17,490.57,5,0.35,6,True
+Adyar,2026-09-27,6,1,9,morning,31,314.78,11,0.29,9,True
+Adyar,2026-09-27,6,1,9,afternoon,31,314.78,16,0.45,14,True
+Adyar,2026-09-27,6,1,9,evening,31,314.78,19,0.55,17,True
+Adyar,2026-09-27,6,1,9,night,31,314.78,6,0.23,7,True
+T. Nagar,2026-09-27,6,1,9,morning,13,416.29,13,0.85,11,True
+T. Nagar,2026-09-27,6,1,9,afternoon,13,416.29,21,1.0,17,True
+T. Nagar,2026-09-27,6,1,9,evening,13,416.29,22,1.0,25,True
+T. Nagar,2026-09-27,6,1,9,night,13,416.29,8,0.69,9,True
+Anna Nagar,2026-09-27,6,1,9,morning,30,529.17,12,0.3,9,True
+Anna Nagar,2026-09-27,6,1,9,afternoon,30,529.17,17,0.47,14,True
+Anna Nagar,2026-09-27,6,1,9,evening,30,529.17,19,0.73,22,True
+Anna Nagar,2026-09-27,6,1,9,night,30,529.17,8,0.2,6,True
+Mylapore,2026-09-27,6,1,9,morning,22,437.01,7,0.36,8,True
+Mylapore,2026-09-27,6,1,9,afternoon,22,437.01,10,0.59,13,True
+Mylapore,2026-09-27,6,1,9,evening,22,437.01,13,0.68,15,True
+Mylapore,2026-09-27,6,1,9,night,22,437.01,4,0.23,5,True
+OMR (Thoraipakkam),2026-09-27,6,1,9,morning,27,417.58,10,0.3,8,True
+OMR (Thoraipakkam),2026-09-27,6,1,9,afternoon,27,417.58,15,0.63,17,True
+OMR (Thoraipakkam),2026-09-27,6,1,9,evening,27,417.58,18,0.63,17,True
+OMR (Thoraipakkam),2026-09-27,6,1,9,night,27,417.58,7,0.19,5,True
+Nungambakkam,2026-09-27,6,1,9,morning,23,388.49,8,0.39,9,True
+Nungambakkam,2026-09-27,6,1,9,afternoon,23,388.49,14,0.57,13,True
+Nungambakkam,2026-09-27,6,1,9,evening,23,388.49,14,0.74,17,True
+Nungambakkam,2026-09-27,6,1,9,night,23,388.49,5,0.22,5,True
+Guindy,2026-09-28,0,0,9,morning,26,488.71,13,0.5,13,True
+Guindy,2026-09-28,0,0,9,afternoon,26,488.71,18,0.73,19,True
+Guindy,2026-09-28,0,0,9,evening,26,488.71,19,0.85,22,True
+Guindy,2026-09-28,0,0,9,night,26,488.71,8,0.23,6,True
+Velachery,2026-09-28,0,0,9,morning,19,418.36,9,0.32,6,True
+Velachery,2026-09-28,0,0,9,afternoon,19,418.36,12,0.63,12,True
+Velachery,2026-09-28,0,0,9,evening,19,418.36,16,0.68,13,True
+Velachery,2026-09-28,0,0,9,night,19,418.36,6,0.21,4,True
+Adyar,2026-09-28,0,0,9,morning,24,449.37,7,0.33,8,True
+Adyar,2026-09-28,0,0,9,afternoon,24,449.37,13,0.46,11,True
+Adyar,2026-09-28,0,0,9,evening,24,449.37,14,0.54,13,True
+Adyar,2026-09-28,0,0,9,night,24,449.37,5,0.17,4,True
+T. Nagar,2026-09-28,0,0,9,morning,23,452.48,9,0.3,7,True
+T. Nagar,2026-09-28,0,0,9,afternoon,23,452.48,16,0.61,14,True
+T. Nagar,2026-09-28,0,0,9,evening,23,452.48,19,0.96,22,True
+T. Nagar,2026-09-28,0,0,9,night,23,452.48,6,0.17,4,True
+Anna Nagar,2026-09-28,0,0,9,morning,25,418.61,8,0.12,3,True
+Anna Nagar,2026-09-28,0,0,9,afternoon,25,418.61,13,0.72,18,True
+Anna Nagar,2026-09-28,0,0,9,evening,25,418.61,17,0.56,14,True
+Anna Nagar,2026-09-28,0,0,9,night,25,418.61,5,0.16,4,True
+Mylapore,2026-09-28,0,0,9,morning,21,368.85,8,0.48,10,True
+Mylapore,2026-09-28,0,0,9,afternoon,21,368.85,11,0.62,13,True
+Mylapore,2026-09-28,0,0,9,evening,21,368.85,14,0.57,12,True
+Mylapore,2026-09-28,0,0,9,night,21,368.85,4,0.33,7,True
+OMR (Thoraipakkam),2026-09-28,0,0,9,morning,15,507.3,12,0.73,11,True
+OMR (Thoraipakkam),2026-09-28,0,0,9,afternoon,15,507.3,18,1.0,18,True
+OMR (Thoraipakkam),2026-09-28,0,0,9,evening,15,507.3,24,1.0,21,True
+OMR (Thoraipakkam),2026-09-28,0,0,9,night,15,507.3,8,0.4,6,True
+Nungambakkam,2026-09-28,0,0,9,morning,28,401.49,9,0.25,7,True
+Nungambakkam,2026-09-28,0,0,9,afternoon,28,401.49,14,0.43,12,True
+Nungambakkam,2026-09-28,0,0,9,evening,28,401.49,15,0.54,15,True
+Nungambakkam,2026-09-28,0,0,9,night,28,401.49,5,0.11,3,True
+Guindy,2026-09-29,1,0,9,morning,18,413.24,11,0.83,15,True
+Guindy,2026-09-29,1,0,9,afternoon,18,413.24,19,1.0,18,True
+Guindy,2026-09-29,1,0,9,evening,18,413.24,20,1.0,24,True
+Guindy,2026-09-29,1,0,9,night,18,413.24,7,0.56,10,True
+Velachery,2026-09-29,1,0,9,morning,27,452.35,9,0.44,12,True
+Velachery,2026-09-29,1,0,9,afternoon,27,452.35,14,0.52,14,True
+Velachery,2026-09-29,1,0,9,evening,27,452.35,16,0.56,15,True
+Velachery,2026-09-29,1,0,9,night,27,452.35,6,0.07,2,True
+Adyar,2026-09-29,1,0,9,morning,32,402.46,8,0.25,8,True
+Adyar,2026-09-29,1,0,9,afternoon,32,402.46,13,0.38,12,True
+Adyar,2026-09-29,1,0,9,evening,32,402.46,14,0.47,15,True
+Adyar,2026-09-29,1,0,9,night,32,402.46,5,0.03,1,True
+T. Nagar,2026-09-29,1,0,9,morning,24,455.62,10,0.54,13,True
+T. Nagar,2026-09-29,1,0,9,afternoon,24,455.62,16,0.79,19,True
+T. Nagar,2026-09-29,1,0,9,evening,24,455.62,19,0.75,18,True
+T. Nagar,2026-09-29,1,0,9,night,24,455.62,6,0.21,5,True
+Anna Nagar,2026-09-29,1,0,9,morning,18,350.99,10,0.44,8,True
+Anna Nagar,2026-09-29,1,0,9,afternoon,18,350.99,15,0.94,17,True
+Anna Nagar,2026-09-29,1,0,9,evening,18,350.99,15,0.83,15,True
+Anna Nagar,2026-09-29,1,0,9,night,18,350.99,5,0.33,6,True
+Mylapore,2026-09-29,1,0,9,morning,32,424.54,7,0.22,7,True
+Mylapore,2026-09-29,1,0,9,afternoon,32,424.54,10,0.34,11,True
+Mylapore,2026-09-29,1,0,9,evening,32,424.54,14,0.38,12,True
+Mylapore,2026-09-29,1,0,9,night,32,424.54,4,0.06,2,True
+OMR (Thoraipakkam),2026-09-29,1,0,9,morning,24,475.75,13,0.38,9,True
+OMR (Thoraipakkam),2026-09-29,1,0,9,afternoon,24,475.75,19,0.75,18,True
+OMR (Thoraipakkam),2026-09-29,1,0,9,evening,24,475.75,22,1.0,24,True
+OMR (Thoraipakkam),2026-09-29,1,0,9,night,24,475.75,8,0.42,10,True
+Nungambakkam,2026-09-29,1,0,9,morning,32,437.23,8,0.31,10,True
+Nungambakkam,2026-09-29,1,0,9,afternoon,32,437.23,13,0.41,13,True
+Nungambakkam,2026-09-29,1,0,9,evening,32,437.23,16,0.47,15,True
+Nungambakkam,2026-09-29,1,0,9,night,32,437.23,5,0.16,5,True
+Guindy,2026-09-30,2,0,9,morning,14,511.65,11,0.93,13,True
+Guindy,2026-09-30,2,0,9,afternoon,14,511.65,18,1.0,18,True
+Guindy,2026-09-30,2,0,9,evening,14,511.65,20,1.0,19,True
+Guindy,2026-09-30,2,0,9,night,14,511.65,7,0.43,6,True
+Velachery,2026-09-30,2,0,9,morning,34,437.1,8,0.21,7,True
+Velachery,2026-09-30,2,0,9,afternoon,34,437.1,13,0.47,16,True
+Velachery,2026-09-30,2,0,9,evening,34,437.1,17,0.47,16,True
+Velachery,2026-09-30,2,0,9,night,34,437.1,6,0.24,8,True
+Adyar,2026-09-30,2,0,9,morning,31,547.71,8,0.32,10,True
+Adyar,2026-09-30,2,0,9,afternoon,31,547.71,12,0.39,12,True
+Adyar,2026-09-30,2,0,9,evening,31,547.71,15,0.42,13,True
+Adyar,2026-09-30,2,0,9,night,31,547.71,5,0.19,6,True
+T. Nagar,2026-09-30,2,0,9,morning,18,433.65,10,0.33,6,True
+T. Nagar,2026-09-30,2,0,9,afternoon,18,433.65,17,0.94,17,True
+T. Nagar,2026-09-30,2,0,9,evening,18,433.65,19,1.0,18,True
+T. Nagar,2026-09-30,2,0,9,night,18,433.65,6,0.5,9,True
+Anna Nagar,2026-09-30,2,0,9,morning,29,543.44,8,0.34,10,True
+Anna Nagar,2026-09-30,2,0,9,afternoon,29,543.44,15,0.41,12,True
+Anna Nagar,2026-09-30,2,0,9,evening,29,543.44,17,0.59,17,True
+Anna Nagar,2026-09-30,2,0,9,night,29,543.44,6,0.21,6,True
+Mylapore,2026-09-30,2,0,9,morning,30,441.12,7,0.33,10,True
+Mylapore,2026-09-30,2,0,9,afternoon,30,441.12,11,0.3,9,True
+Mylapore,2026-09-30,2,0,9,evening,30,441.12,12,0.37,11,True
+Mylapore,2026-09-30,2,0,9,night,30,441.12,4,0.13,4,True
+OMR (Thoraipakkam),2026-09-30,2,0,9,morning,29,510.86,13,0.45,13,True
+OMR (Thoraipakkam),2026-09-30,2,0,9,afternoon,29,510.86,19,0.62,18,True
+OMR (Thoraipakkam),2026-09-30,2,0,9,evening,29,510.86,24,0.79,23,True
+OMR (Thoraipakkam),2026-09-30,2,0,9,night,29,510.86,7,0.21,6,True
+Nungambakkam,2026-09-30,2,0,9,morning,20,529.7,9,0.4,8,True
+Nungambakkam,2026-09-30,2,0,9,afternoon,20,529.7,14,0.7,14,True
+Nungambakkam,2026-09-30,2,0,9,evening,20,529.7,16,0.65,13,True
+Nungambakkam,2026-09-30,2,0,9,night,20,529.7,6,0.15,3,True
+Guindy,2026-10-01,3,0,10,morning,22,355.62,11,0.5,11,True
+Guindy,2026-10-01,3,0,10,afternoon,22,355.62,17,0.77,17,True
+Guindy,2026-10-01,3,0,10,evening,22,355.62,19,0.91,20,True
+Guindy,2026-10-01,3,0,10,night,22,355.62,8,0.32,7,True
+Velachery,2026-10-01,3,0,10,morning,23,462.15,8,0.39,9,True
+Velachery,2026-10-01,3,0,10,afternoon,23,462.15,14,0.61,14,True
+Velachery,2026-10-01,3,0,10,evening,23,462.15,15,0.78,18,True
+Velachery,2026-10-01,3,0,10,night,23,462.15,6,0.26,6,True
+Adyar,2026-10-01,3,0,10,morning,20,427.64,8,0.55,11,True
+Adyar,2026-10-01,3,0,10,afternoon,20,427.64,12,0.5,10,True
+Adyar,2026-10-01,3,0,10,evening,20,427.64,13,0.7,14,True
+Adyar,2026-10-01,3,0,10,night,20,427.64,5,0.4,8,True
+T. Nagar,2026-10-01,3,0,10,morning,23,480.28,10,0.52,12,True
+T. Nagar,2026-10-01,3,0,10,afternoon,23,480.28,15,0.74,17,True
+T. Nagar,2026-10-01,3,0,10,evening,23,480.28,17,0.83,19,True
+T. Nagar,2026-10-01,3,0,10,night,23,480.28,6,0.3,7,True
+Anna Nagar,2026-10-01,3,0,10,morning,24,374.08,9,0.38,9,True
+Anna Nagar,2026-10-01,3,0,10,afternoon,24,374.08,13,0.54,13,True
+Anna Nagar,2026-10-01,3,0,10,evening,24,374.08,15,0.62,15,True
+Anna Nagar,2026-10-01,3,0,10,night,24,374.08,5,0.38,9,True
+Mylapore,2026-10-01,3,0,10,morning,30,414.08,7,0.23,7,True
+Mylapore,2026-10-01,3,0,10,afternoon,30,414.08,10,0.43,13,True
+Mylapore,2026-10-01,3,0,10,evening,30,414.08,12,0.37,11,True
+Mylapore,2026-10-01,3,0,10,night,30,414.08,4,0.23,7,True
+OMR (Thoraipakkam),2026-10-01,3,0,10,morning,24,461.17,12,0.5,12,True
+OMR (Thoraipakkam),2026-10-01,3,0,10,afternoon,24,461.17,17,0.67,16,True
+OMR (Thoraipakkam),2026-10-01,3,0,10,evening,24,461.17,23,1.0,24,True
+OMR (Thoraipakkam),2026-10-01,3,0,10,night,24,461.17,8,0.33,8,True
+Nungambakkam,2026-10-01,3,0,10,morning,22,444.64,8,0.36,8,True
+Nungambakkam,2026-10-01,3,0,10,afternoon,22,444.64,14,0.68,15,True
+Nungambakkam,2026-10-01,3,0,10,evening,22,444.64,15,0.77,17,True
+Nungambakkam,2026-10-01,3,0,10,night,22,444.64,5,0.45,10,True
+Guindy,2026-10-02,4,0,10,morning,14,540.7,12,0.57,8,True
+Guindy,2026-10-02,4,0,10,afternoon,14,540.7,19,1.0,20,True
+Guindy,2026-10-02,4,0,10,evening,14,540.7,21,1.0,17,True
+Guindy,2026-10-02,4,0,10,night,14,540.7,7,0.57,8,True
+Velachery,2026-10-02,4,0,10,morning,22,563.91,10,0.23,5,True
+Velachery,2026-10-02,4,0,10,afternoon,22,563.91,12,0.55,12,True
+Velachery,2026-10-02,4,0,10,evening,22,563.91,15,0.68,15,True
+Velachery,2026-10-02,4,0,10,night,22,563.91,6,0.27,6,True
+Adyar,2026-10-02,4,0,10,morning,17,429.62,8,0.24,4,True
+Adyar,2026-10-02,4,0,10,afternoon,17,429.62,13,0.71,12,True
+Adyar,2026-10-02,4,0,10,evening,17,429.62,15,0.76,13,True
+Adyar,2026-10-02,4,0,10,night,17,429.62,5,0.35,6,True
+T. Nagar,2026-10-02,4,0,10,morning,16,408.77,11,0.56,9,True
+T. Nagar,2026-10-02,4,0,10,afternoon,16,408.77,15,1.0,17,True
+T. Nagar,2026-10-02,4,0,10,evening,16,408.77,17,1.0,18,True
+T. Nagar,2026-10-02,4,0,10,night,16,408.77,6,0.56,9,True
+Anna Nagar,2026-10-02,4,0,10,morning,17,435.95,9,0.53,9,True
+Anna Nagar,2026-10-02,4,0,10,afternoon,17,435.95,14,0.82,14,True
+Anna Nagar,2026-10-02,4,0,10,evening,17,435.95,15,1.0,18,True
+Anna Nagar,2026-10-02,4,0,10,night,17,435.95,6,0.47,8,True
+Mylapore,2026-10-02,4,0,10,morning,24,468.06,7,0.25,6,True
+Mylapore,2026-10-02,4,0,10,afternoon,24,468.06,12,0.42,10,True
+Mylapore,2026-10-02,4,0,10,evening,24,468.06,13,0.62,15,True
+Mylapore,2026-10-02,4,0,10,night,24,468.06,4,0.21,5,True
+OMR (Thoraipakkam),2026-10-02,4,0,10,morning,30,404.87,12,0.47,14,True
+OMR (Thoraipakkam),2026-10-02,4,0,10,afternoon,30,404.87,19,0.73,22,True
+OMR (Thoraipakkam),2026-10-02,4,0,10,evening,30,404.87,23,0.73,22,True
+OMR (Thoraipakkam),2026-10-02,4,0,10,night,30,404.87,8,0.23,7,True
+Nungambakkam,2026-10-02,4,0,10,morning,13,380.39,8,0.85,11,True
+Nungambakkam,2026-10-02,4,0,10,afternoon,13,380.39,13,1.0,15,True
+Nungambakkam,2026-10-02,4,0,10,evening,13,380.39,14,1.0,14,True
+Nungambakkam,2026-10-02,4,0,10,night,13,380.39,6,0.38,5,True
+Guindy,2026-10-03,5,1,10,morning,16,431.35,10,0.81,13,True
+Guindy,2026-10-03,5,1,10,afternoon,16,431.35,16,1.0,17,True
+Guindy,2026-10-03,5,1,10,evening,16,431.35,16,1.0,16,True
+Guindy,2026-10-03,5,1,10,night,16,431.35,6,0.44,7,True
+Velachery,2026-10-03,5,1,10,morning,27,442.02,9,0.3,8,True
+Velachery,2026-10-03,5,1,10,afternoon,27,442.02,14,0.33,9,True
+Velachery,2026-10-03,5,1,10,evening,27,442.02,15,0.67,18,True
+Velachery,2026-10-03,5,1,10,night,27,442.02,5,0.26,7,True
+Adyar,2026-10-03,5,1,10,morning,12,467.52,9,0.75,9,True
+Adyar,2026-10-03,5,1,10,afternoon,12,467.52,17,1.0,16,True
+Adyar,2026-10-03,5,1,10,evening,12,467.52,20,1.0,17,True
+Adyar,2026-10-03,5,1,10,night,12,467.52,7,0.75,9,True
+T. Nagar,2026-10-03,5,1,10,morning,17,449.1,13,0.82,14,True
+T. Nagar,2026-10-03,5,1,10,afternoon,17,449.1,19,1.0,17,True
+T. Nagar,2026-10-03,5,1,10,evening,17,449.1,23,1.0,23,True
+T. Nagar,2026-10-03,5,1,10,night,17,449.1,9,0.65,11,True
+Anna Nagar,2026-10-03,5,1,10,morning,33,460.02,11,0.33,11,True
+Anna Nagar,2026-10-03,5,1,10,afternoon,33,460.02,16,0.52,17,True
+Anna Nagar,2026-10-03,5,1,10,evening,33,460.02,21,0.61,20,True
+Anna Nagar,2026-10-03,5,1,10,night,33,460.02,8,0.24,8,True
+Mylapore,2026-10-03,5,1,10,morning,12,420.33,8,0.33,4,True
+Mylapore,2026-10-03,5,1,10,afternoon,12,420.33,12,0.92,11,True
+Mylapore,2026-10-03,5,1,10,evening,12,420.33,13,0.75,9,True
+Mylapore,2026-10-03,5,1,10,night,12,420.33,5,0.33,4,True
+OMR (Thoraipakkam),2026-10-03,5,1,10,morning,21,483.62,10,0.52,11,True
+OMR (Thoraipakkam),2026-10-03,5,1,10,afternoon,21,483.62,16,0.81,17,True
+OMR (Thoraipakkam),2026-10-03,5,1,10,evening,21,483.62,18,0.86,18,True
+OMR (Thoraipakkam),2026-10-03,5,1,10,night,21,483.62,6,0.33,7,True
+Nungambakkam,2026-10-03,5,1,10,morning,13,514.19,9,0.69,9,True
+Nungambakkam,2026-10-03,5,1,10,afternoon,13,514.19,13,0.85,11,True
+Nungambakkam,2026-10-03,5,1,10,evening,13,514.19,14,1.0,16,True
+Nungambakkam,2026-10-03,5,1,10,night,13,514.19,5,0.38,5,True
+Guindy,2026-10-04,6,1,10,morning,24,426.21,10,0.38,9,True
+Guindy,2026-10-04,6,1,10,afternoon,24,426.21,13,0.62,15,True
+Guindy,2026-10-04,6,1,10,evening,24,426.21,16,0.62,15,True
+Guindy,2026-10-04,6,1,10,night,24,426.21,6,0.33,8,True
+Velachery,2026-10-04,6,1,10,morning,21,449.41,10,0.43,9,True
+Velachery,2026-10-04,6,1,10,afternoon,21,449.41,12,0.76,16,True
+Velachery,2026-10-04,6,1,10,evening,21,449.41,14,0.62,13,True
+Velachery,2026-10-04,6,1,10,night,21,449.41,6,0.33,7,True
+Adyar,2026-10-04,6,1,10,morning,30,523.34,11,0.37,11,True
+Adyar,2026-10-04,6,1,10,afternoon,30,523.34,15,0.5,15,True
+Adyar,2026-10-04,6,1,10,evening,30,523.34,20,0.7,21,True
+Adyar,2026-10-04,6,1,10,night,30,523.34,6,0.23,7,True
+T. Nagar,2026-10-04,6,1,10,morning,31,386.71,14,0.48,15,True
+T. Nagar,2026-10-04,6,1,10,afternoon,31,386.71,19,0.65,20,True
+T. Nagar,2026-10-04,6,1,10,evening,31,386.71,22,0.71,22,True
+T. Nagar,2026-10-04,6,1,10,night,31,386.71,8,0.23,7,True
+Anna Nagar,2026-10-04,6,1,10,morning,12,441.1,11,0.83,10,True
+Anna Nagar,2026-10-04,6,1,10,afternoon,12,441.1,19,1.0,15,True
+Anna Nagar,2026-10-04,6,1,10,evening,12,441.1,22,1.0,16,True
+Anna Nagar,2026-10-04,6,1,10,night,12,441.1,7,0.5,6,True
+Mylapore,2026-10-04,6,1,10,morning,29,454.65,7,0.34,10,True
+Mylapore,2026-10-04,6,1,10,afternoon,29,454.65,11,0.28,8,True
+Mylapore,2026-10-04,6,1,10,evening,29,454.65,12,0.52,15,True
+Mylapore,2026-10-04,6,1,10,night,29,454.65,4,0.24,7,True
+OMR (Thoraipakkam),2026-10-04,6,1,10,morning,30,498.63,11,0.33,10,True
+OMR (Thoraipakkam),2026-10-04,6,1,10,afternoon,30,498.63,16,0.57,17,True
+OMR (Thoraipakkam),2026-10-04,6,1,10,evening,30,498.63,19,0.67,20,True
+OMR (Thoraipakkam),2026-10-04,6,1,10,night,30,498.63,7,0.13,4,True
+Nungambakkam,2026-10-04,6,1,10,morning,30,489.72,9,0.3,9,True
+Nungambakkam,2026-10-04,6,1,10,afternoon,30,489.72,12,0.4,12,True
+Nungambakkam,2026-10-04,6,1,10,evening,30,489.72,13,0.4,12,True
+Nungambakkam,2026-10-04,6,1,10,night,30,489.72,5,0.17,5,True
+Guindy,2026-10-05,0,0,10,morning,22,444.24,11,0.45,10,True
+Guindy,2026-10-05,0,0,10,afternoon,22,444.24,17,0.86,19,True
+Guindy,2026-10-05,0,0,10,evening,22,444.24,19,1.0,22,True
+Guindy,2026-10-05,0,0,10,night,22,444.24,8,0.36,8,True
+Velachery,2026-10-05,0,0,10,morning,25,438.45,9,0.24,6,True
+Velachery,2026-10-05,0,0,10,afternoon,25,438.45,14,0.44,11,True
+Velachery,2026-10-05,0,0,10,evening,25,438.45,14,0.6,15,True
+Velachery,2026-10-05,0,0,10,night,25,438.45,6,0.08,2,True
+Adyar,2026-10-05,0,0,10,morning,17,441.62,7,0.47,8,True
+Adyar,2026-10-05,0,0,10,afternoon,17,441.62,13,0.71,12,True
+Adyar,2026-10-05,0,0,10,evening,17,441.62,15,0.88,15,True
+Adyar,2026-10-05,0,0,10,night,17,441.62,5,0.24,4,True
+T. Nagar,2026-10-05,0,0,10,morning,31,407.83,11,0.32,10,True
+T. Nagar,2026-10-05,0,0,10,afternoon,31,407.83,14,0.55,17,True
+T. Nagar,2026-10-05,0,0,10,evening,31,407.83,17,0.55,17,True
+T. Nagar,2026-10-05,0,0,10,night,31,407.83,6,0.16,5,True
+Anna Nagar,2026-10-05,0,0,10,morning,20,427.56,9,0.6,12,True
+Anna Nagar,2026-10-05,0,0,10,afternoon,20,427.56,14,0.7,14,True
+Anna Nagar,2026-10-05,0,0,10,evening,20,427.56,15,0.8,16,True
+Anna Nagar,2026-10-05,0,0,10,night,20,427.56,5,0.25,5,True
+Mylapore,2026-10-05,0,0,10,morning,23,441.39,7,0.26,6,True
+Mylapore,2026-10-05,0,0,10,afternoon,23,441.39,11,0.52,12,True
+Mylapore,2026-10-05,0,0,10,evening,23,441.39,14,0.57,13,True
+Mylapore,2026-10-05,0,0,10,night,23,441.39,4,0.13,3,True
+OMR (Thoraipakkam),2026-10-05,0,0,10,morning,17,450.01,13,0.94,16,True
+OMR (Thoraipakkam),2026-10-05,0,0,10,afternoon,17,450.01,18,1.0,21,True
+OMR (Thoraipakkam),2026-10-05,0,0,10,evening,17,450.01,21,1.0,23,True
+OMR (Thoraipakkam),2026-10-05,0,0,10,night,17,450.01,8,0.35,6,True
+Nungambakkam,2026-10-05,0,0,10,morning,29,491.82,9,0.24,7,True
+Nungambakkam,2026-10-05,0,0,10,afternoon,29,491.82,12,0.38,11,True
+Nungambakkam,2026-10-05,0,0,10,evening,29,491.82,16,0.41,12,True
+Nungambakkam,2026-10-05,0,0,10,night,29,491.82,6,0.17,5,True
+Guindy,2026-10-06,1,0,10,morning,26,436.72,11,0.54,14,True
+Guindy,2026-10-06,1,0,10,afternoon,26,436.72,18,0.73,19,True
+Guindy,2026-10-06,1,0,10,evening,26,436.72,21,0.81,21,True
+Guindy,2026-10-06,1,0,10,night,26,436.72,8,0.19,5,True
+Velachery,2026-10-06,1,0,10,morning,20,455.94,9,0.3,6,True
+Velachery,2026-10-06,1,0,10,afternoon,20,455.94,13,0.6,12,True
+Velachery,2026-10-06,1,0,10,evening,20,455.94,16,0.8,16,True
+Velachery,2026-10-06,1,0,10,night,20,455.94,6,0.2,4,True
+Adyar,2026-10-06,1,0,10,morning,12,452.07,8,0.58,7,True
+Adyar,2026-10-06,1,0,10,afternoon,12,452.07,12,1.0,13,True
+Adyar,2026-10-06,1,0,10,evening,12,452.07,15,1.0,12,True
+Adyar,2026-10-06,1,0,10,night,12,452.07,5,0.08,1,True
+T. Nagar,2026-10-06,1,0,10,morning,28,308.38,10,0.43,12,True
+T. Nagar,2026-10-06,1,0,10,afternoon,28,308.38,15,0.68,19,True
+T. Nagar,2026-10-06,1,0,10,evening,28,308.38,18,0.71,20,True
+T. Nagar,2026-10-06,1,0,10,night,28,308.38,6,0.18,5,True
+Anna Nagar,2026-10-06,1,0,10,morning,30,459.13,9,0.33,10,True
+Anna Nagar,2026-10-06,1,0,10,afternoon,30,459.13,14,0.4,12,True
+Anna Nagar,2026-10-06,1,0,10,evening,30,459.13,16,0.53,16,True
+Anna Nagar,2026-10-06,1,0,10,night,30,459.13,5,0.13,4,True
+Mylapore,2026-10-06,1,0,10,morning,13,484.38,8,0.54,7,True
+Mylapore,2026-10-06,1,0,10,afternoon,13,484.38,10,0.85,11,True
+Mylapore,2026-10-06,1,0,10,evening,13,484.38,12,1.0,15,True
+Mylapore,2026-10-06,1,0,10,night,13,484.38,4,0.46,6,True
+OMR (Thoraipakkam),2026-10-06,1,0,10,morning,12,441.07,13,0.75,9,True
+OMR (Thoraipakkam),2026-10-06,1,0,10,afternoon,12,441.07,17,1.0,20,True
+OMR (Thoraipakkam),2026-10-06,1,0,10,evening,12,441.07,21,1.0,22,True
+OMR (Thoraipakkam),2026-10-06,1,0,10,night,12,441.07,8,0.92,11,True
+Nungambakkam,2026-10-06,1,0,10,morning,25,415.03,8,0.36,9,True
+Nungambakkam,2026-10-06,1,0,10,afternoon,25,415.03,12,0.6,15,True
+Nungambakkam,2026-10-06,1,0,10,evening,25,415.03,14,0.56,14,True
+Nungambakkam,2026-10-06,1,0,10,night,25,415.03,5,0.28,7,True
+Guindy,2026-10-07,2,0,10,morning,13,397.07,12,0.77,10,True
+Guindy,2026-10-07,2,0,10,afternoon,13,397.07,17,1.0,17,True
+Guindy,2026-10-07,2,0,10,evening,13,397.07,22,1.0,22,True
+Guindy,2026-10-07,2,0,10,night,13,397.07,8,0.54,7,True
+Velachery,2026-10-07,2,0,10,morning,29,456.18,9,0.38,11,True
+Velachery,2026-10-07,2,0,10,afternoon,29,456.18,13,0.41,12,True
+Velachery,2026-10-07,2,0,10,evening,29,456.18,16,0.52,15,True
+Velachery,2026-10-07,2,0,10,night,29,456.18,5,0.24,7,True
+Adyar,2026-10-07,2,0,10,morning,25,474.5,8,0.36,9,True
+Adyar,2026-10-07,2,0,10,afternoon,25,474.5,13,0.44,11,True
+Adyar,2026-10-07,2,0,10,evening,25,474.5,13,0.64,16,True
+Adyar,2026-10-07,2,0,10,night,25,474.5,5,0.2,5,True
+T. Nagar,2026-10-07,2,0,10,morning,25,391.12,11,0.4,10,True
+T. Nagar,2026-10-07,2,0,10,afternoon,25,391.12,16,0.6,15,True
+T. Nagar,2026-10-07,2,0,10,evening,25,391.12,18,0.56,14,True
+T. Nagar,2026-10-07,2,0,10,night,25,391.12,6,0.44,11,True
+Anna Nagar,2026-10-07,2,0,10,morning,17,451.74,9,0.76,13,True
+Anna Nagar,2026-10-07,2,0,10,afternoon,17,451.74,15,0.82,14,True
+Anna Nagar,2026-10-07,2,0,10,evening,17,451.74,15,1.0,19,True
+Anna Nagar,2026-10-07,2,0,10,night,17,451.74,6,0.24,4,True
+Mylapore,2026-10-07,2,0,10,morning,16,459.74,7,0.25,4,True
+Mylapore,2026-10-07,2,0,10,afternoon,16,459.74,10,0.75,12,True
+Mylapore,2026-10-07,2,0,10,evening,16,459.74,12,0.88,14,True
+Mylapore,2026-10-07,2,0,10,night,16,459.74,5,0.31,5,True
+OMR (Thoraipakkam),2026-10-07,2,0,10,morning,31,453.16,13,0.48,15,True
+OMR (Thoraipakkam),2026-10-07,2,0,10,afternoon,31,453.16,20,0.58,18,True
+OMR (Thoraipakkam),2026-10-07,2,0,10,evening,31,453.16,23,0.65,20,True
+OMR (Thoraipakkam),2026-10-07,2,0,10,night,31,453.16,7,0.29,9,True
+Nungambakkam,2026-10-07,2,0,10,morning,29,431.49,9,0.28,8,True
+Nungambakkam,2026-10-07,2,0,10,afternoon,29,431.49,14,0.41,12,True
+Nungambakkam,2026-10-07,2,0,10,evening,29,431.49,14,0.48,14,True
+Nungambakkam,2026-10-07,2,0,10,night,29,431.49,5,0.21,6,True
+Guindy,2026-10-08,3,0,10,morning,29,485.48,13,0.45,13,True
+Guindy,2026-10-08,3,0,10,afternoon,29,485.48,18,0.55,16,True
+Guindy,2026-10-08,3,0,10,evening,29,485.48,20,0.72,21,True
+Guindy,2026-10-08,3,0,10,night,29,485.48,7,0.34,10,True
+Velachery,2026-10-08,3,0,10,morning,28,489.84,9,0.14,4,True
+Velachery,2026-10-08,3,0,10,afternoon,28,489.84,13,0.43,12,True
+Velachery,2026-10-08,3,0,10,evening,28,489.84,15,0.64,18,True
+Velachery,2026-10-08,3,0,10,night,28,489.84,6,0.21,6,True
+Adyar,2026-10-08,3,0,10,morning,19,427.83,8,0.42,8,True
+Adyar,2026-10-08,3,0,10,afternoon,19,427.83,12,0.63,12,True
+Adyar,2026-10-08,3,0,10,evening,19,427.83,13,0.53,10,True
+Adyar,2026-10-08,3,0,10,night,19,427.83,5,0.26,5,True
+T. Nagar,2026-10-08,3,0,10,morning,15,522.73,10,0.73,11,True
+T. Nagar,2026-10-08,3,0,10,afternoon,15,522.73,15,1.0,15,True
+T. Nagar,2026-10-08,3,0,10,evening,15,522.73,20,1.0,20,True
+T. Nagar,2026-10-08,3,0,10,night,15,522.73,6,0.27,4,True
+Anna Nagar,2026-10-08,3,0,10,morning,32,438.13,10,0.25,8,True
+Anna Nagar,2026-10-08,3,0,10,afternoon,32,438.13,13,0.34,11,True
+Anna Nagar,2026-10-08,3,0,10,evening,32,438.13,16,0.47,15,True
+Anna Nagar,2026-10-08,3,0,10,night,32,438.13,6,0.12,4,True
+Mylapore,2026-10-08,3,0,10,morning,17,482.62,7,0.59,10,True
+Mylapore,2026-10-08,3,0,10,afternoon,17,482.62,11,0.59,10,True
+Mylapore,2026-10-08,3,0,10,evening,17,482.62,11,0.82,14,True
+Mylapore,2026-10-08,3,0,10,night,17,482.62,5,0.18,3,True
+OMR (Thoraipakkam),2026-10-08,3,0,10,morning,25,465.37,13,0.48,12,True
+OMR (Thoraipakkam),2026-10-08,3,0,10,afternoon,25,465.37,18,0.64,16,True
+OMR (Thoraipakkam),2026-10-08,3,0,10,evening,25,465.37,21,0.84,21,True
+OMR (Thoraipakkam),2026-10-08,3,0,10,night,25,465.37,7,0.2,5,True
+Nungambakkam,2026-10-08,3,0,10,morning,24,455.72,8,0.5,12,True
+Nungambakkam,2026-10-08,3,0,10,afternoon,24,455.72,11,0.58,14,True
+Nungambakkam,2026-10-08,3,0,10,evening,24,455.72,13,0.38,9,True
+Nungambakkam,2026-10-08,3,0,10,night,24,455.72,5,0.17,4,True
+Guindy,2026-10-09,4,0,10,morning,14,378.67,12,0.86,12,True
+Guindy,2026-10-09,4,0,10,afternoon,14,378.67,18,1.0,18,True
+Guindy,2026-10-09,4,0,10,evening,14,378.67,22,1.0,21,True
+Guindy,2026-10-09,4,0,10,night,14,378.67,8,0.57,8,True
+Velachery,2026-10-09,4,0,10,morning,16,402.62,8,0.56,9,True
+Velachery,2026-10-09,4,0,10,afternoon,16,402.62,12,1.0,16,True
+Velachery,2026-10-09,4,0,10,evening,16,402.62,17,0.94,15,True
+Velachery,2026-10-09,4,0,10,night,16,402.62,6,0.25,4,True
+Adyar,2026-10-09,4,0,10,morning,13,442.18,7,0.85,11,True
+Adyar,2026-10-09,4,0,10,afternoon,13,442.18,11,1.0,13,True
+Adyar,2026-10-09,4,0,10,evening,13,442.18,14,1.0,15,True
+Adyar,2026-10-09,4,0,10,night,13,442.18,5,0.77,10,True
+T. Nagar,2026-10-09,4,0,10,morning,23,438.2,9,0.39,9,True
+T. Nagar,2026-10-09,4,0,10,afternoon,23,438.2,15,0.7,16,True
+T. Nagar,2026-10-09,4,0,10,evening,23,438.2,19,0.74,17,True
+T. Nagar,2026-10-09,4,0,10,night,23,438.2,6,0.3,7,True
+Anna Nagar,2026-10-09,4,0,10,morning,24,397.67,10,0.33,8,True
+Anna Nagar,2026-10-09,4,0,10,afternoon,24,397.67,13,0.58,14,True
+Anna Nagar,2026-10-09,4,0,10,evening,24,397.67,16,0.62,15,True
+Anna Nagar,2026-10-09,4,0,10,night,24,397.67,6,0.12,3,True
+Mylapore,2026-10-09,4,0,10,morning,28,500.62,7,0.46,13,True
+Mylapore,2026-10-09,4,0,10,afternoon,28,500.62,10,0.5,14,True
+Mylapore,2026-10-09,4,0,10,evening,28,500.62,13,0.39,11,True
+Mylapore,2026-10-09,4,0,10,night,28,500.62,4,0.07,2,True
+OMR (Thoraipakkam),2026-10-09,4,0,10,morning,17,415.93,12,0.82,14,True
+OMR (Thoraipakkam),2026-10-09,4,0,10,afternoon,17,415.93,18,1.0,19,True
+OMR (Thoraipakkam),2026-10-09,4,0,10,evening,17,415.93,23,1.0,24,True
+OMR (Thoraipakkam),2026-10-09,4,0,10,night,17,415.93,8,0.47,8,True
+Nungambakkam,2026-10-09,4,0,10,morning,19,489.7,8,0.32,6,True
+Nungambakkam,2026-10-09,4,0,10,afternoon,19,489.7,12,0.68,13,True
+Nungambakkam,2026-10-09,4,0,10,evening,19,489.7,14,0.84,16,True
+Nungambakkam,2026-10-09,4,0,10,night,19,489.7,5,0.32,6,True
+Guindy,2026-10-10,5,1,10,morning,13,398.63,9,0.69,9,True
+Guindy,2026-10-10,5,1,10,afternoon,13,398.63,14,1.0,17,True
+Guindy,2026-10-10,5,1,10,evening,13,398.63,15,1.0,16,True
+Guindy,2026-10-10,5,1,10,night,13,398.63,6,0.46,6,True
+Velachery,2026-10-10,5,1,10,morning,17,420.37,8,0.53,9,True
+Velachery,2026-10-10,5,1,10,afternoon,17,420.37,13,0.88,15,True
+Velachery,2026-10-10,5,1,10,evening,17,420.37,16,0.94,16,True
+Velachery,2026-10-10,5,1,10,night,17,420.37,6,0.47,8,True
+Adyar,2026-10-10,5,1,10,morning,20,454.9,11,0.45,9,True
+Adyar,2026-10-10,5,1,10,afternoon,20,454.9,17,0.65,13,True
+Adyar,2026-10-10,5,1,10,evening,20,454.9,19,0.95,19,True
+Adyar,2026-10-10,5,1,10,night,20,454.9,6,0.3,6,True
+T. Nagar,2026-10-10,5,1,10,morning,27,407.12,13,0.44,12,True
+T. Nagar,2026-10-10,5,1,10,afternoon,27,407.12,18,0.74,20,True
+T. Nagar,2026-10-10,5,1,10,evening,27,407.12,26,0.89,24,True
+T. Nagar,2026-10-10,5,1,10,night,27,407.12,9,0.37,10,True
+Anna Nagar,2026-10-10,5,1,10,morning,16,546.88,13,0.44,7,True
+Anna Nagar,2026-10-10,5,1,10,afternoon,16,546.88,20,1.0,18,True
+Anna Nagar,2026-10-10,5,1,10,evening,16,546.88,19,1.0,23,True
+Anna Nagar,2026-10-10,5,1,10,night,16,546.88,7,0.56,9,True
+Mylapore,2026-10-10,5,1,10,morning,20,380.0,8,0.3,6,True
+Mylapore,2026-10-10,5,1,10,afternoon,20,380.0,12,0.75,15,True
+Mylapore,2026-10-10,5,1,10,evening,20,380.0,13,0.7,14,True
+Mylapore,2026-10-10,5,1,10,night,20,380.0,5,0.35,7,True
+OMR (Thoraipakkam),2026-10-10,5,1,10,morning,12,519.29,10,0.83,10,True
+OMR (Thoraipakkam),2026-10-10,5,1,10,afternoon,12,519.29,16,1.0,16,True
+OMR (Thoraipakkam),2026-10-10,5,1,10,evening,12,519.29,17,1.0,15,True
+OMR (Thoraipakkam),2026-10-10,5,1,10,night,12,519.29,6,0.5,6,True
+Nungambakkam,2026-10-10,5,1,10,morning,14,475.15,9,0.71,10,True
+Nungambakkam,2026-10-10,5,1,10,afternoon,14,475.15,12,0.71,10,True
+Nungambakkam,2026-10-10,5,1,10,evening,14,475.15,14,1.0,15,True
+Nungambakkam,2026-10-10,5,1,10,night,14,475.15,5,0.36,5,True
+Guindy,2026-10-11,6,1,10,morning,13,433.46,10,0.77,10,True
+Guindy,2026-10-11,6,1,10,afternoon,13,433.46,14,1.0,13,True
+Guindy,2026-10-11,6,1,10,evening,13,433.46,17,1.0,19,True
+Guindy,2026-10-11,6,1,10,night,13,433.46,7,0.31,4,True
+Velachery,2026-10-11,6,1,10,morning,24,401.99,8,0.54,13,True
+Velachery,2026-10-11,6,1,10,afternoon,24,401.99,14,0.62,15,True
+Velachery,2026-10-11,6,1,10,evening,24,401.99,15,0.88,21,True
+Velachery,2026-10-11,6,1,10,night,24,401.99,5,0.29,7,True
+Adyar,2026-10-11,6,1,10,morning,28,406.13,9,0.21,6,True
+Adyar,2026-10-11,6,1,10,afternoon,28,406.13,16,0.57,16,True
+Adyar,2026-10-11,6,1,10,evening,28,406.13,17,0.79,22,True
+Adyar,2026-10-11,6,1,10,night,28,406.13,6,0.18,5,True
+T. Nagar,2026-10-11,6,1,10,morning,15,476.08,12,0.93,14,True
+T. Nagar,2026-10-11,6,1,10,afternoon,15,476.08,21,1.0,22,True
+T. Nagar,2026-10-11,6,1,10,evening,15,476.08,25,1.0,26,True
+T. Nagar,2026-10-11,6,1,10,night,15,476.08,9,0.6,9,True
+Anna Nagar,2026-10-11,6,1,10,morning,18,534.11,12,0.56,10,True
+Anna Nagar,2026-10-11,6,1,10,afternoon,18,534.11,19,1.0,18,True
+Anna Nagar,2026-10-11,6,1,10,evening,18,534.11,23,1.0,20,True
+Anna Nagar,2026-10-11,6,1,10,night,18,534.11,8,0.17,3,True
+Mylapore,2026-10-11,6,1,10,morning,34,552.11,8,0.24,8,True
+Mylapore,2026-10-11,6,1,10,afternoon,34,552.11,11,0.29,10,True
+Mylapore,2026-10-11,6,1,10,evening,34,552.11,13,0.29,10,True
+Mylapore,2026-10-11,6,1,10,night,34,552.11,5,0.18,6,True
+OMR (Thoraipakkam),2026-10-11,6,1,10,morning,21,414.22,10,0.48,10,True
+OMR (Thoraipakkam),2026-10-11,6,1,10,afternoon,21,414.22,16,0.76,16,True
+OMR (Thoraipakkam),2026-10-11,6,1,10,evening,21,414.22,16,0.81,17,True
+OMR (Thoraipakkam),2026-10-11,6,1,10,night,21,414.22,6,0.33,7,True
+Nungambakkam,2026-10-11,6,1,10,morning,30,495.07,9,0.27,8,True
+Nungambakkam,2026-10-11,6,1,10,afternoon,30,495.07,13,0.3,9,True
+Nungambakkam,2026-10-11,6,1,10,evening,30,495.07,15,0.43,13,True
+Nungambakkam,2026-10-11,6,1,10,night,30,495.07,5,0.23,7,True
+Guindy,2026-10-12,0,0,10,morning,25,525.4,11,0.44,11,True
+Guindy,2026-10-12,0,0,10,afternoon,25,525.4,19,0.88,22,True
+Guindy,2026-10-12,0,0,10,evening,25,525.4,21,0.68,17,True
+Guindy,2026-10-12,0,0,10,night,25,525.4,8,0.28,7,True
+Velachery,2026-10-12,0,0,10,morning,29,490.49,8,0.28,8,True
+Velachery,2026-10-12,0,0,10,afternoon,29,490.49,13,0.52,15,True
+Velachery,2026-10-12,0,0,10,evening,29,490.49,15,0.59,17,True
+Velachery,2026-10-12,0,0,10,night,29,490.49,5,0.17,5,True
+Adyar,2026-10-12,0,0,10,morning,18,354.9,8,0.33,6,True
+Adyar,2026-10-12,0,0,10,afternoon,18,354.9,12,0.72,13,True
+Adyar,2026-10-12,0,0,10,evening,18,354.9,13,0.78,14,True
+Adyar,2026-10-12,0,0,10,night,18,354.9,5,0.22,4,True
+T. Nagar,2026-10-12,0,0,10,morning,29,368.71,10,0.45,13,True
+T. Nagar,2026-10-12,0,0,10,afternoon,29,368.71,15,0.52,15,True
+T. Nagar,2026-10-12,0,0,10,evening,29,368.71,18,0.55,16,True
+T. Nagar,2026-10-12,0,0,10,night,29,368.71,6,0.28,8,True
+Anna Nagar,2026-10-12,0,0,10,morning,34,527.29,8,0.32,11,True
+Anna Nagar,2026-10-12,0,0,10,afternoon,34,527.29,13,0.41,14,True
+Anna Nagar,2026-10-12,0,0,10,evening,34,527.29,15,0.41,14,True
+Anna Nagar,2026-10-12,0,0,10,night,34,527.29,6,0.24,8,True
+Mylapore,2026-10-12,0,0,10,morning,19,566.23,7,0.21,4,True
+Mylapore,2026-10-12,0,0,10,afternoon,19,566.23,10,0.53,10,True
+Mylapore,2026-10-12,0,0,10,evening,19,566.23,11,0.95,18,True
+Mylapore,2026-10-12,0,0,10,night,19,566.23,5,0.21,4,True
+OMR (Thoraipakkam),2026-10-12,0,0,10,morning,28,486.89,12,0.36,10,True
+OMR (Thoraipakkam),2026-10-12,0,0,10,afternoon,28,486.89,18,0.68,19,True
+OMR (Thoraipakkam),2026-10-12,0,0,10,evening,28,486.89,23,0.79,22,True
+OMR (Thoraipakkam),2026-10-12,0,0,10,night,28,486.89,7,0.29,8,True
+Nungambakkam,2026-10-12,0,0,10,morning,28,416.41,9,0.36,10,True
+Nungambakkam,2026-10-12,0,0,10,afternoon,28,416.41,13,0.54,15,True
+Nungambakkam,2026-10-12,0,0,10,evening,28,416.41,14,0.54,15,True
+Nungambakkam,2026-10-12,0,0,10,night,28,416.41,5,0.25,7,True
+Guindy,2026-10-13,1,0,10,morning,29,462.34,12,0.34,10,True
+Guindy,2026-10-13,1,0,10,afternoon,29,462.34,17,0.66,19,True
+Guindy,2026-10-13,1,0,10,evening,29,462.34,20,0.72,21,True
+Guindy,2026-10-13,1,0,10,night,29,462.34,7,0.34,10,True
+Velachery,2026-10-13,1,0,10,morning,28,448.58,9,0.21,6,True
+Velachery,2026-10-13,1,0,10,afternoon,28,448.58,12,0.54,15,True
+Velachery,2026-10-13,1,0,10,evening,28,448.58,15,0.54,15,True
+Velachery,2026-10-13,1,0,10,night,28,448.58,6,0.18,5,True
+Adyar,2026-10-13,1,0,10,morning,23,436.31,8,0.35,8,True
+Adyar,2026-10-13,1,0,10,afternoon,23,436.31,11,0.57,13,True
+Adyar,2026-10-13,1,0,10,evening,23,436.31,14,0.48,11,True
+Adyar,2026-10-13,1,0,10,night,23,436.31,5,0.35,8,True
+T. Nagar,2026-10-13,1,0,10,morning,22,485.6,10,0.55,12,True
+T. Nagar,2026-10-13,1,0,10,afternoon,22,485.6,17,0.82,18,True
+T. Nagar,2026-10-13,1,0,10,evening,22,485.6,19,0.86,19,True
+T. Nagar,2026-10-13,1,0,10,night,22,485.6,7,0.32,7,True
+Anna Nagar,2026-10-13,1,0,10,morning,16,438.95,9,0.5,8,True
+Anna Nagar,2026-10-13,1,0,10,afternoon,16,438.95,15,0.94,15,True
+Anna Nagar,2026-10-13,1,0,10,evening,16,438.95,16,0.88,14,True
+Anna Nagar,2026-10-13,1,0,10,night,16,438.95,6,0.19,3,True
+Mylapore,2026-10-13,1,0,10,morning,16,470.99,8,0.5,8,True
+Mylapore,2026-10-13,1,0,10,afternoon,16,470.99,11,0.44,7,True
+Mylapore,2026-10-13,1,0,10,evening,16,470.99,13,0.62,10,True
+Mylapore,2026-10-13,1,0,10,night,16,470.99,5,0.38,6,True
+OMR (Thoraipakkam),2026-10-13,1,0,10,morning,12,441.11,11,0.75,9,True
+OMR (Thoraipakkam),2026-10-13,1,0,10,afternoon,12,441.11,18,1.0,20,True
+OMR (Thoraipakkam),2026-10-13,1,0,10,evening,12,441.11,20,1.0,24,True
+OMR (Thoraipakkam),2026-10-13,1,0,10,night,12,441.11,7,0.5,6,True
+Nungambakkam,2026-10-13,1,0,10,morning,34,393.6,9,0.18,6,True
+Nungambakkam,2026-10-13,1,0,10,afternoon,34,393.6,12,0.41,14,True
+Nungambakkam,2026-10-13,1,0,10,evening,34,393.6,15,0.35,12,True
+Nungambakkam,2026-10-13,1,0,10,night,34,393.6,5,0.24,8,True
+Guindy,2026-10-14,2,0,10,morning,28,387.13,11,0.43,12,True
+Guindy,2026-10-14,2,0,10,afternoon,28,387.13,17,0.68,19,True
+Guindy,2026-10-14,2,0,10,evening,28,387.13,20,0.75,21,True
+Guindy,2026-10-14,2,0,10,night,28,387.13,8,0.32,9,True
+Velachery,2026-10-14,2,0,10,morning,26,458.95,9,0.35,9,True
+Velachery,2026-10-14,2,0,10,afternoon,26,458.95,13,0.58,15,True
+Velachery,2026-10-14,2,0,10,evening,26,458.95,15,0.5,13,True
+Velachery,2026-10-14,2,0,10,night,26,458.95,5,0.31,8,True
+Adyar,2026-10-14,2,0,10,morning,30,477.47,9,0.2,6,True
+Adyar,2026-10-14,2,0,10,afternoon,30,477.47,11,0.33,10,True
+Adyar,2026-10-14,2,0,10,evening,30,477.47,13,0.53,16,True
+Adyar,2026-10-14,2,0,10,night,30,477.47,5,0.17,5,True
+T. Nagar,2026-10-14,2,0,10,morning,34,488.54,10,0.38,13,True
+T. Nagar,2026-10-14,2,0,10,afternoon,34,488.54,14,0.44,15,True
+T. Nagar,2026-10-14,2,0,10,evening,34,488.54,20,0.53,18,True
+T. Nagar,2026-10-14,2,0,10,night,34,488.54,6,0.12,4,True
+Anna Nagar,2026-10-14,2,0,10,morning,24,468.02,8,0.42,10,True
+Anna Nagar,2026-10-14,2,0,10,afternoon,24,468.02,14,0.62,15,True
+Anna Nagar,2026-10-14,2,0,10,evening,24,468.02,16,0.83,20,True
+Anna Nagar,2026-10-14,2,0,10,night,24,468.02,6,0.12,3,True
+Mylapore,2026-10-14,2,0,10,morning,17,432.64,7,0.35,6,True
+Mylapore,2026-10-14,2,0,10,afternoon,17,432.64,11,0.35,6,True
+Mylapore,2026-10-14,2,0,10,evening,17,432.64,13,0.76,13,True
+Mylapore,2026-10-14,2,0,10,night,17,432.64,5,0.24,4,True
+OMR (Thoraipakkam),2026-10-14,2,0,10,morning,31,413.25,13,0.52,16,True
+OMR (Thoraipakkam),2026-10-14,2,0,10,afternoon,31,413.25,19,0.61,19,True
+OMR (Thoraipakkam),2026-10-14,2,0,10,evening,31,413.25,21,0.65,20,True
+OMR (Thoraipakkam),2026-10-14,2,0,10,night,31,413.25,7,0.35,11,True
+Nungambakkam,2026-10-14,2,0,10,morning,22,405.7,8,0.45,10,True
+Nungambakkam,2026-10-14,2,0,10,afternoon,22,405.7,12,0.59,13,True
+Nungambakkam,2026-10-14,2,0,10,evening,22,405.7,13,0.73,16,True
+Nungambakkam,2026-10-14,2,0,10,night,22,405.7,6,0.27,6,True
+Guindy,2026-10-15,3,0,10,morning,19,401.71,12,0.58,11,True
+Guindy,2026-10-15,3,0,10,afternoon,19,401.71,16,0.84,16,True
+Guindy,2026-10-15,3,0,10,evening,19,401.71,22,1.0,21,True
+Guindy,2026-10-15,3,0,10,night,19,401.71,8,0.16,3,True
+Velachery,2026-10-15,3,0,10,morning,32,492.42,9,0.31,10,True
+Velachery,2026-10-15,3,0,10,afternoon,32,492.42,13,0.44,14,True
+Velachery,2026-10-15,3,0,10,evening,32,492.42,14,0.44,14,True
+Velachery,2026-10-15,3,0,10,night,32,492.42,5,0.19,6,True
+Adyar,2026-10-15,3,0,10,morning,34,419.75,9,0.26,9,True
+Adyar,2026-10-15,3,0,10,afternoon,34,419.75,12,0.26,9,True
+Adyar,2026-10-15,3,0,10,evening,34,419.75,14,0.44,15,True
+Adyar,2026-10-15,3,0,10,night,34,419.75,5,0.09,3,True
+T. Nagar,2026-10-15,3,0,10,morning,22,484.95,10,0.73,16,True
+T. Nagar,2026-10-15,3,0,10,afternoon,22,484.95,15,0.86,19,True
+T. Nagar,2026-10-15,3,0,10,evening,22,484.95,19,0.73,16,True
+T. Nagar,2026-10-15,3,0,10,night,22,484.95,7,0.36,8,True
+Anna Nagar,2026-10-15,3,0,10,morning,21,368.5,10,0.38,8,True
+Anna Nagar,2026-10-15,3,0,10,afternoon,21,368.5,15,0.52,11,True
+Anna Nagar,2026-10-15,3,0,10,evening,21,368.5,15,0.9,19,True
+Anna Nagar,2026-10-15,3,0,10,night,21,368.5,6,0.43,9,True
+Mylapore,2026-10-15,3,0,10,morning,20,472.83,8,0.45,9,True
+Mylapore,2026-10-15,3,0,10,afternoon,20,472.83,10,0.5,10,True
+Mylapore,2026-10-15,3,0,10,evening,20,472.83,12,0.55,11,True
+Mylapore,2026-10-15,3,0,10,night,20,472.83,4,0.15,3,True
+OMR (Thoraipakkam),2026-10-15,3,0,10,morning,21,377.5,13,0.57,12,True
+OMR (Thoraipakkam),2026-10-15,3,0,10,afternoon,21,377.5,19,0.81,17,True
+OMR (Thoraipakkam),2026-10-15,3,0,10,evening,21,377.5,21,1.0,22,True
+OMR (Thoraipakkam),2026-10-15,3,0,10,night,21,377.5,7,0.48,10,True
+Nungambakkam,2026-10-15,3,0,10,morning,30,412.66,8,0.37,11,True
+Nungambakkam,2026-10-15,3,0,10,afternoon,30,412.66,13,0.43,13,True
+Nungambakkam,2026-10-15,3,0,10,evening,30,412.66,13,0.5,15,True
+Nungambakkam,2026-10-15,3,0,10,night,30,412.66,5,0.27,8,True
+Guindy,2026-10-16,4,0,10,morning,16,393.1,12,0.69,11,True
+Guindy,2026-10-16,4,0,10,afternoon,16,393.1,18,1.0,20,True
+Guindy,2026-10-16,4,0,10,evening,16,393.1,23,1.0,21,True
+Guindy,2026-10-16,4,0,10,night,16,393.1,8,0.38,6,True
+Velachery,2026-10-16,4,0,10,morning,16,460.89,8,0.62,10,True
+Velachery,2026-10-16,4,0,10,afternoon,16,460.89,12,0.62,10,True
+Velachery,2026-10-16,4,0,10,evening,16,460.89,17,1.0,16,True
+Velachery,2026-10-16,4,0,10,night,16,460.89,5,0.5,8,True
+Adyar,2026-10-16,4,0,10,morning,17,411.41,7,0.41,7,True
+Adyar,2026-10-16,4,0,10,afternoon,17,411.41,12,0.71,12,True
+Adyar,2026-10-16,4,0,10,evening,17,411.41,14,0.88,15,True
+Adyar,2026-10-16,4,0,10,night,17,411.41,5,0.12,2,True
+T. Nagar,2026-10-16,4,0,10,morning,32,484.34,10,0.34,11,True
+T. Nagar,2026-10-16,4,0,10,afternoon,32,484.34,15,0.53,17,True
+T. Nagar,2026-10-16,4,0,10,evening,32,484.34,18,0.62,20,True
+T. Nagar,2026-10-16,4,0,10,night,32,484.34,7,0.16,5,True
+Anna Nagar,2026-10-16,4,0,10,morning,18,442.07,9,0.44,8,True
+Anna Nagar,2026-10-16,4,0,10,afternoon,18,442.07,14,0.61,11,True
+Anna Nagar,2026-10-16,4,0,10,evening,18,442.07,17,0.94,17,True
+Anna Nagar,2026-10-16,4,0,10,night,18,442.07,6,0.11,2,True
+Mylapore,2026-10-16,4,0,10,morning,31,521.6,7,0.13,4,True
+Mylapore,2026-10-16,4,0,10,afternoon,31,521.6,10,0.29,9,True
+Mylapore,2026-10-16,4,0,10,evening,31,521.6,12,0.42,13,True
+Mylapore,2026-10-16,4,0,10,night,31,521.6,5,0.16,5,True
+OMR (Thoraipakkam),2026-10-16,4,0,10,morning,28,440.49,13,0.36,10,True
+OMR (Thoraipakkam),2026-10-16,4,0,10,afternoon,28,440.49,18,0.54,15,True
+OMR (Thoraipakkam),2026-10-16,4,0,10,evening,28,440.49,23,0.71,20,True
+OMR (Thoraipakkam),2026-10-16,4,0,10,night,28,440.49,7,0.29,8,True
+Nungambakkam,2026-10-16,4,0,10,morning,15,522.09,9,0.67,10,True
+Nungambakkam,2026-10-16,4,0,10,afternoon,15,522.09,13,0.87,13,True
+Nungambakkam,2026-10-16,4,0,10,evening,15,522.09,14,1.0,16,True
+Nungambakkam,2026-10-16,4,0,10,night,15,522.09,5,0.47,7,True
+Guindy,2026-10-17,5,1,10,morning,12,396.67,9,0.83,10,True
+Guindy,2026-10-17,5,1,10,afternoon,12,396.67,16,1.0,16,True
+Guindy,2026-10-17,5,1,10,evening,12,396.67,16,1.0,17,True
+Guindy,2026-10-17,5,1,10,night,12,396.67,6,0.75,9,True
+Velachery,2026-10-17,5,1,10,morning,31,374.37,9,0.39,12,True
+Velachery,2026-10-17,5,1,10,afternoon,31,374.37,14,0.52,16,True
+Velachery,2026-10-17,5,1,10,evening,31,374.37,16,0.35,11,True
+Velachery,2026-10-17,5,1,10,night,31,374.37,5,0.19,6,True
+Adyar,2026-10-17,5,1,10,morning,15,323.12,10,0.73,11,True
+Adyar,2026-10-17,5,1,10,afternoon,15,323.12,15,1.0,18,True
+Adyar,2026-10-17,5,1,10,evening,15,323.12,20,1.0,15,True
+Adyar,2026-10-17,5,1,10,night,15,323.12,7,0.33,5,True
+T. Nagar,2026-10-17,5,1,10,morning,30,459.84,13,0.4,12,True
+T. Nagar,2026-10-17,5,1,10,afternoon,30,459.84,21,0.73,22,True
+T. Nagar,2026-10-17,5,1,10,evening,30,459.84,22,0.7,21,True
+T. Nagar,2026-10-17,5,1,10,night,30,459.84,8,0.2,6,True
+Anna Nagar,2026-10-17,5,1,10,morning,33,530.9,12,0.33,11,True
+Anna Nagar,2026-10-17,5,1,10,afternoon,33,530.9,17,0.55,18,True
+Anna Nagar,2026-10-17,5,1,10,evening,33,530.9,21,0.52,17,True
+Anna Nagar,2026-10-17,5,1,10,night,33,530.9,7,0.3,10,True
+Mylapore,2026-10-17,5,1,10,morning,25,455.83,7,0.24,6,True
+Mylapore,2026-10-17,5,1,10,afternoon,25,455.83,11,0.32,8,True
+Mylapore,2026-10-17,5,1,10,evening,25,455.83,14,0.56,14,True
+Mylapore,2026-10-17,5,1,10,night,25,455.83,4,0.16,4,True
+OMR (Thoraipakkam),2026-10-17,5,1,10,morning,19,498.2,9,0.53,10,True
+OMR (Thoraipakkam),2026-10-17,5,1,10,afternoon,19,498.2,14,0.68,13,True
+OMR (Thoraipakkam),2026-10-17,5,1,10,evening,19,498.2,16,0.74,14,True
+OMR (Thoraipakkam),2026-10-17,5,1,10,night,19,498.2,6,0.32,6,True
+Nungambakkam,2026-10-17,5,1,10,morning,33,432.74,9,0.3,10,True
+Nungambakkam,2026-10-17,5,1,10,afternoon,33,432.74,13,0.33,11,True
+Nungambakkam,2026-10-17,5,1,10,evening,33,432.74,14,0.45,15,True
+Nungambakkam,2026-10-17,5,1,10,night,33,432.74,5,0.15,5,True
+Guindy,2026-10-18,6,1,10,morning,19,407.47,10,0.47,9,True
+Guindy,2026-10-18,6,1,10,afternoon,19,407.47,15,0.68,13,True
+Guindy,2026-10-18,6,1,10,evening,19,407.47,18,0.89,17,True
+Guindy,2026-10-18,6,1,10,night,19,407.47,6,0.37,7,True
+Velachery,2026-10-18,6,1,10,morning,22,436.17,9,0.41,9,True
+Velachery,2026-10-18,6,1,10,afternoon,22,436.17,14,0.55,12,True
+Velachery,2026-10-18,6,1,10,evening,22,436.17,14,0.59,13,True
+Velachery,2026-10-18,6,1,10,night,22,436.17,5,0.36,8,True
+Adyar,2026-10-18,6,1,10,morning,32,351.04,10,0.31,10,True
+Adyar,2026-10-18,6,1,10,afternoon,32,351.04,16,0.44,14,True
+Adyar,2026-10-18,6,1,10,evening,32,351.04,18,0.62,20,True
+Adyar,2026-10-18,6,1,10,night,32,351.04,6,0.25,8,True
+T. Nagar,2026-10-18,6,1,10,morning,26,432.2,12,0.31,8,True
+T. Nagar,2026-10-18,6,1,10,afternoon,26,432.2,22,0.69,18,True
+T. Nagar,2026-10-18,6,1,10,evening,26,432.2,24,0.96,25,True
+T. Nagar,2026-10-18,6,1,10,night,26,432.2,9,0.15,4,True
+Anna Nagar,2026-10-18,6,1,10,morning,12,452.05,13,1.0,13,True
+Anna Nagar,2026-10-18,6,1,10,afternoon,12,452.05,19,1.0,21,True
+Anna Nagar,2026-10-18,6,1,10,evening,12,452.05,22,1.0,20,True
+Anna Nagar,2026-10-18,6,1,10,night,12,452.05,7,0.5,6,True
+Mylapore,2026-10-18,6,1,10,morning,17,439.63,7,0.53,9,True
+Mylapore,2026-10-18,6,1,10,afternoon,17,439.63,10,0.71,12,True
+Mylapore,2026-10-18,6,1,10,evening,17,439.63,12,0.59,10,True
+Mylapore,2026-10-18,6,1,10,night,17,439.63,5,0.12,2,True
+OMR (Thoraipakkam),2026-10-18,6,1,10,morning,25,540.21,10,0.4,10,True
+OMR (Thoraipakkam),2026-10-18,6,1,10,afternoon,25,540.21,14,0.68,17,True
+OMR (Thoraipakkam),2026-10-18,6,1,10,evening,25,540.21,19,0.68,17,True
+OMR (Thoraipakkam),2026-10-18,6,1,10,night,25,540.21,7,0.32,8,True
+Nungambakkam,2026-10-18,6,1,10,morning,12,431.68,9,0.67,8,True
+Nungambakkam,2026-10-18,6,1,10,afternoon,12,431.68,13,1.0,12,True
+Nungambakkam,2026-10-18,6,1,10,evening,12,431.68,14,1.0,16,True
+Nungambakkam,2026-10-18,6,1,10,night,12,431.68,5,0.5,6,True
+Guindy,2026-10-19,0,0,10,morning,26,475.23,12,0.5,13,True
+Guindy,2026-10-19,0,0,10,afternoon,26,475.23,19,0.65,17,True
+Guindy,2026-10-19,0,0,10,evening,26,475.23,20,0.73,19,True
+Guindy,2026-10-19,0,0,10,night,26,475.23,8,0.31,8,True
+Velachery,2026-10-19,0,0,10,morning,20,380.52,9,0.4,8,True
+Velachery,2026-10-19,0,0,10,afternoon,20,380.52,13,0.7,14,True
+Velachery,2026-10-19,0,0,10,evening,20,380.52,15,0.8,16,True
+Velachery,2026-10-19,0,0,10,night,20,380.52,5,0.35,7,True
+Adyar,2026-10-19,0,0,10,morning,15,486.25,7,0.73,11,True
+Adyar,2026-10-19,0,0,10,afternoon,15,486.25,12,0.73,11,True
+Adyar,2026-10-19,0,0,10,evening,15,486.25,14,1.0,16,True
+Adyar,2026-10-19,0,0,10,night,15,486.25,5,0.27,4,True
+T. Nagar,2026-10-19,0,0,10,morning,22,482.18,11,0.36,8,True
+T. Nagar,2026-10-19,0,0,10,afternoon,22,482.18,15,0.73,16,True
+T. Nagar,2026-10-19,0,0,10,evening,22,482.18,20,0.82,18,True
+T. Nagar,2026-10-19,0,0,10,night,22,482.18,7,0.18,4,True
+Anna Nagar,2026-10-19,0,0,10,morning,33,448.54,9,0.33,11,True
+Anna Nagar,2026-10-19,0,0,10,afternoon,33,448.54,14,0.42,14,True
+Anna Nagar,2026-10-19,0,0,10,evening,33,448.54,16,0.55,18,True
+Anna Nagar,2026-10-19,0,0,10,night,33,448.54,6,0.15,5,True
+Mylapore,2026-10-19,0,0,10,morning,27,448.64,7,0.22,6,True
+Mylapore,2026-10-19,0,0,10,afternoon,27,448.64,10,0.41,11,True
+Mylapore,2026-10-19,0,0,10,evening,27,448.64,12,0.37,10,True
+Mylapore,2026-10-19,0,0,10,night,27,448.64,4,0.15,4,True
+OMR (Thoraipakkam),2026-10-19,0,0,10,morning,32,548.79,13,0.31,10,True
+OMR (Thoraipakkam),2026-10-19,0,0,10,afternoon,32,548.79,19,0.59,19,True
+OMR (Thoraipakkam),2026-10-19,0,0,10,evening,32,548.79,22,0.59,19,True
+OMR (Thoraipakkam),2026-10-19,0,0,10,night,32,548.79,8,0.19,6,True
+Nungambakkam,2026-10-19,0,0,10,morning,26,510.85,8,0.19,5,True
+Nungambakkam,2026-10-19,0,0,10,afternoon,26,510.85,13,0.46,12,True
+Nungambakkam,2026-10-19,0,0,10,evening,26,510.85,13,0.42,11,True
+Nungambakkam,2026-10-19,0,0,10,night,26,510.85,6,0.23,6,True
+Guindy,2026-10-20,1,0,10,morning,12,531.47,11,1.0,12,True
+Guindy,2026-10-20,1,0,10,afternoon,12,531.47,19,1.0,20,True
+Guindy,2026-10-20,1,0,10,evening,12,531.47,19,1.0,18,True
+Guindy,2026-10-20,1,0,10,night,12,531.47,7,0.67,8,True
+Velachery,2026-10-20,1,0,10,morning,32,436.17,9,0.25,8,True
+Velachery,2026-10-20,1,0,10,afternoon,32,436.17,14,0.34,11,True
+Velachery,2026-10-20,1,0,10,evening,32,436.17,16,0.5,16,True
+Velachery,2026-10-20,1,0,10,night,32,436.17,5,0.19,6,True
+Adyar,2026-10-20,1,0,10,morning,32,465.73,8,0.22,7,True
+Adyar,2026-10-20,1,0,10,afternoon,32,465.73,12,0.38,12,True
+Adyar,2026-10-20,1,0,10,evening,32,465.73,15,0.41,13,True
+Adyar,2026-10-20,1,0,10,night,32,465.73,5,0.16,5,True
+T. Nagar,2026-10-20,1,0,10,morning,12,397.59,10,0.83,10,True
+T. Nagar,2026-10-20,1,0,10,afternoon,12,397.59,17,1.0,15,True
+T. Nagar,2026-10-20,1,0,10,evening,12,397.59,19,1.0,18,True
+T. Nagar,2026-10-20,1,0,10,night,12,397.59,6,0.25,3,True
+Anna Nagar,2026-10-20,1,0,10,morning,24,535.8,9,0.38,9,True
+Anna Nagar,2026-10-20,1,0,10,afternoon,24,535.8,15,0.5,12,True
+Anna Nagar,2026-10-20,1,0,10,evening,24,535.8,15,0.71,17,True
+Anna Nagar,2026-10-20,1,0,10,night,24,535.8,6,0.17,4,True
+Mylapore,2026-10-20,1,0,10,morning,14,493.24,7,0.64,9,True
+Mylapore,2026-10-20,1,0,10,afternoon,14,493.24,10,0.79,11,True
+Mylapore,2026-10-20,1,0,10,evening,14,493.24,12,1.0,15,True
+Mylapore,2026-10-20,1,0,10,night,14,493.24,4,0.14,2,True
+OMR (Thoraipakkam),2026-10-20,1,0,10,morning,30,466.32,13,0.5,15,True
+OMR (Thoraipakkam),2026-10-20,1,0,10,afternoon,30,466.32,19,0.5,15,True
+OMR (Thoraipakkam),2026-10-20,1,0,10,evening,30,466.32,23,0.7,21,True
+OMR (Thoraipakkam),2026-10-20,1,0,10,night,30,466.32,8,0.37,11,True
+Nungambakkam,2026-10-20,1,0,10,morning,20,388.91,8,0.6,12,True
+Nungambakkam,2026-10-20,1,0,10,afternoon,20,388.91,13,0.75,15,True
+Nungambakkam,2026-10-20,1,0,10,evening,20,388.91,16,0.8,16,True
+Nungambakkam,2026-10-20,1,0,10,night,20,388.91,5,0.25,5,True
+Guindy,2026-10-21,2,0,10,morning,24,423.7,13,0.58,14,True
+Guindy,2026-10-21,2,0,10,afternoon,24,423.7,18,0.71,17,True
+Guindy,2026-10-21,2,0,10,evening,24,423.7,20,0.92,22,True
+Guindy,2026-10-21,2,0,10,night,24,423.7,8,0.42,10,True
+Velachery,2026-10-21,2,0,10,morning,21,427.63,8,0.19,4,True
+Velachery,2026-10-21,2,0,10,afternoon,21,427.63,12,0.43,9,True
+Velachery,2026-10-21,2,0,10,evening,21,427.63,14,0.76,16,True
+Velachery,2026-10-21,2,0,10,night,21,427.63,6,0.24,5,True
+Adyar,2026-10-21,2,0,10,morning,14,485.74,8,0.64,9,True
+Adyar,2026-10-21,2,0,10,afternoon,14,485.74,13,0.93,13,True
+Adyar,2026-10-21,2,0,10,evening,14,485.74,15,0.93,13,True
+Adyar,2026-10-21,2,0,10,night,14,485.74,5,0.21,3,True
+T. Nagar,2026-10-21,2,0,10,morning,25,432.91,10,0.4,10,True
+T. Nagar,2026-10-21,2,0,10,afternoon,25,432.91,15,0.68,17,True
+T. Nagar,2026-10-21,2,0,10,evening,25,432.91,20,0.68,17,True
+T. Nagar,2026-10-21,2,0,10,night,25,432.91,7,0.36,9,True
+Anna Nagar,2026-10-21,2,0,10,morning,22,469.65,8,0.45,10,True
+Anna Nagar,2026-10-21,2,0,10,afternoon,22,469.65,14,0.68,15,True
+Anna Nagar,2026-10-21,2,0,10,evening,22,469.65,16,0.73,16,True
+Anna Nagar,2026-10-21,2,0,10,night,22,469.65,6,0.27,6,True
+Mylapore,2026-10-21,2,0,10,morning,29,506.49,8,0.21,6,True
+Mylapore,2026-10-21,2,0,10,afternoon,29,506.49,10,0.38,11,True
+Mylapore,2026-10-21,2,0,10,evening,29,506.49,12,0.41,12,True
+Mylapore,2026-10-21,2,0,10,night,29,506.49,5,0.21,6,True
+OMR (Thoraipakkam),2026-10-21,2,0,10,morning,13,475.09,13,0.85,11,True
+OMR (Thoraipakkam),2026-10-21,2,0,10,afternoon,13,475.09,17,1.0,15,True
+OMR (Thoraipakkam),2026-10-21,2,0,10,evening,13,475.09,23,1.0,22,True
+OMR (Thoraipakkam),2026-10-21,2,0,10,night,13,475.09,8,0.62,8,True
+Nungambakkam,2026-10-21,2,0,10,morning,12,457.18,8,0.5,6,True
+Nungambakkam,2026-10-21,2,0,10,afternoon,12,457.18,14,1.0,16,True
+Nungambakkam,2026-10-21,2,0,10,evening,12,457.18,16,1.0,13,True
+Nungambakkam,2026-10-21,2,0,10,night,12,457.18,5,0.58,7,True
+Guindy,2026-10-22,3,0,10,morning,16,508.36,11,0.62,10,True
+Guindy,2026-10-22,3,0,10,afternoon,16,508.36,17,1.0,17,True
+Guindy,2026-10-22,3,0,10,evening,16,508.36,20,1.0,16,True
+Guindy,2026-10-22,3,0,10,night,16,508.36,7,0.5,8,True
+Velachery,2026-10-22,3,0,10,morning,27,466.67,9,0.33,9,True
+Velachery,2026-10-22,3,0,10,afternoon,27,466.67,14,0.44,12,True
+Velachery,2026-10-22,3,0,10,evening,27,466.67,16,0.59,16,True
+Velachery,2026-10-22,3,0,10,night,27,466.67,6,0.3,8,True
+Adyar,2026-10-22,3,0,10,morning,17,351.32,7,0.53,9,True
+Adyar,2026-10-22,3,0,10,afternoon,17,351.32,13,0.59,10,True
+Adyar,2026-10-22,3,0,10,evening,17,351.32,13,0.82,14,True
+Adyar,2026-10-22,3,0,10,night,17,351.32,5,0.0,0,True
+T. Nagar,2026-10-22,3,0,10,morning,28,439.53,11,0.25,7,True
+T. Nagar,2026-10-22,3,0,10,afternoon,28,439.53,14,0.54,15,True
+T. Nagar,2026-10-22,3,0,10,evening,28,439.53,16,0.71,20,True
+T. Nagar,2026-10-22,3,0,10,night,28,439.53,7,0.18,5,True
+Anna Nagar,2026-10-22,3,0,10,morning,34,354.75,8,0.29,10,True
+Anna Nagar,2026-10-22,3,0,10,afternoon,34,354.75,13,0.35,12,True
+Anna Nagar,2026-10-22,3,0,10,evening,34,354.75,17,0.5,17,True
+Anna Nagar,2026-10-22,3,0,10,night,34,354.75,6,0.21,7,True
+Mylapore,2026-10-22,3,0,10,morning,26,381.17,7,0.35,9,True
+Mylapore,2026-10-22,3,0,10,afternoon,26,381.17,11,0.35,9,True
+Mylapore,2026-10-22,3,0,10,evening,26,381.17,14,0.54,14,True
+Mylapore,2026-10-22,3,0,10,night,26,381.17,5,0.15,4,True
+OMR (Thoraipakkam),2026-10-22,3,0,10,morning,18,388.37,14,0.61,11,True
+OMR (Thoraipakkam),2026-10-22,3,0,10,afternoon,18,388.37,20,1.0,19,True
+OMR (Thoraipakkam),2026-10-22,3,0,10,evening,18,388.37,21,1.0,20,True
+OMR (Thoraipakkam),2026-10-22,3,0,10,night,18,388.37,7,0.33,6,True
+Nungambakkam,2026-10-22,3,0,10,morning,17,439.59,9,0.71,12,True
+Nungambakkam,2026-10-22,3,0,10,afternoon,17,439.59,12,0.71,12,True
+Nungambakkam,2026-10-22,3,0,10,evening,17,439.59,15,0.88,15,True
+Nungambakkam,2026-10-22,3,0,10,night,17,439.59,5,0.24,4,True
+Guindy,2026-10-23,4,0,10,morning,12,468.94,12,1.0,13,True
+Guindy,2026-10-23,4,0,10,afternoon,12,468.94,19,1.0,16,True
+Guindy,2026-10-23,4,0,10,evening,12,468.94,20,1.0,20,True
+Guindy,2026-10-23,4,0,10,night,12,468.94,7,0.67,8,True
+Velachery,2026-10-23,4,0,10,morning,13,508.25,9,0.38,5,True
+Velachery,2026-10-23,4,0,10,afternoon,13,508.25,13,1.0,14,True
+Velachery,2026-10-23,4,0,10,evening,13,508.25,15,1.0,14,True
+Velachery,2026-10-23,4,0,10,night,13,508.25,5,0.31,4,True
+Adyar,2026-10-23,4,0,10,morning,33,507.3,7,0.3,10,True
+Adyar,2026-10-23,4,0,10,afternoon,33,507.3,12,0.36,12,True
+Adyar,2026-10-23,4,0,10,evening,33,507.3,14,0.45,15,True
+Adyar,2026-10-23,4,0,10,night,33,507.3,5,0.12,4,True
+T. Nagar,2026-10-23,4,0,10,morning,27,366.28,10,0.41,11,True
+T. Nagar,2026-10-23,4,0,10,afternoon,27,366.28,14,0.67,18,True
+T. Nagar,2026-10-23,4,0,10,evening,27,366.28,17,0.59,16,True
+T. Nagar,2026-10-23,4,0,10,night,27,366.28,7,0.3,8,True
+Anna Nagar,2026-10-23,4,0,10,morning,16,354.77,9,0.75,12,True
+Anna Nagar,2026-10-23,4,0,10,afternoon,16,354.77,13,0.69,11,True
+Anna Nagar,2026-10-23,4,0,10,evening,16,354.77,15,1.0,23,True
+Anna Nagar,2026-10-23,4,0,10,night,16,354.77,6,0.31,5,True
+Mylapore,2026-10-23,4,0,10,morning,12,407.6,7,0.58,7,True
+Mylapore,2026-10-23,4,0,10,afternoon,12,407.6,10,1.0,13,True
+Mylapore,2026-10-23,4,0,10,evening,12,407.6,13,0.92,11,True
+Mylapore,2026-10-23,4,0,10,night,12,407.6,4,0.5,6,True
+OMR (Thoraipakkam),2026-10-23,4,0,10,morning,15,404.95,13,0.53,8,True
+OMR (Thoraipakkam),2026-10-23,4,0,10,afternoon,15,404.95,18,1.0,19,True
+OMR (Thoraipakkam),2026-10-23,4,0,10,evening,15,404.95,20,1.0,23,True
+OMR (Thoraipakkam),2026-10-23,4,0,10,night,15,404.95,8,0.67,10,True
+Nungambakkam,2026-10-23,4,0,10,morning,14,436.18,8,0.5,7,True
+Nungambakkam,2026-10-23,4,0,10,afternoon,14,436.18,12,0.79,11,True
+Nungambakkam,2026-10-23,4,0,10,evening,14,436.18,14,0.93,13,True
+Nungambakkam,2026-10-23,4,0,10,night,14,436.18,5,0.43,6,True
+Guindy,2026-10-24,5,1,10,morning,32,513.55,10,0.25,8,True
+Guindy,2026-10-24,5,1,10,afternoon,32,513.55,14,0.47,15,True
+Guindy,2026-10-24,5,1,10,evening,32,513.55,18,0.5,16,True
+Guindy,2026-10-24,5,1,10,night,32,513.55,6,0.31,10,True
+Velachery,2026-10-24,5,1,10,morning,26,427.11,10,0.35,9,True
+Velachery,2026-10-24,5,1,10,afternoon,26,427.11,14,0.54,14,True
+Velachery,2026-10-24,5,1,10,evening,26,427.11,17,0.54,14,True
+Velachery,2026-10-24,5,1,10,night,26,427.11,6,0.23,6,True
+Adyar,2026-10-24,5,1,10,morning,30,454.65,11,0.37,11,True
+Adyar,2026-10-24,5,1,10,afternoon,30,454.65,14,0.6,18,True
+Adyar,2026-10-24,5,1,10,evening,30,454.65,20,0.57,17,True
+Adyar,2026-10-24,5,1,10,night,30,454.65,6,0.07,2,True
+T. Nagar,2026-10-24,5,1,10,morning,21,465.65,12,0.67,14,True
+T. Nagar,2026-10-24,5,1,10,afternoon,21,465.65,19,0.86,18,True
+T. Nagar,2026-10-24,5,1,10,evening,21,465.65,22,1.0,24,True
+T. Nagar,2026-10-24,5,1,10,night,21,465.65,9,0.38,8,True
+Anna Nagar,2026-10-24,5,1,10,morning,16,476.14,13,0.69,11,True
+Anna Nagar,2026-10-24,5,1,10,afternoon,16,476.14,17,1.0,19,True
+Anna Nagar,2026-10-24,5,1,10,evening,16,476.14,20,1.0,23,True
+Anna Nagar,2026-10-24,5,1,10,night,16,476.14,7,0.5,8,True
+Mylapore,2026-10-24,5,1,10,morning,28,383.95,7,0.29,8,True
+Mylapore,2026-10-24,5,1,10,afternoon,28,383.95,12,0.32,9,True
+Mylapore,2026-10-24,5,1,10,evening,28,383.95,12,0.5,14,True
+Mylapore,2026-10-24,5,1,10,night,28,383.95,4,0.18,5,True
+OMR (Thoraipakkam),2026-10-24,5,1,10,morning,31,483.62,9,0.32,10,True
+OMR (Thoraipakkam),2026-10-24,5,1,10,afternoon,31,483.62,16,0.52,16,True
+OMR (Thoraipakkam),2026-10-24,5,1,10,evening,31,483.62,17,0.55,17,True
+OMR (Thoraipakkam),2026-10-24,5,1,10,night,31,483.62,7,0.23,7,True
+Nungambakkam,2026-10-24,5,1,10,morning,20,350.5,8,0.4,8,True
+Nungambakkam,2026-10-24,5,1,10,afternoon,20,350.5,13,0.6,12,True
+Nungambakkam,2026-10-24,5,1,10,evening,20,350.5,15,0.65,13,True
+Nungambakkam,2026-10-24,5,1,10,night,20,350.5,5,0.4,8,True
+Guindy,2026-10-25,6,1,10,morning,18,554.4,9,0.61,11,True
+Guindy,2026-10-25,6,1,10,afternoon,18,554.4,13,0.94,17,True
+Guindy,2026-10-25,6,1,10,evening,18,554.4,17,0.89,16,True
+Guindy,2026-10-25,6,1,10,night,18,554.4,6,0.28,5,True
+Velachery,2026-10-25,6,1,10,morning,19,449.55,8,0.26,5,True
+Velachery,2026-10-25,6,1,10,afternoon,19,449.55,12,0.53,10,True
+Velachery,2026-10-25,6,1,10,evening,19,449.55,14,0.84,16,True
+Velachery,2026-10-25,6,1,10,night,19,449.55,5,0.32,6,True
+Adyar,2026-10-25,6,1,10,morning,31,414.17,11,0.39,12,True
+Adyar,2026-10-25,6,1,10,afternoon,31,414.17,16,0.48,15,True
+Adyar,2026-10-25,6,1,10,evening,31,414.17,18,0.61,19,True
+Adyar,2026-10-25,6,1,10,night,31,414.17,6,0.16,5,True
+T. Nagar,2026-10-25,6,1,10,morning,24,555.26,14,0.58,14,True
+T. Nagar,2026-10-25,6,1,10,afternoon,24,555.26,18,0.71,17,True
+T. Nagar,2026-10-25,6,1,10,evening,24,555.26,23,0.88,21,True
+T. Nagar,2026-10-25,6,1,10,night,24,555.26,8,0.46,11,True
+Anna Nagar,2026-10-25,6,1,10,morning,17,500.03,13,0.65,11,True
+Anna Nagar,2026-10-25,6,1,10,afternoon,17,500.03,17,1.0,21,True
+Anna Nagar,2026-10-25,6,1,10,evening,17,500.03,21,1.0,23,True
+Anna Nagar,2026-10-25,6,1,10,night,17,500.03,8,0.71,12,True
+Mylapore,2026-10-25,6,1,10,morning,30,439.49,7,0.23,7,True
+Mylapore,2026-10-25,6,1,10,afternoon,30,439.49,11,0.3,9,True
+Mylapore,2026-10-25,6,1,10,evening,30,439.49,12,0.43,13,True
+Mylapore,2026-10-25,6,1,10,night,30,439.49,4,0.27,8,True
+OMR (Thoraipakkam),2026-10-25,6,1,10,morning,29,474.93,11,0.41,12,True
+OMR (Thoraipakkam),2026-10-25,6,1,10,afternoon,29,474.93,15,0.52,15,True
+OMR (Thoraipakkam),2026-10-25,6,1,10,evening,29,474.93,17,0.62,18,True
+OMR (Thoraipakkam),2026-10-25,6,1,10,night,29,474.93,6,0.14,4,True
+Nungambakkam,2026-10-25,6,1,10,morning,29,503.95,8,0.34,10,True
+Nungambakkam,2026-10-25,6,1,10,afternoon,29,503.95,13,0.45,13,True
+Nungambakkam,2026-10-25,6,1,10,evening,29,503.95,14,0.55,16,True
+Nungambakkam,2026-10-25,6,1,10,night,29,503.95,5,0.1,3,True
+Guindy,2026-10-26,0,0,10,morning,17,402.9,12,0.65,11,True
+Guindy,2026-10-26,0,0,10,afternoon,17,402.9,16,1.0,18,True
+Guindy,2026-10-26,0,0,10,evening,17,402.9,23,1.0,20,True
+Guindy,2026-10-26,0,0,10,night,17,402.9,8,0.35,6,True
+Velachery,2026-10-26,0,0,10,morning,12,463.65,9,1.0,13,True
+Velachery,2026-10-26,0,0,10,afternoon,12,463.65,13,1.0,14,True
+Velachery,2026-10-26,0,0,10,evening,12,463.65,15,1.0,16,True
+Velachery,2026-10-26,0,0,10,night,12,463.65,6,0.5,6,True
+Adyar,2026-10-26,0,0,10,morning,29,434.11,8,0.28,8,True
+Adyar,2026-10-26,0,0,10,afternoon,29,434.11,12,0.28,8,True
+Adyar,2026-10-26,0,0,10,evening,29,434.11,13,0.45,13,True
+Adyar,2026-10-26,0,0,10,night,29,434.11,5,0.21,6,True
+T. Nagar,2026-10-26,0,0,10,morning,15,405.46,11,0.93,14,True
+T. Nagar,2026-10-26,0,0,10,afternoon,15,405.46,14,1.0,15,True
+T. Nagar,2026-10-26,0,0,10,evening,15,405.46,19,1.0,19,True
+T. Nagar,2026-10-26,0,0,10,night,15,405.46,7,0.53,8,True
+Anna Nagar,2026-10-26,0,0,10,morning,20,445.24,9,0.45,9,True
+Anna Nagar,2026-10-26,0,0,10,afternoon,20,445.24,15,0.7,14,True
+Anna Nagar,2026-10-26,0,0,10,evening,20,445.24,16,0.75,15,True
+Anna Nagar,2026-10-26,0,0,10,night,20,445.24,6,0.15,3,True
+Mylapore,2026-10-26,0,0,10,morning,13,406.95,8,0.54,7,True
+Mylapore,2026-10-26,0,0,10,afternoon,13,406.95,10,1.0,13,True
+Mylapore,2026-10-26,0,0,10,evening,13,406.95,14,1.0,13,True
+Mylapore,2026-10-26,0,0,10,night,13,406.95,5,0.38,5,True
+OMR (Thoraipakkam),2026-10-26,0,0,10,morning,19,398.92,14,0.58,11,True
+OMR (Thoraipakkam),2026-10-26,0,0,10,afternoon,19,398.92,19,1.0,23,True
+OMR (Thoraipakkam),2026-10-26,0,0,10,evening,19,398.92,20,1.0,23,True
+OMR (Thoraipakkam),2026-10-26,0,0,10,night,19,398.92,8,0.47,9,True
+Nungambakkam,2026-10-26,0,0,10,morning,17,491.3,9,0.53,9,True
+Nungambakkam,2026-10-26,0,0,10,afternoon,17,491.3,12,0.94,16,True
+Nungambakkam,2026-10-26,0,0,10,evening,17,491.3,14,0.88,15,True
+Nungambakkam,2026-10-26,0,0,10,night,17,491.3,5,0.41,7,True
+Guindy,2026-10-27,1,0,10,morning,16,495.21,13,0.62,10,True
+Guindy,2026-10-27,1,0,10,afternoon,16,495.21,16,0.94,15,True
+Guindy,2026-10-27,1,0,10,evening,16,495.21,19,1.0,24,True
+Guindy,2026-10-27,1,0,10,night,16,495.21,8,0.69,11,True
+Velachery,2026-10-27,1,0,10,morning,20,466.01,8,0.45,9,True
+Velachery,2026-10-27,1,0,10,afternoon,20,466.01,13,0.65,13,True
+Velachery,2026-10-27,1,0,10,evening,20,466.01,16,0.8,16,True
+Velachery,2026-10-27,1,0,10,night,20,466.01,6,0.25,5,True
+Adyar,2026-10-27,1,0,10,morning,34,441.86,8,0.18,6,True
+Adyar,2026-10-27,1,0,10,afternoon,34,441.86,13,0.32,11,True
+Adyar,2026-10-27,1,0,10,evening,34,441.86,14,0.44,15,True
+Adyar,2026-10-27,1,0,10,night,34,441.86,5,0.21,7,True
+T. Nagar,2026-10-27,1,0,10,morning,30,432.3,11,0.3,9,True
+T. Nagar,2026-10-27,1,0,10,afternoon,30,432.3,15,0.53,16,True
+T. Nagar,2026-10-27,1,0,10,evening,30,432.3,18,0.53,16,True
+T. Nagar,2026-10-27,1,0,10,night,30,432.3,7,0.3,9,True
+Anna Nagar,2026-10-27,1,0,10,morning,13,476.71,10,0.62,8,True
+Anna Nagar,2026-10-27,1,0,10,afternoon,13,476.71,15,1.0,13,True
+Anna Nagar,2026-10-27,1,0,10,evening,13,476.71,17,1.0,14,True
+Anna Nagar,2026-10-27,1,0,10,night,13,476.71,6,0.85,11,True
+Mylapore,2026-10-27,1,0,10,morning,29,490.39,7,0.24,7,True
+Mylapore,2026-10-27,1,0,10,afternoon,29,490.39,10,0.38,11,True
+Mylapore,2026-10-27,1,0,10,evening,29,490.39,13,0.55,16,True
+Mylapore,2026-10-27,1,0,10,night,29,490.39,5,0.1,3,True
+OMR (Thoraipakkam),2026-10-27,1,0,10,morning,24,409.19,13,0.42,10,True
+OMR (Thoraipakkam),2026-10-27,1,0,10,afternoon,24,409.19,18,0.92,22,True
+OMR (Thoraipakkam),2026-10-27,1,0,10,evening,24,409.19,21,0.92,22,True
+OMR (Thoraipakkam),2026-10-27,1,0,10,night,24,409.19,8,0.42,10,True
+Nungambakkam,2026-10-27,1,0,10,morning,24,421.44,8,0.38,9,True
+Nungambakkam,2026-10-27,1,0,10,afternoon,24,421.44,13,0.58,14,True
+Nungambakkam,2026-10-27,1,0,10,evening,24,421.44,14,0.54,13,True
+Nungambakkam,2026-10-27,1,0,10,night,24,421.44,6,0.12,3,True
+Guindy,2026-10-28,2,0,10,morning,30,551.38,11,0.4,12,True
+Guindy,2026-10-28,2,0,10,afternoon,30,551.38,20,0.6,18,True
+Guindy,2026-10-28,2,0,10,evening,30,551.38,20,0.73,22,True
+Guindy,2026-10-28,2,0,10,night,30,551.38,7,0.2,6,True
+Velachery,2026-10-28,2,0,10,morning,16,478.42,8,0.62,10,True
+Velachery,2026-10-28,2,0,10,afternoon,16,478.42,12,0.88,14,True
+Velachery,2026-10-28,2,0,10,evening,16,478.42,15,0.94,15,True
+Velachery,2026-10-28,2,0,10,night,16,478.42,6,0.25,4,True
+Adyar,2026-10-28,2,0,10,morning,29,457.17,8,0.34,10,True
+Adyar,2026-10-28,2,0,10,afternoon,29,457.17,12,0.52,15,True
+Adyar,2026-10-28,2,0,10,evening,29,457.17,15,0.45,13,True
+Adyar,2026-10-28,2,0,10,night,29,457.17,5,0.17,5,True
+T. Nagar,2026-10-28,2,0,10,morning,27,471.92,10,0.37,10,True
+T. Nagar,2026-10-28,2,0,10,afternoon,27,471.92,17,0.48,13,True
+T. Nagar,2026-10-28,2,0,10,evening,27,471.92,19,0.67,18,True
+T. Nagar,2026-10-28,2,0,10,night,27,471.92,7,0.15,4,True
+Anna Nagar,2026-10-28,2,0,10,morning,14,498.21,9,0.64,9,True
+Anna Nagar,2026-10-28,2,0,10,afternoon,14,498.21,15,1.0,14,True
+Anna Nagar,2026-10-28,2,0,10,evening,14,498.21,16,1.0,15,True
+Anna Nagar,2026-10-28,2,0,10,night,14,498.21,5,0.43,6,True
+Mylapore,2026-10-28,2,0,10,morning,15,513.93,7,0.53,8,True
+Mylapore,2026-10-28,2,0,10,afternoon,15,513.93,12,0.6,9,True
+Mylapore,2026-10-28,2,0,10,evening,15,513.93,13,0.67,10,True
+Mylapore,2026-10-28,2,0,10,night,15,513.93,4,0.33,5,True
+OMR (Thoraipakkam),2026-10-28,2,0,10,morning,34,489.85,11,0.38,13,True
+OMR (Thoraipakkam),2026-10-28,2,0,10,afternoon,34,489.85,21,0.47,16,True
+OMR (Thoraipakkam),2026-10-28,2,0,10,evening,34,489.85,21,0.71,24,True
+OMR (Thoraipakkam),2026-10-28,2,0,10,night,34,489.85,7,0.15,5,True
+Nungambakkam,2026-10-28,2,0,10,morning,19,381.47,8,0.53,10,True
+Nungambakkam,2026-10-28,2,0,10,afternoon,19,381.47,13,0.74,14,True
+Nungambakkam,2026-10-28,2,0,10,evening,19,381.47,14,0.63,12,True
+Nungambakkam,2026-10-28,2,0,10,night,19,381.47,5,0.26,5,True
+Guindy,2026-10-29,3,0,10,morning,14,430.73,11,0.86,12,True
+Guindy,2026-10-29,3,0,10,afternoon,14,430.73,18,1.0,17,True
+Guindy,2026-10-29,3,0,10,evening,14,430.73,20,1.0,22,True
+Guindy,2026-10-29,3,0,10,night,14,430.73,8,0.36,5,True
+Velachery,2026-10-29,3,0,10,morning,34,434.49,9,0.26,9,True
+Velachery,2026-10-29,3,0,10,afternoon,34,434.49,14,0.35,12,True
+Velachery,2026-10-29,3,0,10,evening,34,434.49,15,0.44,15,True
+Velachery,2026-10-29,3,0,10,night,34,434.49,5,0.18,6,True
+Adyar,2026-10-29,3,0,10,morning,34,504.34,8,0.21,7,True
+Adyar,2026-10-29,3,0,10,afternoon,34,504.34,12,0.38,13,True
+Adyar,2026-10-29,3,0,10,evening,34,504.34,14,0.38,13,True
+Adyar,2026-10-29,3,0,10,night,34,504.34,5,0.15,5,True
+T. Nagar,2026-10-29,3,0,10,morning,12,498.47,11,1.0,12,True
+T. Nagar,2026-10-29,3,0,10,afternoon,12,498.47,15,1.0,19,True
+T. Nagar,2026-10-29,3,0,10,evening,12,498.47,17,1.0,23,True
+T. Nagar,2026-10-29,3,0,10,night,12,498.47,6,0.5,6,True
+Anna Nagar,2026-10-29,3,0,10,morning,14,392.79,10,0.5,7,True
+Anna Nagar,2026-10-29,3,0,10,afternoon,14,392.79,13,1.0,15,True
+Anna Nagar,2026-10-29,3,0,10,evening,14,392.79,17,1.0,17,True
+Anna Nagar,2026-10-29,3,0,10,night,14,392.79,6,0.5,7,True
+Mylapore,2026-10-29,3,0,10,morning,17,520.32,7,0.29,5,True
+Mylapore,2026-10-29,3,0,10,afternoon,17,520.32,12,0.65,11,True
+Mylapore,2026-10-29,3,0,10,evening,17,520.32,12,1.0,17,True
+Mylapore,2026-10-29,3,0,10,night,17,520.32,4,0.35,6,True
+OMR (Thoraipakkam),2026-10-29,3,0,10,morning,30,388.64,11,0.5,15,True
+OMR (Thoraipakkam),2026-10-29,3,0,10,afternoon,30,388.64,20,0.6,18,True
+OMR (Thoraipakkam),2026-10-29,3,0,10,evening,30,388.64,22,0.73,22,True
+OMR (Thoraipakkam),2026-10-29,3,0,10,night,30,388.64,7,0.33,10,True
+Nungambakkam,2026-10-29,3,0,10,morning,18,474.7,9,0.28,5,True
+Nungambakkam,2026-10-29,3,0,10,afternoon,18,474.7,14,0.78,14,True
+Nungambakkam,2026-10-29,3,0,10,evening,18,474.7,16,0.89,16,True
+Nungambakkam,2026-10-29,3,0,10,night,18,474.7,5,0.44,8,True

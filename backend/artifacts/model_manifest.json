@@ -1,0 +1,76 @@
+{
+  "active_models": {
+    "recommender": {
+      "model_name": "recommender",
+      "version": "v202610232031",
+      "model_type": "gradient_boosting",
+      "artifact_path": "H:\\PayingGuest\\backend\\artifacts\\recommender_gradient_boosting_v202610232031.joblib",
+      "run_id": "bad074f1d0ce4532b05b7f266c4d4b04",
+      "metrics": {
+        "precision@5": 1.0,
+        "recall@5": 0.0083,
+        "ndcg@5": 1.0,
+        "hit_rate@5": 1.0,
+        "baseline_ndcg@5": 1.0,
+        "baseline_precision@5": 1.0
+      },
+      "parameters": {
+        "n_estimators": 100,
+        "max_depth": 4
+      },
+      "status": "active",
+      "created_at": "2026-10-23T15:01:34.392781+00:00",
+      "activated_at": "2026-10-23T15:01:34.409297+00:00"
+    },
+    "demand_predictor": {
+      "model_name": "demand_predictor",
+      "version": "v202610232032",
+      "model_type": "hist_gradient_boosting",
+      "artifact_path": "H:\\PayingGuest\\backend\\artifacts\\demand_hist_gradient_boosting_v202610232032.joblib",
+      "run_id": "6aef5e321e48442481ed12274cd0d285",
+      "metrics": {
+        "mae": 1.7086,
+        "rmse": 2.1261,
+        "mape": 19.46,
+        "baseline_mae": 1.7118,
+        "baseline_rmse": 2.1441
+      },
+      "parameters": {
+        "model_type": "hist_gradient_boosting"
+      },
+      "status": "active",
+      "created_at": "2026-10-23T15:02:02.745432+00:00",
+      "activated_at": "2026-10-23T15:02:02.761642+00:00"
+    }
+  },
+  "candidates": {},
+  "history": [
+    {
+      "version": "v1.0.0-baseline",
+      "model_type": "weighted_baseline",
+      "artifact_path": "",
+      "status": "active",
+      "metrics": {
+        "precision@5": 0.74,
+        "recall@5": 0.68,
+        "ndcg@5": 0.79,
+        "hit_rate@5": 0.92
+      },
+      "activated_at": "2026-10-23T15:01:34.392781+00:00",
+      "archived_at": "2026-10-23T15:01:34.409297+00:00"
+    },
+    {
+      "version": "v1.0.0-baseline",
+      "model_type": "historical_average",
+      "artifact_path": "",
+      "status": "active",
+      "metrics": {
+        "mae": 2.45,
+        "rmse": 3.12,
+        "mape": 16.4
+      },
+      "activated_at": "2026-10-23T15:01:34.392781+00:00",
+      "archived_at": "2026-10-23T15:02:02.761642+00:00"
+    }
+  ]
+}

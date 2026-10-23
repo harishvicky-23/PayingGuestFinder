@@ -1,0 +1,64 @@
+name: CI
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  backend-test:
+    name: Backend Tests & ML Validation
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install Backend Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install fastapi uvicorn sqlalchemy alembic pydantic pydantic-settings python-jose passlib bcrypt python-multipart scikit-learn pandas numpy mlflow-skinny pytest httpx
+
+      - name: Run Alembic Migrations & Seed
+        run: |
+          alembic upgrade head
+          python -m backend.scripts.seed_data
+
+      - name: Run Model Training & Validation
+        run: |
+          python -m backend.app.ml.train_recommender
+          python -m backend.app.ml.train_demand_model
+
+      - name: Run Pytest Suite
+        run: |
+          pytest backend/tests -v
+
+  frontend-test:
+    name: Frontend Lint & Vitest Suite
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: "npm"
+          cache-dependency-path: frontend/package-lock.json
+
+      - name: Install Frontend Dependencies
+        working-directory: ./frontend
+        run: npm ci
+
+      - name: Run Vitest Suite
+        working-directory: ./frontend
+        run: npm test -- --run
+
+      - name: Verify Production Build
+        working-directory: ./frontend
+        run: npm run build
